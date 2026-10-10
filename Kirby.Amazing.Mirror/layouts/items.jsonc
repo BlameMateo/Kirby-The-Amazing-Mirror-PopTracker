@@ -1,0 +1,295 @@
+{
+  // sets layouts for shadred items grids
+  // bigger example: https://github.com/Cyb3RGER/sm_ap_tracker/blob/main/layouts/items.json
+  "abilities": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 60,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "cook",
+                "burning",
+                "beam",
+                "stone",
+                "smash"
+              ],
+              [
+                "tornado",
+                "crash",
+                "bomb",
+                "missile",
+                "throw"
+              ],
+              [
+                "ufo",
+                "fire",
+                "spark",
+                "cutter",
+                "sword"
+              ],
+              [
+                "fighter",
+                "laser",
+                "cupid",
+                "ice",
+                "hammer"
+              ],
+              [
+                "parasol",
+                "sleep",
+                "magic",
+                "wheel",
+                "mini"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+  "collection": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "orientation": "center",
+        "type": "array",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, -1", 
+            "item_size": 25,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "kirb",
+                "pink",
+                "yellow",
+                "red",
+                "green",
+                "kirby's",
+                "happy",
+                "battle",
+                "spunky",
+                "beginning",
+                "small food",
+                "hunk of meat"
+              ],
+              [
+                "snow",
+                "carbon",
+                "ocean",
+                "sapphire",
+                "grape",
+                "sound effects",
+                "secret sounds",
+                "secret notes",
+                "dream",
+                "enemy",
+                "energy drink",
+                "max tomato"
+              ],
+              [
+                "emerald",
+                "orange",
+                "chocolate",
+                "cherry",
+                "chalk",
+                "world map",
+                "rainbow route",
+                "mustard mountain",
+                "moonlight mansion",
+                "peppermint palace",
+                "invincibility candy",
+                "battery"
+              ],
+              [
+                "sound player",
+                "carrot vitality",
+                "olive vitality",
+                "radish vitality",
+                "candy vitality",
+                "olive ocean",
+                "candy constellation",
+                "radish ruins",
+                "carrot castle",
+                "cabbage cavern",
+                "",
+                "1-up"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+
+
+  "settings": {
+    "type": "array",
+    "orientation": "center",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "10,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "item_size": 65,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "ground_items",
+                "roomsanity",
+                "minny",
+                "passive",
+                "minibosses",
+                "boss_spawn"
+              ],
+              [
+                "tab_switch",
+                "room_switch",
+                "current_location"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+  "statues": {
+    "type": "array",
+    "orientation": "center",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0,5",
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "burning_s",
+                "burning_s_a",
+                "",
+                "beam_s",
+                "beam_s_a",
+                "",
+                "stone_s",
+                "stone_s_a",
+                "",
+                "smash_s",
+                "smash_s_a"
+              ],
+              [
+                "tornado_s",
+                "tornado_s_a",
+                "",              
+                "bomb_s",
+                "bomb_s_a",
+                "",
+                "missile_s",
+                "missile_s_a",
+                "",
+                "throw_s",
+                "throw_s_a"
+              ],
+              [
+                "fire_s",
+                "fire_s_a",
+                "",
+                "spark_s",
+                "spark_s_a",
+                "",
+                "cutter_s",
+                "cutter_s_a",
+                "",
+                "sword_s",
+                "sword_s_a"
+              ],
+              [
+                "fighter_s",
+                "fighter_s_a",
+                "",
+                "laser_s",
+                "laser_s_a",
+                "",
+                "cupid_s",
+                "cupid_s_a",
+                "",
+                "ice_s",
+                "ice_s_a"
+              ],
+              [
+                "hammer_s",
+                "hammer_s_a",
+                "",
+                "parasol_s",
+                "parasol_s_a",
+                "",
+                "wheel_s",
+                "wheel_s_a"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+
+  "key": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2,2",     
+            "item_size": 60,   
+            "h_alignment": "left",
+            "rows": [
+              [
+                "mirror_c"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

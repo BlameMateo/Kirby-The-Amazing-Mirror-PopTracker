@@ -1,0 +1,1702 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "hub",
+    "location_size": 15,
+    "location_border_thickness": 4,
+    "img": "images/maps/overview.png"
+  },
+
+
+
+
+
+  {
+    "name": "area 1",
+    "location_size": 12,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 1.png"
+  },
+  {
+    "name": "rainbow 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 1.png"
+  },
+  {
+    "name": "rainbow 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 2.png"
+  },
+  {
+    "name": "rainbow 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 3.png"
+  },
+  {
+    "name": "rainbow 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 4.png"
+  },
+  {
+    "name": "rainbow 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 5.png"
+  },
+  {
+    "name": "rainbow 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 6.png"
+  },
+  {
+    "name": "rainbow 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 7.png"
+  },
+  {
+    "name": "rainbow 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 8.png"
+  },
+  {
+    "name": "rainbow 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 9.png"
+  },
+  {
+    "name": "rainbow 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 10.png"
+  },
+  {
+    "name": "rainbow 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 11.png"
+  },
+  {
+    "name": "rainbow 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 12.png"
+  },
+  {
+    "name": "rainbow 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 13.png"
+  },
+  {
+    "name": "rainbow 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 14.png"
+  },
+  {
+    "name": "rainbow 15",
+    "location_size": 12,
+    "location_border_thickness": 3,
+    "img": "images/maps/Area 1/room 15.png"
+  },
+  {
+    "name": "rainbow 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 16.png"
+  },
+  {
+    "name": "rainbow 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 17.png"
+  },
+  {
+    "name": "rainbow 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 18.png"
+  },
+  {
+    "name": "rainbow 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 19.png"
+  },
+  {
+    "name": "rainbow 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 20.png"
+  },
+  {
+    "name": "rainbow 21",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 21.png"
+  },
+  {
+    "name": "rainbow 22",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 22.png"
+  },
+  {
+    "name": "rainbow 23",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 23.png"
+  },
+  {
+    "name": "rainbow 24",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 24.png"
+  },
+  {
+    "name": "rainbow 25",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 25.png"
+  },
+  {
+    "name": "rainbow 26",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 26.png"
+  },
+  {
+    "name": "rainbow 27",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 27.png"
+  },
+  {
+    "name": "rainbow 28",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 28.png"
+  },
+  {
+    "name": "rainbow 29",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 29.png"
+  },
+  {
+    "name": "rainbow 30",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 30.png"
+  },
+  {
+    "name": "rainbow 31",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 31.png"
+  },
+  {
+    "name": "rainbow 32",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 32.png"
+  },
+  {
+    "name": "rainbow 33",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 33.png"
+  },
+  {
+    "name": "rainbow 34",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 34.png"
+  },
+  {
+    "name": "rainbow 35",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 35.png"
+  },
+  {
+    "name": "rainbow 36",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 36.png"
+  },
+  {
+    "name": "rainbow 37",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 37.png"
+  },
+  {
+    "name": "rainbow 38",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 38.png"
+  },
+  {
+    "name": "rainbow 39",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 39.png"
+  },
+  {
+    "name": "rainbow 40",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 40.png"
+  },
+  {
+    "name": "rainbow 41",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 41.png"
+  },
+  {
+    "name": "rainbow 42",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room 42.png"
+  },
+  {
+    "name": "rainbow g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room g1.png"
+  },
+  {
+    "name": "rainbow g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room g2.png"
+  },
+  {
+    "name": "rainbow g3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room g3.png"
+  },
+  {
+    "name": "rainbow h1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room h1.png"
+  },
+  {
+    "name": "rainbow h2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room h2.png"
+  },
+  {
+    "name": "rainbow h3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room h3.png"
+  },
+  {
+    "name": "rainbow h4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room h4.png"
+  },
+  {
+    "name": "rainbow w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 1/room w.png"
+  },
+
+
+
+
+
+  {
+    "name": "area 2",
+    "location_size": 15,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 2.png"
+  },
+  {
+    "name": "moonlight 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 1.png"
+  },
+  {
+    "name": "moonlight 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 2.png"
+  },
+  {
+    "name": "moonlight 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 3.png"
+  },
+  {
+    "name": "moonlight 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 4.png"
+  },
+  {
+    "name": "moonlight 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 5.png"
+  },
+  {
+    "name": "moonlight 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 6.png"
+  },
+  {
+    "name": "moonlight 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 7.png"
+  },
+  {
+    "name": "moonlight 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 8.png"
+  },
+  {
+    "name": "moonlight 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 9.png"
+  },
+  {
+    "name": "moonlight 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 10.png"
+  },
+  {
+    "name": "moonlight 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 11.png"
+  },
+  {
+    "name": "moonlight 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 12.png"
+  },
+  {
+    "name": "moonlight 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 13.png"
+  },
+  {
+    "name": "moonlight 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 14.png"
+  },
+  {
+    "name": "moonlight 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 15.png"
+  },
+  {
+    "name": "moonlight 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 16.png"
+  },
+  {
+    "name": "moonlight 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 17.png"
+  },
+  {
+    "name": "moonlight 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 18.png"
+  },
+  {
+    "name": "moonlight 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 19.png"
+  },
+  {
+    "name": "moonlight 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room 20.png"
+  },
+
+  {
+    "name": "moonlight b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room b.png"
+  },
+  {
+    "name": "moonlight e",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room e.png"
+  },
+  {
+    "name": "moonlight g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room g1.png"
+  },
+  {
+    "name": "moonlight g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room g2.png"
+  },
+  {
+    "name": "moonlight h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room h.png"
+  },
+  {
+    "name": "moonlight w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 2/room w.png"
+  },
+
+
+
+
+
+  {
+    "name": "area 3",
+    "location_size": 18,
+    "location_border_thickness": 4, 
+    "img": "images/maps/Area 3.png"
+  },
+  {
+    "name": "cabbage 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 1.png"
+  },
+  {
+    "name": "cabbage 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 2.png"
+  },
+  {
+    "name": "cabbage 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 3.png"
+  },
+  {
+    "name": "cabbage 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 4.png"
+  },
+  {
+    "name": "cabbage 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 5.png"
+  },
+  {
+    "name": "cabbage 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 6.png"
+  },
+  {
+    "name": "cabbage 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 7.png"
+  },
+  {
+    "name": "cabbage 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 8.png"
+  },
+  {
+    "name": "cabbage 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 9.png"
+  },
+  {
+    "name": "cabbage 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 10.png"
+  },
+  {
+    "name": "cabbage 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 11.png"
+  },
+  {
+    "name": "cabbage 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 12.png"
+  },
+  {
+    "name": "cabbage 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 13.png"
+  },
+  {
+    "name": "cabbage 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 14.png"
+  },
+  {
+    "name": "cabbage 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 15.png"
+  },
+  {
+    "name": "cabbage 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room 16.png"
+  },
+
+  {
+    "name": "cabbage b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room b.png"
+  },
+  {
+    "name": "cabbage g",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room g.png"
+  },
+  {
+    "name": "cabbage h1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room h1.png"
+  },
+  {
+    "name": "cabbage h2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room h2.png"
+  },
+  {
+    "name": "cabbage h3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 3/room h3.png"
+  },
+
+
+
+
+
+
+
+  {
+    "name": "area 4",
+    "location_size": 18,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 4.png"
+  },
+  {
+    "name": "mustard 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 1.png"
+  },
+  {
+    "name": "mustard 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 2.png"
+  },
+  {
+    "name": "mustard 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 3.png"
+  },
+  {
+    "name": "mustard 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 4.png"
+  },
+  {
+    "name": "mustard 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 5.png"
+  },
+  {
+    "name": "mustard 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 6.png"
+  },
+  {
+    "name": "mustard 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 7.png"
+  },
+  {
+    "name": "mustard 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 8.png"
+  },
+  {
+    "name": "mustard 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 9.png"
+  },
+  {
+    "name": "mustard 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 10.png"
+  },
+  {
+    "name": "mustard 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 11.png"
+  },
+  {
+    "name": "mustard 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 12.png"
+  },
+  {
+    "name": "mustard 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 13.png"
+  },
+  {
+    "name": "mustard 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 14.png"
+  },
+  {
+    "name": "mustard 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 15.png"
+  },
+  {
+    "name": "mustard 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 16.png"
+  },
+  {
+    "name": "mustard 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 17.png"
+  },
+  {
+    "name": "mustard 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 18.png"
+  },
+  {
+    "name": "mustard 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 19.png"
+  },
+  {
+    "name": "mustard 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room 20.png"
+  },
+
+  {
+    "name": "mustard b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room b.png"
+  },
+  {
+    "name": "mustard c",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room c.png"
+  },
+  {
+    "name": "mustard g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room g1.png"
+  },
+  {
+    "name": "mustard g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room g2.png"
+  },
+  {
+    "name": "mustard h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room h.png"
+  },
+  {
+    "name": "mustard w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 4/room w.png"
+  },
+
+
+
+
+
+  
+  {
+    "name": "area 5",
+    "location_size": 20,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 5.png"
+  },
+  {
+    "name": "carrot 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 1.png"
+  },
+  {
+    "name": "carrot 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 2.png"
+  },
+  {
+    "name": "carrot 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 3.png"
+  },
+  {
+    "name": "carrot 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 4.png"
+  },
+  {
+    "name": "carrot 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 5.png"
+  },
+  {
+    "name": "carrot 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 6.png"
+  },
+  {
+    "name": "carrot 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 7.png"
+  },
+  {
+    "name": "carrot 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 8.png"
+  },
+  {
+    "name": "carrot 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 9.png"
+  },
+  {
+    "name": "carrot 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 10.png"
+  },
+  {
+    "name": "carrot 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 11.png"
+  },
+  {
+    "name": "carrot 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 12.png"
+  },
+  {
+    "name": "carrot 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 13.png"
+  },
+  {
+    "name": "carrot 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 14.png"
+  },
+  {
+    "name": "carrot 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 15.png"
+  },
+  {
+    "name": "carrot 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 16.png"
+  },
+  {
+    "name": "carrot 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 17.png"
+  },
+  {
+    "name": "carrot 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room 18.png"
+  },
+  {
+    "name": "carrot b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room b.png"
+  },
+  {
+    "name": "carrot c1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room c1.png"
+  },
+  {
+    "name": "carrot c2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room c2.png"
+  },
+  {
+    "name": "carrot h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room h.png"
+  },
+  {
+    "name": "carrot w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 5/room w.png"
+  },
+
+
+
+
+
+
+  {
+    "name": "area 6",
+    "location_size": 12,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 6.png"
+  },
+  {
+    "name": "olive 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 1.png"
+  },
+  {
+    "name": "olive 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 2.png"
+  },
+  {
+    "name": "olive 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 3.png"
+  },
+  {
+    "name": "olive 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 4.png"
+  },
+  {
+    "name": "olive 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 5.png"
+  },
+  {
+    "name": "olive 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 6.png"
+  },
+  {
+    "name": "olive 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 7.png"
+  },
+  {
+    "name": "olive 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 8.png"
+  },
+  {
+    "name": "olive 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 9.png"
+  },
+  {
+    "name": "olive 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 10.png"
+  },
+  {
+    "name": "olive 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 11.png"
+  },
+  {
+    "name": "olive 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 12.png"
+  },
+  {
+    "name": "olive 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 13.png"
+  },
+  {
+    "name": "olive 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 14.png"
+  },
+  {
+    "name": "olive 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 15.png"
+  },
+  {
+    "name": "olive 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 16.png"
+  },
+  {
+    "name": "olive 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 17.png"
+  },
+  {
+    "name": "olive 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 18.png"
+  },
+  {
+    "name": "olive 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 19.png"
+  },
+  {
+    "name": "olive 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 20.png"
+  },
+  {
+    "name": "olive 21",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 21.png"
+  },
+  {
+    "name": "olive 22",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 22.png"
+  },
+  {
+    "name": "olive 23",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room 23.png"
+  },
+  {
+    "name": "olive b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room b.png"
+  },
+  {
+    "name": "olive c1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room c1.png"
+  },
+  {
+    "name": "olive c2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room c2.png"
+  },
+  {
+    "name": "olive g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room g1.png"
+  },
+  {
+    "name": "olive g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room g2.png"
+  },
+  {
+    "name": "olive h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 6/room h.png"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "area 7",
+    "location_size": 12,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 7.png"
+  },
+  {
+    "name": "peppermint 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 1.png"
+  },
+  {
+    "name": "peppermint 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 2.png"
+  },
+  {
+    "name": "peppermint 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 3.png"
+  },
+  {
+    "name": "peppermint 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 4.png"
+  },
+  {
+    "name": "peppermint 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 5.png"
+  },
+  {
+    "name": "peppermint 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 6.png"
+  },
+  {
+    "name": "peppermint 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 7.png"
+  },
+  {
+    "name": "peppermint 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 8.png"
+  },
+  {
+    "name": "peppermint 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 9.png"
+  },
+  {
+    "name": "peppermint 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 10.png"
+  },
+  {
+    "name": "peppermint 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 11.png"
+  },
+  {
+    "name": "peppermint 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 12.png"
+  },
+  {
+    "name": "peppermint 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 13.png"
+  },
+  {
+    "name": "peppermint 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 14.png"
+  },
+  {
+    "name": "peppermint 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 15.png"
+  },
+  {
+    "name": "peppermint 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 16.png"
+  },
+  {
+    "name": "peppermint 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 17.png"
+  },
+  {
+    "name": "peppermint 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 18.png"
+  },
+  {
+    "name": "peppermint 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 19.png"
+  },
+  {
+    "name": "peppermint 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 20.png"
+  },
+  {
+    "name": "peppermint 21",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 21.png"
+  },
+  {
+    "name": "peppermint 22",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 22.png"
+  },
+  {
+    "name": "peppermint 23",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 23.png"
+  },
+  {
+    "name": "peppermint 24",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room 24.png"
+  },
+  {
+    "name": "peppermint b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room b.png"
+  },
+  {
+    "name": "peppermint c",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room c.png"
+  },
+  {
+    "name": "peppermint g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room g1.png"
+  },
+  {
+    "name": "peppermint g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room g2.png"
+  },
+  {
+    "name": "peppermint h1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room h1.png"
+  },
+  {
+    "name": "peppermint h2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room h2.png"
+  },
+  {
+    "name": "peppermint w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 7/room w.png"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "area 8",
+    "location_size": 12,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 8.png"
+  },
+  {
+    "name": "radish 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 1.png"
+  },
+  {
+    "name": "radish 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 2.png"
+  },
+  {
+    "name": "radish 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 3.png"
+  },
+  {
+    "name": "radish 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 4.png"
+  },
+  {
+    "name": "radish 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 5.png"
+  },
+  {
+    "name": "radish 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 6.png"
+  },
+  {
+    "name": "radish 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 7.png"
+  },
+  {
+    "name": "radish 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 8.png"
+  },
+  {
+    "name": "radish 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 9.png"
+  },
+  {
+    "name": "radish 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 10.png"
+  },
+  {
+    "name": "radish 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 11.png"
+  },
+  {
+    "name": "radish 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 12.png"
+  },
+  {
+    "name": "radish 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 13.png"
+  },
+  {
+    "name": "radish 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 14.png"
+  },
+  {
+    "name": "radish 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 15.png"
+  },
+  {
+    "name": "radish 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 16.png"
+  },
+  {
+    "name": "radish 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 17.png"
+  },
+  {
+    "name": "radish 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 18.png"
+  },
+  {
+    "name": "radish 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 19.png"
+  },
+  {
+    "name": "radish 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 20.png"
+  },
+  {
+    "name": "radish 21",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 21.png"
+  },
+  {
+    "name": "radish 22",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 22.png"
+  },
+  {
+    "name": "radish 23",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room 23.png"
+  },
+  {
+    "name": "radish b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room b.png"
+  },
+  {
+    "name": "radish c1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room c1.png"
+  },
+  {
+    "name": "radish c2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room c2.png"
+  },
+  {
+    "name": "radish g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room g1.png"
+  },
+  {
+    "name": "radish g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room g2.png"
+  },
+  {
+    "name": "radish h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 8/room h.png"
+  },
+
+
+
+
+
+
+
+
+  {
+    "name": "area 9",
+    "location_size": 12,
+    "location_border_thickness": 4,    
+    "img": "images/maps/Area 9.png"
+  },  
+  {
+    "name": "candy 1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 1.png"
+  },
+  {
+    "name": "candy 2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 2.png"
+  },
+  {
+    "name": "candy 3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 3.png"
+  },
+  {
+    "name": "candy 4",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 4.png"
+  },
+  {
+    "name": "candy 5",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 5.png"
+  },
+  {
+    "name": "candy 6",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 6.png"
+  },
+  {
+    "name": "candy 7",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 7.png"
+  },
+  {
+    "name": "candy 8",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 8.png"
+  },
+  {
+    "name": "candy 9",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 9.png"
+  },
+  {
+    "name": "candy 10",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 10.png"
+  },
+  {
+    "name": "candy 11",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 11.png"
+  },
+  {
+    "name": "candy 12",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 12.png"
+  },
+  {
+    "name": "candy 13",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 13.png"
+  },
+  {
+    "name": "candy 14",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 14.png"
+  },
+  {
+    "name": "candy 15",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 15.png"
+  },
+  {
+    "name": "candy 16",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 16.png"
+  },
+  {
+    "name": "candy 17",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 17.png"
+  },
+  {
+    "name": "candy 18",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 18.png"
+  },
+  {
+    "name": "candy 19",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 19.png"
+  },
+  {
+    "name": "candy 20",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room 20.png"
+  },
+  {
+    "name": "candy b",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room b.png"
+  },
+  {
+    "name": "candy c1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room c1.png"
+  },
+  {
+    "name": "candy c2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room c2.png"
+  },
+  {
+    "name": "candy c3",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room c3.png"
+  },
+  {
+    "name": "candy g1",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room g1.png"
+  },
+  {
+    "name": "candy g2",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room g2.png"
+  },
+  {
+    "name": "candy h",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room h.png"
+  },
+  {
+    "name": "candy w",
+    "location_size": 18,
+    "location_border_thickness": 4,
+    "img": "images/maps/Area 9/room w.png"
+  }
+]

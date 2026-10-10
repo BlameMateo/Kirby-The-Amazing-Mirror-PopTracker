@@ -1,0 +1,5591 @@
+[
+  
+  {
+    "name": "Cutter",
+    "codes": "cutter",
+    "img": "images/abilities/cutter.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Fire",
+    "codes": "fire",
+    "img": "images/abilities/fire.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Crash",
+    "codes": "crash",
+    "img": "images/abilities/crash.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Ice",
+    "codes": "ice",
+    "img": "images/abilities/ice.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Smash",
+    "codes": "smash",
+    "img": "images/abilities/smash.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Mini",
+    "codes": "mini",
+    "img": "images/abilities/mini.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sword",
+    "codes": "sword",
+    "img": "images/abilities/sword.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Parasol",
+    "codes": "parasol",
+    "img": "images/abilities/parasol.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Throw",
+    "codes": "throw",
+    "img": "images/abilities/throw.png",
+    "type": "toggle"
+  },
+  {
+    "name": "U.F.O.",
+    "codes": "ufo",
+    "img": "images/abilities/ufo.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Spark",
+    "codes": "spark",
+    "img": "images/abilities/spark.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Missile",
+    "codes": "missile",
+    "img": "images/abilities/missile.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Bomb",
+    "codes": "bomb",
+    "img": "images/abilities/bomb.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sleep",
+    "codes": "sleep",
+    "img": "images/abilities/sleep.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Fighter",
+    "codes": "fighter",
+    "img": "images/abilities/fighter.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Magic",
+    "codes": "magic",
+    "img": "images/abilities/magic.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Beam",
+    "codes": "beam",
+    "img": "images/abilities/beam.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Tornado",
+    "codes": "tornado",
+    "img": "images/abilities/tornado.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Hammer",
+    "codes": "hammer",
+    "img": "images/abilities/hammer.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Stone",
+    "codes": "stone",
+    "img": "images/abilities/stone.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cook",
+    "codes": "cook",
+    "img": "images/abilities/cook.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cupid",
+    "codes": "cupid",
+    "img": "images/abilities/cupid.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Burning",
+    "codes": "burning",
+    "img": "images/abilities/burning.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Wheel",
+    "codes": "wheel",
+    "img": "images/abilities/wheel.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Laser",
+    "codes": "laser",
+    "img": "images/abilities/laser.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Master",
+    "codes": "master",
+    "img": "images/abilities/master.png",
+    "type": "toggle"
+  },
+
+  
+  {
+    "name": "Cutter Statue",
+    "codes": "cutter_s",
+    "img": "images/abilities/cutter_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Fire Statue",
+    "codes": "fire_s",
+    "img": "images/abilities/fire_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Crash Statue",
+    "codes": "crash_s",
+    "img": "images/abilities/crash_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Ice Statue",
+    "codes": "ice_s",
+    "img": "images/abilities/ice_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Smash Statue",
+    "codes": "smash_s",
+    "img": "images/abilities/smash_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Sword Statue",
+    "codes": "sword_s",
+    "img": "images/abilities/sword_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Parasol Statue",
+    "codes": "parasol_s",
+    "img": "images/abilities/parasol_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Throw Statue",
+    "codes": "throw_s",
+    "img": "images/abilities/throw_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Spark Statue",
+    "codes": "spark_s",
+    "img": "images/abilities/spark_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Missile Statue",
+    "codes": "missile_s",
+    "img": "images/abilities/missile_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Bomb Statue",
+    "codes": "bomb_s",
+    "img": "images/abilities/bomb_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Fighter Statue",
+    "codes": "fighter_s",
+    "img": "images/abilities/fighter_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Beam Statue",
+    "codes": "beam_s",
+    "img": "images/abilities/beam_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Tornado Statue",
+    "codes": "tornado_s",
+    "img": "images/abilities/tornado_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Hammer Statue",
+    "codes": "hammer_s",
+    "img": "images/abilities/hammer_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Stone Statue",
+    "codes": "stone_s",
+    "img": "images/abilities/stone_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Cupid Statue",
+    "codes": "cupid_s",
+    "img": "images/abilities/cupid_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Burning Statue",
+    "codes": "burning_s",
+    "img": "images/abilities/burning_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Wheel Statue",
+    "codes": "wheel_s",
+    "img": "images/abilities/wheel_s.png",
+    "type": "static"
+  },
+  {
+    "name": "Laser Statue",
+    "codes": "laser_s",
+    "img": "images/abilities/laser_s.png",
+    "type": "static"
+  },
+
+
+
+  {
+    "name": "Burning Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "burning_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "burning_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "burning_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "burning_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "burning_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "burning_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "burning_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "burning_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "burning_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "burning_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "burning_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "burning_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "burning_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "burning_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "burning_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "burning_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "burning_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "burning_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "burning_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "burning_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "burning_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "burning_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "burning_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "burning_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "burning_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "burning_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Beam Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "beam_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "beam_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "beam_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "beam_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "beam_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "beam_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "beam_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "beam_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "beam_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "beam_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "beam_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "beam_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "beam_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "beam_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "beam_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "beam_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "beam_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "beam_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "beam_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "beam_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "beam_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "beam_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "beam_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "beam_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "beam_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "beam_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Stone Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "stone_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "stone_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "stone_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "stone_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "stone_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "stone_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "stone_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "stone_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "stone_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "stone_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "stone_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "stone_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "stone_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "stone_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "stone_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "stone_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "stone_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "stone_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "stone_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "stone_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "stone_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "stone_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "stone_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "stone_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "stone_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "stone_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Smash Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "smash_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "smash_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "smash_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "smash_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "smash_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "smash_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "smash_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "smash_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "smash_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "smash_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "smash_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "smash_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "smash_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "smash_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "smash_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "smash_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "smash_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "smash_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "smash_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "smash_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "smash_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "smash_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "smash_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "smash_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "smash_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "smash_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Tornado Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "tornado_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "tornado_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "tornado_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "tornado_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "tornado_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "tornado_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "tornado_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "tornado_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "tornado_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "tornado_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "tornado_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "tornado_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "tornado_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "tornado_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "tornado_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "tornado_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "tornado_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "tornado_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "tornado_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "tornado_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "tornado_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "tornado_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "tornado_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "tornado_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "tornado_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "tornado_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Bomb Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "bomb_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "bomb_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "bomb_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "bomb_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "bomb_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "bomb_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "bomb_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "bomb_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "bomb_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "bomb_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "bomb_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "bomb_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "bomb_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "bomb_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "bomb_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "bomb_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "bomb_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "bomb_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "bomb_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "bomb_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "bomb_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "bomb_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "bomb_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "bomb_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "bomb_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "bomb_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Missle Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "missile_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "missile_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "missile_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "missile_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "missile_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "missile_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "missile_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "missile_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "missile_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "missile_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "missile_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "missile_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "missile_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "missile_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "missile_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "missile_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "missile_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "missile_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "missile_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "missile_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "missile_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "missile_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "missile_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "missile_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "missile_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "missile_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Throw Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "throw_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "throw_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "throw_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "throw_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "throw_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "throw_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "throw_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "throw_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "throw_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "throw_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "throw_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "throw_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "throw_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "throw_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "throw_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "throw_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "throw_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "throw_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "throw_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "throw_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "throw_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "throw_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "throw_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "throw_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "throw_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "throw_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Fire Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "fire_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "fire_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "fire_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "fire_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "fire_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "fire_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "fire_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "fire_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "fire_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "fire_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "fire_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "fire_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "fire_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "fire_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "fire_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "fire_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "fire_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "fire_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "fire_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "fire_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "fire_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "fire_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "fire_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "fire_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "fire_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "fire_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Spark Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "spark_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "spark_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "spark_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "spark_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "spark_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "spark_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "spark_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "spark_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "spark_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "spark_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "spark_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "spark_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "spark_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "spark_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "spark_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "spark_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "spark_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "spark_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "spark_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "spark_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "spark_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "spark_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "spark_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "spark_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "spark_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "spark_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Cutter Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "cutter_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "cutter_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "cutter_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "cutter_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "cutter_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "cutter_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "cutter_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "cutter_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "cutter_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "cutter_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "cutter_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "cutter_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "cutter_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "cutter_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "cutter_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "cutter_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "cutter_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "cutter_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "cutter_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "cutter_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "cutter_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "cutter_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "cutter_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "cutter_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "cutter_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "cutter_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Sword Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "sword_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "sword_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "sword_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "sword_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "sword_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "sword_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "sword_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "sword_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "sword_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "sword_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "sword_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "sword_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "sword_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "sword_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "sword_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "sword_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "sword_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "sword_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "sword_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "sword_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "sword_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "sword_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "sword_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "sword_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "sword_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "sword_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Fighter Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "fighter_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "fighter_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "fighter_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "fighter_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "fighter_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "fighter_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "fighter_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "fighter_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "fighter_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "fighter_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "fighter_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "fighter_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "fighter_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "fighter_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "fighter_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "fighter_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "fighter_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "fighter_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "fighter_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "fighter_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "fighter_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "fighter_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "fighter_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "fighter_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "fighter_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "fighter_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Laser Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "laser_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "laser_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "laser_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "laser_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "laser_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "laser_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "laser_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "laser_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "laser_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "laser_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "laser_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "laser_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "laser_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "laser_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "laser_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "laser_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "laser_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "laser_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "laser_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "laser_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "laser_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "laser_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "laser_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "laser_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "laser_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "laser_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Cupid Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "cupid_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "cupid_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "cupid_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "cupid_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "cupid_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "cupid_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "cupid_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "cupid_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "cupid_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "cupid_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "cupid_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "cupid_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "cupid_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "cupid_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "cupid_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "cupid_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "cupid_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "cupid_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "cupid_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "cupid_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "cupid_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "cupid_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "cupid_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "cupid_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "cupid_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "cupid_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Ice Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "ice_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "ice_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "ice_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "ice_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "ice_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "ice_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "ice_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "ice_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "ice_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "ice_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "ice_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "ice_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "ice_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "ice_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "ice_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "ice_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "ice_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "ice_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "ice_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "ice_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "ice_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "ice_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "ice_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "ice_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "ice_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "ice_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Hammer Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "hammer_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "hammer_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "hammer_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "hammer_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "hammer_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "hammer_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "hammer_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "hammer_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "hammer_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "hammer_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "hammer_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "hammer_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "hammer_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "hammer_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "hammer_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "hammer_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "hammer_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "hammer_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "hammer_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "hammer_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "hammer_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "hammer_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "hammer_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "hammer_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "hammer_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "hammer_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Parasol Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "parasol_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "parasol_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "parasol_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "parasol_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "parasol_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "parasol_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "parasol_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "parasol_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "parasol_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "parasol_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "parasol_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "parasol_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "parasol_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "parasol_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "parasol_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "parasol_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "parasol_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "parasol_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "parasol_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "parasol_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "parasol_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "parasol_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "parasol_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "parasol_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "parasol_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "parasol_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+  {
+    "name": "Wheel Statue Ability",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "wheel_s_a",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "wheel_s_a_0",
+        "inherit_codes": false,
+        "img": "images/abilities/cook.png"
+      },
+      {
+        "codes": "wheel_s_a_1",
+        "inherit_codes": false,
+        "img": "images/abilities/burning.png"
+      },
+      {
+        "codes": "wheel_s_a_2",
+        "inherit_codes": false,
+        "img": "images/abilities/beam.png"
+      },
+      {
+        "codes": "wheel_s_a_3",
+        "inherit_codes": false,
+        "img": "images/abilities/stone.png"
+      },
+      {
+        "codes": "wheel_s_a_4",
+        "inherit_codes": false,
+        "img": "images/abilities/smash.png"
+      },
+      {
+        "codes": "wheel_s_a_5",
+        "inherit_codes": false,
+        "img": "images/abilities/tornado.png"
+      },
+      {
+        "codes": "wheel_s_a_6",
+        "inherit_codes": false,
+        "img": "images/abilities/crash.png"
+      },
+      {
+        "codes": "wheel_s_a_7",
+        "inherit_codes": false,
+        "img": "images/abilities/bomb.png"
+      },
+      {
+        "codes": "wheel_s_a_8",
+        "inherit_codes": false,
+        "img": "images/abilities/missile.png"
+      },
+      {
+        "codes": "wheel_s_a_9",
+        "inherit_codes": false,
+        "img": "images/abilities/throw.png"
+      },
+      {
+        "codes": "wheel_s_a_10",
+        "inherit_codes": false,
+        "img": "images/abilities/ufo.png"
+      },
+      {
+        "codes": "wheel_s_a_11",
+        "inherit_codes": false,
+        "img": "images/abilities/fire.png"
+      },
+      {
+        "codes": "wheel_s_a_12",
+        "inherit_codes": false,
+        "img": "images/abilities/spark.png"
+      },
+      {
+        "codes": "wheel_s_a_13",
+        "inherit_codes": false,
+        "img": "images/abilities/cutter.png"
+      },
+      {
+        "codes": "wheel_s_a_14",
+        "inherit_codes": false,
+        "img": "images/abilities/sword.png"
+      },
+      {
+        "codes": "wheel_s_a_15",
+        "inherit_codes": false,
+        "img": "images/abilities/fighter.png"
+      },
+      {
+        "codes": "wheel_s_a_16",
+        "inherit_codes": false,
+        "img": "images/abilities/laser.png"
+      },
+      {
+        "codes": "wheel_s_a_17",
+        "inherit_codes": false,
+        "img": "images/abilities/cupid.png"
+      },
+      {
+        "codes": "wheel_s_a_18",
+        "inherit_codes": false,
+        "img": "images/abilities/ice.png"
+      },
+      {
+        "codes": "wheel_s_a_19",
+        "inherit_codes": false,
+        "img": "images/abilities/hammer.png"
+      },
+      {
+        "codes": "wheel_s_a_20",
+        "inherit_codes": false,
+        "img": "images/abilities/parasol.png"
+      },
+      {
+        "codes": "wheel_s_a_21",
+        "inherit_codes": false,
+        "img": "images/abilities/sleep.png"
+      },
+      {
+        "codes": "wheel_s_a_22",
+        "inherit_codes": false,
+        "img": "images/abilities/magic.png"
+      },
+      {
+        "codes": "wheel_s_a_23",
+        "inherit_codes": false,
+        "img": "images/abilities/wheel.png"
+      },
+      {
+        "codes": "wheel_s_a_24",
+        "inherit_codes": false,
+        "img": "images/abilities/mini.png"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+ 
+   
+  {
+    "name": "Kirby",
+    "type": "static",
+        "codes": "kirb",
+        "img": "images/items/collection room/kirb.png"
+      
+  },
+  {
+    "name": "Pink",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "pink",
+        "inherit_codes": false,
+        "img": "images/items/collection room/pink_g.png"
+      },
+      {
+        "codes": "pink2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/pink.png"
+      }
+    ]
+  },
+  {
+    "name": "Yellow",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "yellow",
+        "inherit_codes": false,
+        "img": "images/items/collection room/yellow_g.png"
+      },
+      {
+        "codes": "yellow2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "Red",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "red",
+        "inherit_codes": false,
+        "img": "images/items/collection room/red_g.png"
+      },
+      {
+        "codes": "red2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/red.png"
+      }
+    ]
+  },
+  {
+    "name": "Green",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "green",
+        "inherit_codes": false,
+        "img": "images/items/collection room/green_g.png"
+      },
+      {
+        "codes": "green2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/green.png"
+      }
+    ]
+  },
+  {
+    "name": "Kirby's Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "kirby's",
+        "inherit_codes": false,
+        "img": "images/items/collection room/kirby's_g.png"
+      },
+      {
+        "codes": "kirby's2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/kirby's.png"
+      }
+    ]
+  },
+  {
+    "name": "Happy Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "happy",
+        "inherit_codes": false,
+        "img": "images/items/collection room/happy_g.png"
+      },
+      {
+        "codes": "happy2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/happy.png"
+      }
+    ]
+  },
+  {
+    "name": "Battle Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "battle",
+        "inherit_codes": false,
+        "img": "images/items/collection room/battle_g.png"
+      },
+      {
+        "codes": "battle2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/battle.png"
+      }
+    ]
+  },
+  {
+    "name": "Spunky Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "spunky",
+        "inherit_codes": false,
+        "img": "images/items/collection room/spunky_g.png"
+      },
+      {
+        "codes": "spunky2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/spunky.png"
+      }
+    ]
+  },
+  {
+    "name": "Beginning Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "beginning",
+        "inherit_codes": false,
+        "img": "images/items/collection room/beginning_g.png"
+      },
+      {
+        "codes": "beginning2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/beginning.png"
+      }
+    ]
+  },
+  
+
+
+
+  
+  {
+    "name": "Snow",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "snow",
+        "inherit_codes": false,
+        "img": "images/items/collection room/snow_g.png"
+      },
+      {
+        "codes": "snow2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/snow.png"
+      }
+    ]
+  },
+  {
+    "name": "Pink",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "pink",
+        "inherit_codes": false,
+        "img": "images/items/collection room/pink_g.png"
+      },
+      {
+        "codes": "pink2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/pink.png"
+      }
+    ]
+  },
+  {
+    "name": "Yellow",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "yellow",
+        "inherit_codes": false,
+        "img": "images/items/collection room/yellow_g.png"
+      },
+      {
+        "codes": "yellow2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/yellow.png"
+      }
+    ]
+  },
+  {
+    "name": "Red",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "red",
+        "inherit_codes": false,
+        "img": "images/items/collection room/red_g.png"
+      },
+      {
+        "codes": "red2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/red.png"
+      }
+    ]
+  },
+  {
+    "name": "Green",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "green",
+        "inherit_codes": false,
+        "img": "images/items/collection room/green_g.png"
+      },
+      {
+        "codes": "green2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/green.png"
+      }
+    ]
+  },
+  {
+    "name": "Kirby's Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "kirby's",
+        "inherit_codes": false,
+        "img": "images/items/collection room/kirby's_g.png"
+      },
+      {
+        "codes": "kirby's2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/kirby's.png"
+      }
+    ]
+  },
+  {
+    "name": "Happy Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "happy",
+        "inherit_codes": false,
+        "img": "images/items/collection room/happy_g.png"
+      },
+      {
+        "codes": "happy2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/happy.png"
+      }
+    ]
+  },
+  {
+    "name": "Battle Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "battle",
+        "inherit_codes": false,
+        "img": "images/items/collection room/battle_g.png"
+      },
+      {
+        "codes": "battle2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/battle.png"
+      }
+    ]
+  },
+  {
+    "name": "Spunky Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "spunky",
+        "inherit_codes": false,
+        "img": "images/items/collection room/spunky_g.png"
+      },
+      {
+        "codes": "spunky2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/spunky.png"
+      }
+    ]
+  },
+  {
+    "name": "Beginning Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "beginning",
+        "inherit_codes": false,
+        "img": "images/items/collection room/beginning_g.png"
+      },
+      {
+        "codes": "beginning2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/beginning.png"
+      }
+    ]
+  },
+  
+
+
+
+  
+  {
+    "name": "Snow",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "snow",
+        "inherit_codes": false,
+        "img": "images/items/collection room/snow_g.png"
+      },
+      {
+        "codes": "snow2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/snow.png"
+      }
+    ]
+  },
+  {
+    "name": "Carbon",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "carbon",
+        "inherit_codes": false,
+        "img": "images/items/collection room/carbon_g.png"
+      },
+      {
+        "codes": "carbon2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/carbon.png"
+      }
+    ]
+  },
+  {
+    "name": "Ocean",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "ocean",
+        "inherit_codes": false,
+        "img": "images/items/collection room/ocean_g.png"
+      },
+      {
+        "codes": "ocean2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/ocean.png"
+      }
+    ]
+  },
+  {
+    "name": "Sapphire",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "sapphire",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sapphire_g.png"
+      },
+      {
+        "codes": "sapphire2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sapphire.png"
+      }
+    ]
+  },
+  {
+    "name": "Grape",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "grape",
+        "inherit_codes": false,
+        "img": "images/items/collection room/grape_g.png"
+      },
+      {
+        "codes": "grape2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/grape.png"
+      }
+    ]
+  },
+  {
+    "name": "Sound Effects",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "sound effects",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sound effects_g.png"
+      },
+      {
+        "codes": "sound effects2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sound effects.png"
+      }
+    ]
+  },
+  {
+    "name": "Secret Sounds",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "secret sounds",
+        "inherit_codes": false,
+        "img": "images/items/collection room/secret sounds_g.png"
+      },
+      {
+        "codes": "secret sounds2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/secret sounds.png"
+      }
+    ]
+  },
+  {
+    "name": "Secret Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "secret notes",
+        "inherit_codes": false,
+        "img": "images/items/collection room/secret notes_g.png"
+      },
+      {
+        "codes": "secret notes2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/secret notes.png"
+      }
+    ]
+  },
+  {
+    "name": "Dream Notes",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "dream",
+        "inherit_codes": false,
+        "img": "images/items/collection room/dream_g.png"
+      },
+      {
+        "codes": "dream2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/dream.png"
+      }
+    ]
+  },
+  {
+    "name": "Enemy Sounds",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "enemy",
+        "inherit_codes": false,
+        "img": "images/items/collection room/enemy_g.png"
+      },
+      {
+        "codes": "enemy2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/enemy.png"
+      }
+    ]
+  },
+  
+
+
+
+  
+  {
+    "name": "Emerald",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "emerald",
+        "inherit_codes": false,
+        "img": "images/items/collection room/emerald_g.png"
+      },
+      {
+        "codes": "emerald2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/emerald.png"
+      }
+    ]
+  },
+  {
+    "name": "Orange",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "orange",
+        "inherit_codes": false,
+        "img": "images/items/collection room/orange_g.png"
+      },
+      {
+        "codes": "orange2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/orange.png"
+      }
+    ]
+  },
+  {
+    "name": "Chocolate",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "chocolate",
+        "inherit_codes": false,
+        "img": "images/items/collection room/chocolate_g.png"
+      },
+      {
+        "codes": "chocolate2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/chocolate.png"
+      }
+    ]
+  },
+  {
+    "name": "Cherry",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "cherry",
+        "inherit_codes": false,
+        "img": "images/items/collection room/cherry_g.png"
+      },
+      {
+        "codes": "cherry2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/cherry.png"
+      }
+    ]
+  },
+  {
+    "name": "Chalk",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "chalk",
+        "inherit_codes": false,
+        "img": "images/items/collection room/chalk_g.png"
+      },
+      {
+        "codes": "chalk2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/chalk.png"
+      }
+    ]
+  },
+  {
+    "name": "World Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "world map",
+        "inherit_codes": false,
+        "img": "images/items/collection room/world map_g.png"
+      },
+      {
+        "codes": "world map2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/world map.png"
+      }
+    ]
+  },
+  {
+    "name": "Rainbow Route Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "rainbow route",
+        "inherit_codes": false,
+        "img": "images/items/collection room/rainbow route_g.png"
+      },
+      {
+        "codes": "rainbow route2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/rainbow route.png"
+      }
+    ]
+  },
+  {
+    "name": "Mustard Mountain Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "mustard mountain",
+        "inherit_codes": false,
+        "img": "images/items/collection room/mustard mountain_g.png"
+      },
+      {
+        "codes": "mustard mountain2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/mustard mountain.png"
+      }
+    ]
+  },
+  {
+    "name": "Moonlight Mansion Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "moonlight mansion",
+        "inherit_codes": false,
+        "img": "images/items/collection room/moonlight mansion_g.png"
+      },
+      {
+        "codes": "moonlight mansion2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/moonlight mansion.png"
+      }
+    ]
+  },
+  {
+    "name": "Peppermint Palace Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "peppermint palace",
+        "inherit_codes": false,
+        "img": "images/items/collection room/peppermint palace_g.png"
+      },
+      {
+        "codes": "peppermint palace2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/peppermint palace.png"
+      }
+    ]
+  },
+  
+
+
+
+  
+  {
+    "name": "Sound Player",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "sound player",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sound player_g.png"
+      },
+      {
+        "codes": "sound player2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/sound player.png"
+      }
+    ]
+  },
+  {
+    "name": "Carrot Castle - Vitality Counter",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "carrot vitality",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality_g.png"
+      },
+      {
+        "codes": "carrot vitality2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality.png"
+      }
+    ]
+  },
+  {
+    "name": "Olive Ocean - Vitality Counter",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "olive vitality",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality_g.png"
+      },
+      {
+        "codes": "olive vitality2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality.png"
+      }
+    ]
+  },
+  {
+    "name": "Radish Ruins - Vitality Counter",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "radish vitality",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality_g.png"
+      },
+      {
+        "codes": "radish vitality2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality.png"
+      }
+    ]
+  },
+  {
+    "name": "Candy Constellation - Vitality Counter",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "candy vitality",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality_g.png"
+      },
+      {
+        "codes": "candy vitality2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/vitality.png"
+      }
+    ]
+  },
+  {
+    "name": "Olive Ocean Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "olive ocean",
+        "inherit_codes": false,
+        "img": "images/items/collection room/olive ocean_g.png"
+      },
+      {
+        "codes": "olive ocean2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/olive ocean.png"
+      }
+    ]
+  },
+  {
+    "name": "Candy Constellation Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "candy constellation",
+        "inherit_codes": false,
+        "img": "images/items/collection room/candy constellation_g.png"
+      },
+      {
+        "codes": "candy constellation2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/candy constellation.png"
+      }
+    ]
+  },
+  {
+    "name": "Radish Ruins Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "radish ruins",
+        "inherit_codes": false,
+        "img": "images/items/collection room/radish ruins_g.png"
+      },
+      {
+        "codes": "radish ruins2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/radish ruins.png"
+      }
+    ]
+  },
+  {
+    "name": "Carrot Castle Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "carrot castle",
+        "inherit_codes": false,
+        "img": "images/items/collection room/carrot castle_g.png"
+      },
+      {
+        "codes": "carrot castle2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/carrot castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Cabbage Cavern Map",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "cabbage cavern",
+        "inherit_codes": false,
+        "img": "images/items/collection room/cabbage cavern_g.png"
+      },
+      {
+        "codes": "cabbage cavern2",
+        "inherit_codes": false,
+        "img": "images/items/collection room/cabbage cavern.png"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "name": "Current Shards",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": false,
+    
+    "stages": [
+      {
+        "codes": "mirror_c",
+        "inherit_codes": false,
+        "img": "images/items/mirror_0.png"
+      },
+      {
+        "codes": "mirror_c 1",
+        "inherit_codes": false,
+        "img": "images/items/mirror_1.png"
+      },
+      {
+        "codes": "mirror_c 2",
+        "inherit_codes": false,
+        "img": "images/items/mirror_2.png"
+      },
+      {
+        "codes": "mirror_c 3",
+        "inherit_codes": false,
+        "img": "images/items/mirror_3.png"
+      },
+      {
+        "codes": "mirror_c 4",
+        "inherit_codes": false,
+        "img": "images/items/mirror_4.png"
+      },
+      {
+        "codes": "mirror_c 5",
+        "inherit_codes": false,
+        "img": "images/items/mirror_5.png"
+      },
+      {
+        "codes": "mirror_c 6",
+        "inherit_codes": false,
+        "img": "images/items/mirror_6.png"
+      },
+      {
+        "codes": "mirror_c 7",
+        "inherit_codes": false,
+        "img": "images/items/mirror_7.png"
+      },
+      {
+        "codes": "mirror_c 8",
+        "inherit_codes": false,
+        "img": "images/items/mirror_8.png"
+      }
+    ]
+  },
+  {
+    "name": "Needed Shards",
+    "type": "consumable",
+    "codes": "mirror_n",
+    "max_quantity": 8,
+    "initial_quantity": 0,
+    "allow_disabled": false,
+    "overlay_font_size": 45,
+    "overlay_align": "center",
+    "img": "images/items/shard.png"
+  },
+
+
+
+
+
+
+  
+  {
+    "name": "Battery",
+    "type": "consumable",
+    "codes": "battery",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/battery.png"
+  },
+  
+  {
+    "name": "1-Up",
+    "type": "consumable",
+    "codes": "1-up",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/1-up.png"
+  },
+  
+  {
+    "name": "Max Tomato",
+    "type": "consumable",
+    "codes": "max tomato",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/max tomato.png"
+  },
+  
+  {
+    "name": "Small Food",
+    "type": "consumable",
+    "codes": "small food",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/small food.png"
+  },
+  
+  {
+    "name": "Hunk of Meat",
+    "type": "consumable",
+    "codes": "hunk of meat",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/hunk of meat.png"
+  },
+  
+  {
+    "name": "Energy Drink",
+    "type": "consumable",
+    "codes": "energy drink",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/energy drink.png"
+  },
+  
+  {
+    "name": "Invincibility Candy",
+    "type": "consumable",
+    "codes": "invincibility candy",
+    "max_quantity": 999,
+    "initial_quantity": 0,
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/invincibility candy.png"
+  },
+
+
+
+
+
+
+  
+  {
+    "name": "Ground Items",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "ground_items",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "ground_on",
+        "inherit_codes": false,
+        "img": "images/items/ground items_on.png"
+      },
+      {
+        "codes": "ground_off",
+        "inherit_codes": false,
+        "img": "images/items/ground items_off.png"
+      }
+    ]
+  },
+  
+  {
+    "name": "Roomsanity",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "roomsanity",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "roomsanity_on",
+        "inherit_codes": false,
+        "img": "images/items/roomsanity_on.png"
+      },
+      {
+        "codes": "roomsanity_off",
+        "inherit_codes": false,
+        "img": "images/items/roomsanity_off.png"
+      }
+    ]
+  },
+
+  {
+    "name": "Ability Randomization: Minny",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "minny",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "minny_on",
+        "inherit_codes": false,
+        "img": "images/items/minny_on.png"
+      },
+      {
+        "codes": "minny_off",
+        "inherit_codes": false,
+        "img": "images/items/minny_off.png"
+      }
+    ]
+  },
+
+  {
+    "name": "Ability Randomization: Minibosses",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "minibosses",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "minibosses_on",
+        "inherit_codes": false,
+        "img": "images/items/minibosses_on.png"
+      },
+      {
+        "codes": "minibosses_off",
+        "inherit_codes": false,
+        "img": "images/items/minibosses_off.png"
+      }
+    ]
+  },
+
+  {
+    "name": "Ability Randomization: Boss Spawns",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "boss_spawn",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "boss_spawn_on",
+        "inherit_codes": false,
+        "img": "images/items/boss_spawn_on.png"
+      },
+      {
+        "codes": "boss_spawn_off",
+        "inherit_codes": false,
+        "img": "images/items/boss_spawn_off.png"
+      }
+    ]
+  },
+
+  {
+    "name": "Ability Randomization: Passive",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "passive",
+        "inherit_codes": false,
+        "img": "images/items/q.png"
+      },
+      {
+        "codes": "passive_on",
+        "inherit_codes": false,
+        "img": "images/items/passive_on.png"
+      },
+      {
+        "codes": "passive_off",
+        "inherit_codes": false,
+        "img": "images/items/passive_off.png"
+      }
+    ]
+  },
+  
+  {
+    "name": "Tab Switcher",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "tab_switch",
+        "inherit_codes": false,
+        "img": "images/items/tab_switch_on.png"
+      },
+      {
+        "codes": "tab_switch_off",
+        "inherit_codes": false,
+        "img": "images/items/tab_switch_off.png"
+      }
+    ]
+  },
+  
+  {
+    "name": "Room Switcher",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "room_switch",
+        "inherit_codes": false,
+        "img": "images/items/room_switch_on.png"
+      },
+      {
+        "codes": "room_switch_off",
+        "inherit_codes": false,
+        "img": "images/items/room_switch_off.png"
+      }
+    ]
+  },
+  
+  {
+    "name": "Current Location",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    
+    "stages": [
+      {
+        "codes": "current_location",
+        "inherit_codes": false,
+        "img": "images/items/current_location.png"
+      },
+      {
+        "codes": "rainbow 0",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/circle.png"
+      },
+      {
+        "codes": "rainbow 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 1.png"
+      },
+      {
+        "codes": "rainbow 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 2.png"
+      },
+      {
+        "codes": "rainbow 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 3.png"
+      },
+      {
+        "codes": "rainbow 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 4.png"
+      },
+      {
+        "codes": "rainbow 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 5.png"
+      },
+      {
+        "codes": "rainbow 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 6.png"
+      },
+      {
+        "codes": "rainbow 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 7.png"
+      },
+      {
+        "codes": "rainbow 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 8.png"
+      },
+      {
+        "codes": "rainbow 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 9.png"
+      },
+      {
+        "codes": "rainbow 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 10.png"
+      },
+      {
+        "codes": "rainbow 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 11.png"
+      },
+      {
+        "codes": "rainbow 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 12.png"
+      },
+      {
+        "codes": "rainbow 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 13.png"
+      },
+      {
+        "codes": "rainbow 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 14.png"
+      },
+      {
+        "codes": "rainbow 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 15.png"
+      },
+      {
+        "codes": "rainbow 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 16.png"
+      },
+      {
+        "codes": "rainbow 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 17.png"
+      },
+      {
+        "codes": "rainbow 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 18.png"
+      },
+      {
+        "codes": "rainbow 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 19.png"
+      },
+      {
+        "codes": "rainbow 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 20.png"
+      },
+      {
+        "codes": "rainbow 21",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 21.png"
+      },
+      {
+        "codes": "rainbow 22",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 22.png"
+      },
+      {
+        "codes": "rainbow 23",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 23.png"
+      },
+      {
+        "codes": "rainbow 24",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 24.png"
+      },
+      {
+        "codes": "rainbow 25",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 25.png"
+      },
+      {
+        "codes": "rainbow 26",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 26.png"
+      },
+      {
+        "codes": "rainbow 27",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 27.png"
+      },
+      {
+        "codes": "rainbow 28",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 28.png"
+      },
+      {
+        "codes": "rainbow 29",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 29.png"
+      },
+      {
+        "codes": "rainbow 30",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 30.png"
+      },
+      {
+        "codes": "rainbow 31",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 31.png"
+      },
+      {
+        "codes": "rainbow 32",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 32.png"
+      },
+      {
+        "codes": "rainbow 33",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 33.png"
+      },
+      {
+        "codes": "rainbow 34",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 34.png"
+      },
+      {
+        "codes": "rainbow 35",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 35.png"
+      },
+      {
+        "codes": "rainbow 36",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 36.png"
+      },
+      {
+        "codes": "rainbow 37",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 37.png"
+      },
+      {
+        "codes": "rainbow 38",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 38.png"
+      },
+      {
+        "codes": "rainbow 39",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 39.png"
+      },
+      {
+        "codes": "rainbow 40",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 40.png"
+      },
+      {
+        "codes": "rainbow 41",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 41.png"
+      },
+      {
+        "codes": "rainbow 42",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room 42.png"
+      },
+      {
+        "codes": "rainbow g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room g1.png"
+      },
+      {
+        "codes": "rainbow g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room g2.png"
+      },
+      {
+        "codes": "rainbow g3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room g3.png"
+      },
+      {
+        "codes": "rainbow h1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room h1.png"
+      },
+      {
+        "codes": "rainbow h2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room h2.png"
+      },
+      {
+        "codes": "rainbow h3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room h3.png"
+      },
+      {
+        "codes": "rainbow h4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room h4.png"
+      },
+      {
+        "codes": "rainbow w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 1/room w.png"
+      },
+      {
+        "codes": "moonlight 0",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room e.png"
+      },
+      {
+        "codes": "moonlight 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 1.png"
+      },
+      {
+        "codes": "moonlight 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 2.png"
+      },
+      {
+        "codes": "moonlight 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 3.png"
+      },
+      {
+        "codes": "moonlight 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 4.png"
+      },
+      {
+        "codes": "moonlight 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 5.png"
+      },
+      {
+        "codes": "moonlight 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 6.png"
+      },
+      {
+        "codes": "moonlight 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 7.png"
+      },
+      {
+        "codes": "moonlight 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 8.png"
+      },
+      {
+        "codes": "moonlight 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 9.png"
+      },
+      {
+        "codes": "moonlight 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 10.png"
+      },
+      {
+        "codes": "moonlight 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 11.png"
+      },
+      {
+        "codes": "moonlight 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 12.png"
+      },
+      {
+        "codes": "moonlight 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 13.png"
+      },
+      {
+        "codes": "moonlight 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 14.png"
+      },
+      {
+        "codes": "moonlight 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 15.png"
+      },
+      {
+        "codes": "moonlight 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 16.png"
+      },
+      {
+        "codes": "moonlight 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 17.png"
+      },
+      {
+        "codes": "moonlight 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 18.png"
+      },
+      {
+        "codes": "moonlight 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 19.png"
+      },
+      {
+        "codes": "moonlight 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room 20.png"
+      },
+      {
+        "codes": "moonlight b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room b.png"
+      },
+      {
+        "codes": "moonlight g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room g1.png"
+      },
+      {
+        "codes": "moonlight g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room g2.png"
+      },
+      {
+        "codes": "moonlight h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room h.png"
+      },
+      {
+        "codes": "moonlight w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 2/room w.png"
+      },
+      {
+        "codes": "cabbage 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 1.png"
+      },
+      {
+        "codes": "cabbage 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 2.png"
+      },
+      {
+        "codes": "cabbage 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 3.png"
+      },
+      {
+        "codes": "cabbage 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 4.png"
+      },
+      {
+        "codes": "cabbage 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 5.png"
+      },
+      {
+        "codes": "cabbage 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 6.png"
+      },
+      {
+        "codes": "cabbage 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 7.png"
+      },
+      {
+        "codes": "cabbage 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 8.png"
+      },
+      {
+        "codes": "cabbage 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 9.png"
+      },
+      {
+        "codes": "cabbage 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 10.png"
+      },
+      {
+        "codes": "cabbage 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 11.png"
+      },
+      {
+        "codes": "cabbage 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 12.png"
+      },
+      {
+        "codes": "cabbage 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 13.png"
+      },
+      {
+        "codes": "cabbage 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 14.png"
+      },
+      {
+        "codes": "cabbage 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 15.png"
+      },
+      {
+        "codes": "cabbage 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room 16.png"
+      },
+      {
+        "codes": "cabbage b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room b.png"
+      },
+      {
+        "codes": "cabbage g",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room g.png"
+      },
+      {
+        "codes": "cabbage h1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room h1.png"
+      },
+      {
+        "codes": "cabbage h2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room h2.png"
+      },
+      {
+        "codes": "cabbage h3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 3/room h3.png"
+      },
+      {
+        "codes": "mustard 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 1.png"
+      },
+      {
+        "codes": "mustard 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 2.png"
+      },
+      {
+        "codes": "mustard 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 3.png"
+      },
+      {
+        "codes": "mustard 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 4.png"
+      },
+      {
+        "codes": "mustard 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 5.png"
+      },
+      {
+        "codes": "mustard 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 6.png"
+      },
+      {
+        "codes": "mustard 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 7.png"
+      },
+      {
+        "codes": "mustard 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 8.png"
+      },
+      {
+        "codes": "mustard 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 9.png"
+      },
+      {
+        "codes": "mustard 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 10.png"
+      },
+      {
+        "codes": "mustard 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 11.png"
+      },
+      {
+        "codes": "mustard 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 12.png"
+      },
+      {
+        "codes": "mustard 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 13.png"
+      },
+      {
+        "codes": "mustard 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 14.png"
+      },
+      {
+        "codes": "mustard 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 15.png"
+      },
+      {
+        "codes": "mustard 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 16.png"
+      },
+      {
+        "codes": "mustard 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 17.png"
+      },
+      {
+        "codes": "mustard 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 18.png"
+      },
+      {
+        "codes": "mustard 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room 19.png"
+      },
+      {
+        "codes": "mustard b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room b.png"
+      },
+      {
+        "codes": "mustard c",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room c.png"
+      },
+      {
+        "codes": "mustard g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room g1.png"
+      },
+      {
+        "codes": "mustard g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room g2.png"
+      },
+      {
+        "codes": "mustard h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room h.png"
+      },
+      {
+        "codes": "mustard w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 4/room w.png"
+      }, 
+      {
+        "codes": "carrot 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 1.png"
+      },
+      {
+        "codes": "carrot 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 2.png"
+      },
+      {
+        "codes": "carrot 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 3.png"
+      },
+      {
+        "codes": "carrot 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 4.png"
+      },
+      {
+        "codes": "carrot 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 5.png"
+      },
+      {
+        "codes": "carrot 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 6.png"
+      },
+      {
+        "codes": "carrot 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 7.png"
+      },
+      {
+        "codes": "carrot 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 8.png"
+      },
+      {
+        "codes": "carrot 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 9.png"
+      },
+      {
+        "codes": "carrot 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 10.png"
+      },
+      {
+        "codes": "carrot 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 11.png"
+      },
+      {
+        "codes": "carrot 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 12.png"
+      },
+      {
+        "codes": "carrot 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 13.png"
+      },
+      {
+        "codes": "carrot 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 14.png"
+      },
+      {
+        "codes": "carrot 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 15.png"
+      },
+      {
+        "codes": "carrot 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 16.png"
+      },
+      {
+        "codes": "carrot 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 17.png"
+      },
+      {
+        "codes": "carrot 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room 18.png"
+      },
+      {
+        "codes": "carrot b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room b.png"
+      },
+      {
+        "codes": "carrot c1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room c1.png"
+      },
+      {
+        "codes": "carrot c2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room c2.png"
+      },
+      {
+        "codes": "carrot h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room h.png"
+      },
+      {
+        "codes": "carrot w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 5/room w.png"
+      },
+      {
+        "codes": "olive 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 1.png"
+      },
+      {
+        "codes": "olive 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 2.png"
+      },
+      {
+        "codes": "olive 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 3.png"
+      },
+      {
+        "codes": "olive 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 4.png"
+      },
+      {
+        "codes": "olive 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 5.png"
+      },
+      {
+        "codes": "olive 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 6.png"
+      },
+      {
+        "codes": "olive 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 7.png"
+      },
+      {
+        "codes": "olive 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 8.png"
+      },
+      {
+        "codes": "olive 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 9.png"
+      },
+      {
+        "codes": "olive 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 10.png"
+      },
+      {
+        "codes": "olive 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 11.png"
+      },
+      {
+        "codes": "olive 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 12.png"
+      },
+      {
+        "codes": "olive 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 13.png"
+      },
+      {
+        "codes": "olive 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 14.png"
+      },
+      {
+        "codes": "olive 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 15.png"
+      },
+      {
+        "codes": "olive 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 16.png"
+      },
+      {
+        "codes": "olive 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 17.png"
+      },
+      {
+        "codes": "olive 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 18.png"
+      },
+      {
+        "codes": "olive 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 19.png"
+      },
+      {
+        "codes": "olive 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 20.png"
+      },
+      {
+        "codes": "olive 21",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 21.png"
+      },
+      {
+        "codes": "olive 22",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 22.png"
+      },
+      {
+        "codes": "olive 23",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room 23.png"
+      },
+      {
+        "codes": "olive b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room b.png"
+      },
+      {
+        "codes": "olive c1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room c1.png"
+      },
+      {
+        "codes": "olive c2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room c2.png"
+      },
+      {
+        "codes": "olive g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room g1.png"
+      },
+      {
+        "codes": "olive g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room g2.png"
+      },
+      {
+        "codes": "olive h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 6/room h.png"
+      },
+      {
+        "codes": "peppermint 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 1.png"
+      },
+      {
+        "codes": "peppermint 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 2.png"
+      },
+      {
+        "codes": "peppermint 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 3.png"
+      },
+      {
+        "codes": "peppermint 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 4.png"
+      },
+      {
+        "codes": "peppermint 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 5.png"
+      },
+      {
+        "codes": "peppermint 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 6.png"
+      },
+      {
+        "codes": "peppermint 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 7.png"
+      },
+      {
+        "codes": "peppermint 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 8.png"
+      },
+      {
+        "codes": "peppermint 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 9.png"
+      },
+      {
+        "codes": "peppermint 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 10.png"
+      },
+      {
+        "codes": "peppermint 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 11.png"
+      },
+      {
+        "codes": "peppermint 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 12.png"
+      },
+      {
+        "codes": "peppermint 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 13.png"
+      },
+      {
+        "codes": "peppermint 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 14.png"
+      },
+      {
+        "codes": "peppermint 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 15.png"
+      },
+      {
+        "codes": "peppermint 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 16.png"
+      },
+      {
+        "codes": "peppermint 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 17.png"
+      },
+      {
+        "codes": "peppermint 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 18.png"
+      },
+      {
+        "codes": "peppermint 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 19.png"
+      },
+      {
+        "codes": "peppermint 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 20.png"
+      },
+      {
+        "codes": "peppermint 21",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 21.png"
+      },
+      {
+        "codes": "peppermint 22",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 22.png"
+      },
+      {
+        "codes": "peppermint 23",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 23.png"
+      },
+      {
+        "codes": "peppermint 24",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room 24.png"
+      },
+      {
+        "codes": "peppermint b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room b.png"
+      },
+      {
+        "codes": "peppermint c",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room c.png"
+      },
+      {
+        "codes": "peppermint g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room g1.png"
+      },
+      {
+        "codes": "peppermint g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room g2.png"
+      },
+      {
+        "codes": "peppermint h1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room h1.png"
+      },
+      {
+        "codes": "peppermint h2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room h2.png"
+      },
+      {
+        "codes": "peppermint w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 7/room w.png"
+      },
+      {
+        "codes": "radish 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 1.png"
+      },
+      {
+        "codes": "radish 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 2.png"
+      },
+      {
+        "codes": "radish 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 3.png"
+      },
+      {
+        "codes": "radish 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 4.png"
+      },
+      {
+        "codes": "radish 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 5.png"
+      },
+      {
+        "codes": "radish 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 6.png"
+      },
+      {
+        "codes": "radish 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 7.png"
+      },
+      {
+        "codes": "radish 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 8.png"
+      },
+      {
+        "codes": "radish 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 9.png"
+      },
+      {
+        "codes": "radish 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 10.png"
+      },
+      {
+        "codes": "radish 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 11.png"
+      },
+      {
+        "codes": "radish 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 12.png"
+      },
+      {
+        "codes": "radish 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 13.png"
+      },
+      {
+        "codes": "radish 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 14.png"
+      },
+      {
+        "codes": "radish 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 15.png"
+      },
+      {
+        "codes": "radish 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 16.png"
+      },
+      {
+        "codes": "radish 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 17.png"
+      },
+      {
+        "codes": "radish 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 18.png"
+      },
+      {
+        "codes": "radish 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 19.png"
+      },
+      {
+        "codes": "radish 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 20.png"
+      },
+      {
+        "codes": "radish 21",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 21.png"
+      },
+      {
+        "codes": "radish 22",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 22.png"
+      },
+      {
+        "codes": "radish 23",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room 23.png"
+      },
+      {
+        "codes": "radish b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room b.png"
+      },
+      {
+        "codes": "radish c1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room c1.png"
+      },
+      {
+        "codes": "radish c2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room c2.png"
+      },
+      {
+        "codes": "radish g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room g1.png"
+      },
+      {
+        "codes": "radish g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room g2.png"
+      },
+      {
+        "codes": "radish h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 8/room h.png"
+      },
+      {
+        "codes": "candy 1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 1.png"
+      },
+      {
+        "codes": "candy 2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 2.png"
+      },
+      {
+        "codes": "candy 3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 3.png"
+      },
+      {
+        "codes": "candy 4",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 4.png"
+      },
+      {
+        "codes": "candy 5",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 5.png"
+      },
+      {
+        "codes": "candy 6",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 6.png"
+      },
+      {
+        "codes": "candy 7",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 7.png"
+      },
+      {
+        "codes": "candy 8",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 8.png"
+      },
+      {
+        "codes": "candy 9",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 9.png"
+      },
+      {
+        "codes": "candy 10",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 10.png"
+      },
+      {
+        "codes": "candy 11",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 11.png"
+      },
+      {
+        "codes": "candy 12",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 12.png"
+      },
+      {
+        "codes": "candy 13",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 13.png"
+      },
+      {
+        "codes": "candy 14",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 14.png"
+      },
+      {
+        "codes": "candy 15",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 15.png"
+      },
+      {
+        "codes": "candy 16",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 16.png"
+      },
+      {
+        "codes": "candy 17",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 17.png"
+      },
+      {
+        "codes": "candy 18",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 18.png"
+      },
+      {
+        "codes": "candy 19",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 19.png"
+      },
+      {
+        "codes": "candy 20",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room 20.png"
+      },
+      {
+        "codes": "candy b",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room b.png"
+      },
+      {
+        "codes": "candy c1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room c1.png"
+      },
+      {
+        "codes": "candy c2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room c2.png"
+      },
+      {
+        "codes": "candy c3",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room c3.png"
+      },
+      {
+        "codes": "candy g1",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room g1.png"
+      },
+      {
+        "codes": "candy g2",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room g2.png"
+      },
+      {
+        "codes": "candy h",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room h.png"
+      },
+      {
+        "codes": "candy w",
+        "inherit_codes": false,
+        "img": "images/maps/Area 9/room w.png"
+      }
+    ]
+  }
+
+
+]

@@ -1175,6 +1175,8 @@
         "name": "Reach The Goal!",
         "access_rules": "",
         "visibility_rules": [
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
           "chest_unopened_img": "images/items/goal.png",
@@ -1320,6 +1322,8 @@
         "name": "Reach The Goal!",
         "access_rules": "",
         "visibility_rules": [
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
           "chest_unopened_img": "images/items/goal.png",

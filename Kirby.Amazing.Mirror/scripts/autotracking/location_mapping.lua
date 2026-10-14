@@ -22,6 +22,7 @@ LOCATION_MAPPING = {
 	------ Big Chests/Switches/Levers -----
 
 
+	[3960209] = { { "@Rainbow Route/Tutorial Big Chest/" } },
 	[3960200] = { { "@Cabagge Cavern/Goal/Big Chest/" } },
 	[3960201] = { { "@Olive Ocean/Chest 2/Big Chest/" } },
 	[3960202] = { { "@Peppermint Palace/Chest/Big Chest/" } },

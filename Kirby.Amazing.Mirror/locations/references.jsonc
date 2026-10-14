@@ -36,6 +36,15 @@
           "chest_opened_img": "images/items/central_g.png"}]
       },
       {
+        "name": "Tutorial Big Chest",
+        
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/chest_b.png",
+          "chest_opened_img": "images/items/chest_b_g.png"}]
+      },
+      {
         "name": "Rainbow Route First Visit",
         "sections":[
            
@@ -79,20 +88,24 @@
           {
             "name": "Enter Central Hub",
             "ref": "Rainbow Route/Enter Central Hub/"
-          }
+          },
+          {
+            "name": "Tutorial Big Chest",
+            "ref": "Rainbow Route/Tutorial Big Chest/"
+          },
         ],
         "map_locations": [
           {
             "map": "area 1",
-              "size": 28,
-              "border_thickness": 5,
+            "size": 28,
+            "border_thickness": 5,
             "x": 313,
             "y": 250
           },
           {
             "map": "hub",
-              "size": 24,
-              "border_thickness": 5,
+            "size": 24,
+            "border_thickness": 5,
             "x": 755,
             "y": 483
           }

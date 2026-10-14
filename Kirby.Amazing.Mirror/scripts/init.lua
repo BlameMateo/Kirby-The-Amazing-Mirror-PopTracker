@@ -52,3 +52,39 @@ Tracker:AddLayouts("layouts/broadcast.jsonc")
 if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")
 end
+
+local lever = Tracker:FindObjectForCode("mm_lever")
+if lever then
+    lever:SetOverlay("Moon")
+    lever:SetOverlayBackground("#808080")
+    lever:SetOverlayColor("#ffffff")
+    lever:SetOverlayFontSize(14)
+    lever:SetOverlayAlign("left")
+end
+
+local lever = Tracker:FindObjectForCode("oo_lever")
+if lever then
+    lever:SetOverlay("Olive")
+    lever:SetOverlayBackground("#808080")
+    lever:SetOverlayColor("#ffffff")
+    lever:SetOverlayFontSize(14)
+    lever:SetOverlayAlign("left")
+end
+
+local lever = Tracker:FindObjectForCode("cc_lever")
+if lever then
+    lever:SetOverlay("Carrot")
+    lever:SetOverlayBackground("#808080")
+    lever:SetOverlayColor("#ffffff")
+    lever:SetOverlayFontSize(14)
+    lever:SetOverlayAlign("left")
+end
+
+local lever = Tracker:FindObjectForCode("rr_lever")
+if lever then
+    lever:SetOverlay("Radish")
+    lever:SetOverlayBackground("#808080")
+    lever:SetOverlayColor("#ffffff")
+    lever:SetOverlayFontSize(14)
+    lever:SetOverlayAlign("left")
+end

@@ -3601,22 +3601,9 @@
   },
   {
     "name": "World Map",
-    "type": "progressive",
-    "allow_disabled": false,
-    "loop": false,
-    
-    "stages": [
-      {
-        "codes": "world map",
-        "inherit_codes": false,
-        "img": "images/items/collection room/world map_g.png"
-      },
-      {
-        "codes": "world map2",
-        "inherit_codes": false,
-        "img": "images/items/collection room/world map.png"
-      }
-    ]
+    "type": "static",
+    "codes": "world map",
+    "img": "images/items/collection room/world map.png"
   },
   {
     "name": "Rainbow Route Map",
@@ -3953,6 +3940,30 @@
     ]
   },
   {
+    "name": "Moonlight Mansion Lever",
+    "codes": "mm_lever",
+    "img": "images/items/lever.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Olive Ocean Lever",
+    "codes": "oo_lever",
+    "img": "images/items/lever.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Carrot Castle Lever",
+    "codes": "cc_lever",
+    "img": "images/items/lever.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Radish Ruins Lever",
+    "codes": "rr_lever",
+    "img": "images/items/lever.png",
+    "type": "toggle"
+  },
+  {
     "name": "Needed Shards",
     "type": "consumable",
     "codes": "mirror_n",
@@ -3969,6 +3980,18 @@
 
 
 
+  {
+    "name": "Vitality",
+    "type": "consumable",
+    "codes": "bonus_vitality",
+    "max_quantity": "5",
+    "initial_quantity": "0",
+    "overlay_background": "808080",
+    "allow_disabled": false,
+    "overlay_font_size": 12,
+    "overlay_align": "right",
+    "img": "images/items/vitality.png"
+  },
   
   {
     "name": "Battery",

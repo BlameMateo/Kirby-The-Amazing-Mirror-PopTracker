@@ -129,7 +129,7 @@
                 "radish ruins",
                 "carrot castle",
                 "cabbage cavern",
-                "",
+                "bonus_vitality",
                 "1-up"
               ]
             ]
@@ -284,7 +284,11 @@
             "h_alignment": "left",
             "rows": [
               [
-                "mirror_c"
+                "mirror_c",
+                "mm_lever",
+                "oo_lever",
+                "cc_lever",
+                "rr_lever"
               ]
             ]
           }

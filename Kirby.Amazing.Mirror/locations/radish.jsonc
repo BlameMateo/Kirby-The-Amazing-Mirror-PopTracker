@@ -27,26 +27,6 @@
             }
           ]
           
-      },  
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "radish 1",
-              "x": 1035,
-              "y": 35
-            }
-          ]
-          
       }
     ]    
   },
@@ -70,46 +50,6 @@
               "map": "radish 2",
               "x": 15,
               "y": 15
-            }
-          ]
-          
-      },  
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "radish 2",
-              "x": 1000,
-              "y": 100
-            }
-          ]
-          
-      },  
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "radish 2",
-              "x": 735,
-              "y": 125
             }
           ]
           
@@ -165,26 +105,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 4",
-            "x": 735,
-            "y": 20
-          }
-          ]
-          
       }
     ]    
   },
@@ -211,26 +131,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 5",
-            "x": 170,
-            "y": 425
-          }
-          ]
-          
       }
     ]    
   },
@@ -254,46 +154,6 @@
             "map": "radish 6",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 6",
-            "x": 480,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 6",
-            "x": 40,
-            "y": 215
           }
           ]
           
@@ -325,41 +185,21 @@
           
       },
       {
-        "name": "Soda",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 7",
-            "x": 590,
-            "y": 120
-          }
-          ]
           
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
             "map": "radish 7",
-            "x": 255,
-            "y": 120
+            "x": 175,
+            "y": 183
           }
           ]
           
@@ -415,66 +255,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Meat",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 9",
-            "x": 695,
-            "y": 120
-          }
-          ]
-          
-      },
-      {
-        "name": "Top Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 9",
-            "x": 440,
-            "y": 85
-          }
-          ]
-          
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 9",
-            "x": 150,
-            "y": 340
-          }
-          ]
-          
       }
     ]    
   },
@@ -501,86 +281,6 @@
           }
           ]
           
-      },
-      {
-        "name": "1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 10",
-            "x": 190,
-            "y": 655
-          }
-          ]
-          
-      },
-      {
-        "name": "Top Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 10",
-            "x": 180,
-            "y": 315
-          }
-          ]
-          
-      },
-      {
-        "name": "Bottom Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 10",
-            "x": 30,
-            "y": 755
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 10",
-            "x": 190,
-            "y": 420
-          }
-          ]
-          
       }
     ]    
   },
@@ -604,6 +304,26 @@
             "map": "radish 11",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "radish 11",
+            "x": 248,
+            "y": 270
           }
           ]
           
@@ -685,66 +405,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 14",
-            "x": 520,
-            "y": 120
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 14",
-            "x": 755,
-            "y": 235
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 14",
-            "x": 170,
-            "y": 295
-          }
-          ]
-          
       }
     ]    
   },
@@ -768,106 +428,6 @@
             "map": "radish 15",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Left Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 15",
-            "x": 105,
-            "y": 135
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 15",
-            "x": 215,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 15",
-            "x": 390,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 15",
-            "x": 560,
-            "y": 150
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 15",
-            "x": 585,
-            "y": 150
           }
           ]
           
@@ -897,26 +457,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Max Tomato",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 16",
-            "x": 142,
-            "y": 428
-          }
-          ]
-          
       }
     ]    
   },
@@ -940,66 +480,6 @@
             "map": "radish 17",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Left Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 17",
-            "x": 375,
-            "y": 135
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 17",
-            "x": 945,
-            "y": 75
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 17",
-            "x": 680,
-            "y": 265
           }
           ]
           
@@ -1029,46 +509,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 18",
-            "x": 170,
-            "y": 200
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 18",
-            "x": 265,
-            "y": 135
-          }
-          ]
-          
       }
     ]    
   },
@@ -1092,86 +532,6 @@
             "map": "radish 19",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 19",
-            "x": 98,
-            "y": 30
-          }
-          ]
-          
-      },
-      {
-        "name": "Left Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 19",
-            "x": 362,
-            "y": 20
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 19",
-            "x": 943,
-            "y": 20
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 19",
-            "x": 652,
-            "y": 20
           }
           ]
           
@@ -1201,86 +561,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Left Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 20",
-            "x": 245,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 20",
-            "x": 535,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 20",
-            "x": 685,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 20",
-            "x": 1115,
-            "y": 45
-          }
-          ]
-          
       }
     ]    
   },
@@ -1304,46 +584,6 @@
             "map": "radish 21",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 21",
-            "x": 175,
-            "y": 150
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 21",
-            "x": 80,
-            "y": 845
           }
           ]
           
@@ -1375,61 +615,41 @@
           
       },
       {
-        "name": "Max Tomato",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
             "map": "radish 22",
-            "x": 25,
-            "y": 185
+            "x": 208,
+            "y": 293
           }
           ]
           
       },
       {
-        "name": "Top Battery",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 22",
-            "x": 200,
-            "y": 250
-          }
-          ]
           
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
             "map": "radish 22",
-            "x": 200,
-            "y": 315
+            "x": 552,
+            "y": 40
           }
           ]
           
@@ -1456,86 +676,6 @@
             "map": "radish 23",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 23",
-            "x": 80,
-            "y": 360
-          }
-          ]
-          
-      },
-      {
-        "name": "Top Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 23",
-            "x": 80,
-            "y": 265
-          }
-          ]
-          
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 23",
-            "x": 80,
-            "y": 455
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 23",
-            "x": 105,
-            "y": 520
           }
           ]
           
@@ -1635,8 +775,8 @@
         [
           {
             "map": "radish c1",
-            "x": 673,
-            "y": 129
+            "x": 552,
+            "y": 100
           }
           ]
           
@@ -1679,7 +819,7 @@
         [
           {
             "map": "radish c2",
-            "x": 673,
+            "x": 433,
             "y": 129
           }
           ]
@@ -1725,8 +865,8 @@
         [
           {
             "map": "radish g1",
-            "x": 183,
-            "y": 312
+            "x": 696,
+            "y": 280
           }
           ]
           
@@ -1778,66 +918,6 @@
           
       },
       {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish g2",
-            "x": 328,
-            "y": 583
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish g2",
-            "x": 400,
-            "y": 375
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish g2",
-            "x": 310,
-            "y": 240
-          }
-          ]
-          
-      },
-      {
         "name": "Reach The Goal!",
         "access_rules": "",
         "visibility_rules": [
@@ -1884,15 +964,15 @@
           
       },
       {
-        "name": "Big Chest",        
+        "name": "Large Switch",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[
           {
           "name": "",
-          "chest_unopened_img": "images/items/chest_b.png",
-          "chest_opened_img": "images/items/chest_b_g.png"
+          "chest_unopened_img": "images/items/button.png",
+          "chest_opened_img": "images/items/button_g.png"
           }
         ],
         "map_locations": 

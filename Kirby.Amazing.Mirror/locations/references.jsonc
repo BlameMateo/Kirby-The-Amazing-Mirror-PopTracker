@@ -5501,6 +5501,10 @@
         {
           "name": "Enter Carrot Castle Room 7",
           "ref": "Carrot Castle/Room 7/Enter Carrot Castle Room 7/"
+        },
+        {
+          "name": "Small Chest",
+          "ref": "Carrot Castle/Room 7/Small Chest/"
         }
       ],
       "map_locations": [
@@ -5737,6 +5741,14 @@
         {
           "name": "Enter Carrot Castle Room 13",
           "ref": "Carrot Castle/Room 13/Enter Carrot Castle Room 13/"
+        },
+        {
+          "name": "Small Chest Top",
+          "ref": "Carrot Castle/Room 13/Small Chest Top/"
+        },
+        {
+          "name": "Small Chest Bottom",
+          "ref": "Carrot Castle/Room 13/Small Chest Bottom/"
         }
       ],
       "map_locations": [
@@ -6187,8 +6199,8 @@
             "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 750,
-              "y": 340
+              "x": 1170,
+              "y": 867
           }
           ]
       },
@@ -6209,22 +6221,18 @@
           {
             "name": "Enter Olive Ocean Room 1",
             "ref": "Olive Ocean/Room 1/Enter Olive Ocean Room 1/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 1/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 350,
-              "y": 250
+              "x": 46,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 785,
-              "y": 483
+              "x": 1028,
+              "y": 690
             }
           ]
       },
@@ -6245,26 +6253,18 @@
           {
             "name": "Enter Olive Ocean Room 2",
             "ref": "Olive Ocean/Room 2/Enter Olive Ocean Room 2/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 2/Cherry/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Olive Ocean/Room 2/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 385,
-              "y": 250
+              "x": 91,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 815,
-              "y": 483
+              "x": 1058,
+              "y": 690
             }
           ]
       },
@@ -6285,18 +6285,22 @@
           {
             "name": "Enter Olive Ocean Room 3",
             "ref": "Olive Ocean/Room 3/Enter Olive Ocean Room 3/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Olive Ocean/Room 3/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 421,
-              "y": 250
+              "x": 91,
+              "y": 205
             },
             {
               "map": "hub",
-              "x": 850,
-              "y": 483
+              "x": 1058,
+              "y": 740
             }
           ]
       },
@@ -6317,22 +6321,18 @@
           {
             "name": "Enter Olive Ocean Room 4",
             "ref": "Olive Ocean/Room 4/Enter Olive Ocean Room 4/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Olive Ocean/Room 4/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 457,
-              "y": 250
+              "x": 135,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 483
+              "x": 1090,
+              "y": 690
             }
           ]
       },
@@ -6353,22 +6353,18 @@
           {
             "name": "Enter Olive Ocean Room 5",
             "ref": "Olive Ocean/Room 5/Enter Olive Ocean Room 5/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 5/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 493,
-              "y": 250
+              "x": 181,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 483
+              "x": 1122,
+              "y": 690
             }
           ]
       },
@@ -6391,10 +6387,6 @@
             "ref": "Olive Ocean/Room 6/Enter Olive Ocean Room 6/"
           },
           {
-            "name": "Max Tomato",
-            "ref": "Olive Ocean/Room 6/Max Tomato/"
-          },
-          {
             "name": "Small Chest",
             "ref": "Olive Ocean/Room 6/Small Chest/"
           }
@@ -6402,13 +6394,13 @@
         "map_locations": [
             {
               "map": "area 6",
-              "x": 457,
-              "y": 286
+              "x": 249,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 515
+              "x": 1170,
+              "y": 690
             }
           ]
       },
@@ -6429,26 +6421,18 @@
           {
             "name": "Enter Olive Ocean Room 7",
             "ref": "Olive Ocean/Room 7/Enter Olive Ocean Room 7/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Olive Ocean/Room 7/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 7/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 493,
-              "y": 286
+              "x": 181,
+              "y": 184
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 515
+              "x": 1122,
+              "y": 722
             }
           ]
       },
@@ -6474,13 +6458,13 @@
         "map_locations": [
             {
               "map": "area 6",
-              "x": 457,
-              "y": 323
+              "x": 227,
+              "y": 228
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 545
+              "x": 1150,
+              "y": 755
             }
           ]
       },
@@ -6503,28 +6487,20 @@
             "ref": "Olive Ocean/Room 9/Enter Olive Ocean Room 9/"
           },
           {
-            "name": "Meat",
-            "ref": "Olive Ocean/Room 9/Meat/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Olive Ocean/Room 9/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Olive Ocean/Room 9/Bottom Battery/"
+            "name": "Small Chest",
+            "ref": "Olive Ocean/Room 9/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 493,
-              "y": 323
+              "x": 296,
+              "y": 228
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 545
+              "x": 1200,
+              "y": 755
             }
           ]
       },
@@ -6545,34 +6521,18 @@
           {
             "name": "Enter Olive Ocean Room 10",
             "ref": "Olive Ocean/Room 10/Enter Olive Ocean Room 10/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Olive Ocean/Room 10/1-Up/"
-          },
-          {
-            "name": "Top Cherry",
-            "ref": "Olive Ocean/Room 10/Top Cherry/"
-          },
-          {
-            "name": "Bottom Cherry",
-            "ref": "Olive Ocean/Room 10/Bottom Cherry/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 10/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 528,
-              "y": 359
+              "x": 387,
+              "y": 228
             },
             {
               "map": "hub",
-              "x": 947,
-              "y": 580
+              "x": 1267,
+              "y": 755
             }
           ]
       },      
@@ -6598,13 +6558,13 @@
         "map_locations": [
             {
               "map": "area 6",
-              "x": 564,
-              "y": 359
+              "x": 500,
+              "y": 228
             },
             {
               "map": "hub",
-              "x": 979,
-              "y": 580
+              "x": 1345,
+              "y": 755
             }
           ]
       },      
@@ -6630,13 +6590,13 @@
         "map_locations": [
             {
               "map": "area 6",
-              "x": 422,
-              "y": 359
+              "x": 592,
+              "y": 228
             },
             {
               "map": "hub",
-              "x": 851,
-              "y": 580
+              "x": 1410,
+              "y": 755
             }
           ]
       },
@@ -6662,13 +6622,13 @@
         "map_locations": [
             {
               "map": "area 6",
-              "x": 385,
-              "y": 394
+              "x": 592,
+              "y": 161
             },
             {
               "map": "hub",
-              "x": 818,
-              "y": 613
+              "x": 1410,
+              "y": 708
             }
           ]
       },
@@ -6689,30 +6649,18 @@
           {
             "name": "Enter Olive Ocean Room 14",
             "ref": "Olive Ocean/Room 14/Enter Olive Ocean Room 14/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Olive Ocean/Room 14/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 14/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 14/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 331,
-            "y": 394
+            "x": 660,
+            "y": 228
           },
           {
             "map": "hub",
-            "x": 772,
-            "y": 613
+            "x": 1458,
+            "y": 755
           }
           ]
       },      
@@ -6733,38 +6681,18 @@
           {
             "name": "Enter Olive Ocean Room 15",
             "ref": "Olive Ocean/Room 15/Enter Olive Ocean Room 15/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Olive Ocean/Room 15/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Olive Ocean/Room 15/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 15/Battery/"
-          },
-          {
-            "name": "Left 1-Up",
-            "ref": "Olive Ocean/Room 15/Left 1-Up/"
-          },
-          {
-            "name": "Right 1-Up",
-            "ref": "Olive Ocean/Room 15/Right 1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 241,
-            "y": 394
+            "x": 432,
+            "y": 275
           },
           {
             "map": "hub",
-            "x": 689,
-            "y": 613
+            "x": 1300,
+            "y": 788
           }
           ]
       },      
@@ -6785,22 +6713,21 @@
           {
             "name": "Enter Olive Ocean Room 16",
             "ref": "Olive Ocean/Room 16/Enter Olive Ocean Room 16/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Olive Ocean/Room 16/Max Tomato/"
+          },{
+            "name": "Small Chest",
+            "ref": "Olive Ocean/Room 16/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 205,
-              "y": 359
+              "x": 545,
+              "y": 320
             },
             {
               "map": "hub",
-              "x": 659,
-              "y": 580
+              "x": 1380,
+              "y": 820
             }
           ]
       },      
@@ -6821,30 +6748,18 @@
           {
             "name": "Enter Olive Ocean Room 17",
             "ref": "Olive Ocean/Room 17/Enter Olive Ocean Room 17/"
-          },
-          {
-            "name": "Left Battery",
-            "ref": "Olive Ocean/Room 17/Left Battery/"
-          },
-          {
-            "name": "Right Battery",
-            "ref": "Olive Ocean/Room 17/Right Battery/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Olive Ocean/Room 17/Meat/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 169,
-              "y": 359
+              "x": 592,
+              "y": 320
             },
             {
               "map": "hub",
-              "x": 627,
-              "y": 580
+              "x": 1410,
+              "y": 820
             }
           ]
       },    
@@ -6865,26 +6780,18 @@
           {
             "name": "Enter Olive Ocean Room 18",
             "ref": "Olive Ocean/Room 18/Enter Olive Ocean Room 18/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Olive Ocean/Room 18/Small Chest/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 18/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-              "x": 134,
-              "y": 359
+              "x": 387,
+              "y": 275
             },
             {
               "map": "hub",
-              "x": 595,
-              "y": 580
+              "x": 1267,
+              "y": 788
             }
           ]
       },  
@@ -6905,34 +6812,18 @@
           {
             "name": "Enter Olive Ocean Room 19",
             "ref": "Olive Ocean/Room 19/Enter Olive Ocean Room 19/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Olive Ocean/Room 19/Soda/"
-          },
-          {
-            "name": "Left Max Tomato",
-            "ref": "Olive Ocean/Room 19/Left Max Tomato/"
-          },
-          {
-            "name": "Right Max Tomato",
-            "ref": "Olive Ocean/Room 19/Right Max Tomato/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Olive Ocean/Room 19/1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 97,
-            "y": 394
+            "x": 387,
+            "y": 343
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 613
+            "x": 1267,
+            "y": 834
           }
           ]
       },
@@ -6953,34 +6844,18 @@
           {
             "name": "Enter Olive Ocean Room 20",
             "ref": "Olive Ocean/Room 20/Enter Olive Ocean Room 20/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Olive Ocean/Room 20/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Olive Ocean/Room 20/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Room 20/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 20/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 97,
-            "y": 359
+            "x": 431,
+            "y": 388
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 580
+            "x": 1300,
+            "y": 867
           }
           ]
       },  
@@ -7001,26 +6876,18 @@
           {
             "name": "Enter Olive Ocean Room 21",
             "ref": "Olive Ocean/Room 21/Enter Olive Ocean Room 21/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Olive Ocean/Room 21/Soda/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 21/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 97,
-            "y": 323
+            "x": 545,
+            "y": 388
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 545
+            "x": 1380,
+            "y": 867
           }
           ]
       },  
@@ -7041,30 +6908,18 @@
           {
             "name": "Enter Olive Ocean Room 22",
             "ref": "Olive Ocean/Room 22/Enter Olive Ocean Room 22/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Olive Ocean/Room 22/Max Tomato/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Olive Ocean/Room 22/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Olive Ocean/Room 22/Bottom Battery/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 169,
-            "y": 323
+            "x": 592,
+            "y": 388
           },
           {
             "map": "hub",
-            "x": 627,
-            "y": 545
+            "x": 1410,
+            "y": 867
           }
           ]
       },  
@@ -7085,34 +6940,18 @@
           {
             "name": "Enter Olive Ocean Room 23",
             "ref": "Olive Ocean/Room 23/Enter Olive Ocean Room 23/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Olive Ocean/Room 23/Soda/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Olive Ocean/Room 23/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Olive Ocean/Room 23/Bottom Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Olive Ocean/Room 23/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 6",
-            "x": 134,
-            "y": 323
+            "x": 637,
+            "y": 388
           },
           {
             "map": "hub",
-            "x": 595,
-            "y": 545
+            "x": 1443,
+            "y": 867
           }
           ]
       },
@@ -7164,17 +7003,17 @@
         "map_locations": [
           {
             "map": "area 6",
-              "size": 40,
-              "border_thickness": 6,
-            "x": 216,
-            "y": 68
+            "size": 40,
+            "border_thickness": 6,
+            "x": 684,
+            "y": 388
           },
           {
             "map": "hub",
-              "size": 24,
-              "border_thickness": 5,
-            "x": 787,
-            "y": 52
+            "size": 24,
+            "border_thickness": 5,
+            "x": 1475,
+            "y": 867
           }
           ]
       },    
@@ -7197,28 +7036,24 @@
             "ref": "Olive Ocean/Chest 1/Enter Olive Ocean Chest 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Olive Ocean/Chest 1/Small Chest/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Olive Ocean/Chest 1/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Olive Ocean/Chest 1/Big Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-            "size": 40,
-            "border_thickness": 6,
-          "x": 100,
-              "y": 100
+              "size": 40,
+              "border_thickness": 6,
+              "x": 500,
+              "y": 275
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-          "x": 979,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1346,
+              "y": 788
             }
           ]
       },    
@@ -7241,20 +7076,8 @@
             "ref": "Olive Ocean/Chest 2/Enter Olive Ocean Chest 2/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Olive Ocean/Chest 2/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Olive Ocean/Chest 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Chest 2/Battery/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Olive Ocean/Chest 2/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Olive Ocean/Chest 2/Big Chest/"
           }
         ],
         "map_locations": [
@@ -7262,15 +7085,15 @@
               "map": "area 6",
               "size": 40,
               "border_thickness": 6,
-              "x": 175,
-              "y": 100
+              "x": 498,
+              "y": 388
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 531,
-              "y": 613
+              "x": 1346,
+              "y": 867
             }
           ]
       }, 
@@ -7293,10 +7116,6 @@
             "ref": "Olive Ocean/Goal 1/Enter Olive Ocean Goal 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Olive Ocean/Goal 1/Small Chest/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Olive Ocean/Goal 1/Reach The Goal!/"
           }
@@ -7306,15 +7125,15 @@
               "map": "area 6",
               "size": 40,
               "border_thickness": 6,
-              "x": 564,
-              "y": 394
+              "x": 317,
+              "y": 137
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 979,
-              "y": 613
+              "x": 1219,
+              "y": 690
             }
           ]
       },    
@@ -7341,14 +7160,6 @@
             "ref": "Olive Ocean/Goal 2/Small Chest/"
           },
           {
-            "name": "Meat",
-            "ref": "Olive Ocean/Goal 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Olive Ocean/Goal 2/Battery/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Olive Ocean/Goal 2/Reach The Goal!/"
           }
@@ -7356,17 +7167,17 @@
         "map_locations": [
             {
               "map": "area 6",
-            "size": 40,
-            "border_thickness": 6,
-            "x": 61,
-              "y": 394
+              "size": 40,
+              "border_thickness": 6,
+              "x": 660,
+              "y": 160
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-            "x": 531,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1458,
+              "y": 708
             }
           ]
       },     
@@ -7389,24 +7200,24 @@
             "ref": "Olive Ocean/Hub/Enter Olive Ocean Hub/"
           },
           {
-            "name": "Big Chest",
-            "ref": "Olive Ocean/Hub/Big Chest/"
+            "name": "Large Switch",
+            "ref": "Olive Ocean/Hub/Large Switch/"
           }
         ],
         "map_locations": [
             {
               "map": "area 6",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 341,
+              "y": 228
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1234,
+              "y": 755
             }
           ]
       }
@@ -7463,8 +7274,8 @@
             "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 750,
-              "y": 340
+              "x": 195,
+              "y": 53
           }
           ]
       },
@@ -7485,22 +7296,18 @@
           {
             "name": "Enter Peppermint Palace Room 1",
             "ref": "Peppermint Palace/Room 1/Enter Peppermint Palace Room 1/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 1/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 350,
-              "y": 250
+              "x": 523,
+              "y": 414
             },
             {
               "map": "hub",
-              "x": 785,
-              "y": 483
+              "x": 387,
+              "y": 292
             }
           ]
       },
@@ -7523,24 +7330,24 @@
             "ref": "Peppermint Palace/Room 2/Enter Peppermint Palace Room 2/"
           },
           {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 2/Cherry/"
+            "name": "Small Chest 1",
+            "ref": "Peppermint Palace/Room 2/Small Chest 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Peppermint Palace/Room 2/Small Chest/"
+            "name": "Small Chest 2",
+            "ref": "Peppermint Palace/Room 2/Small Chest 2/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 385,
-              "y": 250
+              "x": 523,
+              "y": 370
             },
             {
               "map": "hub",
-              "x": 815,
-              "y": 483
+              "x": 387,
+              "y": 260
             }
           ]
       },
@@ -7566,13 +7373,13 @@
         "map_locations": [
             {
               "map": "area 7",
-              "x": 421,
-              "y": 250
+              "x": 523,
+              "y": 326
             },
             {
               "map": "hub",
-              "x": 850,
-              "y": 483
+              "x": 387,
+              "y": 225
             }
           ]
       },
@@ -7593,22 +7400,18 @@
           {
             "name": "Enter Peppermint Palace Room 4",
             "ref": "Peppermint Palace/Room 4/Enter Peppermint Palace Room 4/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Peppermint Palace/Room 4/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 457,
-              "y": 250
+              "x": 479,
+              "y": 369
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 483
+              "x": 353,
+              "y": 260
             }
           ]
       },
@@ -7631,20 +7434,20 @@
             "ref": "Peppermint Palace/Room 5/Enter Peppermint Palace Room 5/"
           },
           {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 5/Cherry/"
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 5/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 493,
-              "y": 250
+              "x": 567,
+              "y": 217
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 483
+              "x": 418,
+              "y": 148
             }
           ]
       },
@@ -7667,24 +7470,28 @@
             "ref": "Peppermint Palace/Room 6/Enter Peppermint Palace Room 6/"
           },
           {
-            "name": "Max Tomato",
-            "ref": "Peppermint Palace/Room 6/Max Tomato/"
+            "name": "Small Chest 1",
+            "ref": "Peppermint Palace/Room 6/Small Chest 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Peppermint Palace/Room 6/Small Chest/"
+            "name": "Small Chest 2",
+            "ref": "Peppermint Palace/Room 6/Small Chest 2/"
+          },
+          {
+            "name": "Small Chest 3",
+            "ref": "Peppermint Palace/Room 6/Small Chest 3/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 457,
-              "y": 286
+              "x": 523,
+              "y": 217
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 515
+              "x": 387,
+              "y": 148
             }
           ]
       },
@@ -7705,26 +7512,18 @@
           {
             "name": "Enter Peppermint Palace Room 7",
             "ref": "Peppermint Palace/Room 7/Enter Peppermint Palace Room 7/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Peppermint Palace/Room 7/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 7/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 493,
-              "y": 286
+              "x": 567,
+              "y": 172
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 515
+              "x": 418,
+              "y": 116
             }
           ]
       },
@@ -7745,18 +7544,22 @@
           {
             "name": "Enter Peppermint Palace Room 8",
             "ref": "Peppermint Palace/Room 8/Enter Peppermint Palace Room 8/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 8/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 457,
-              "y": 323
+              "x": 612,
+              "y": 172
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 545
+              "x": 451,
+              "y": 116
             }
           ]
       },
@@ -7779,28 +7582,24 @@
             "ref": "Peppermint Palace/Room 9/Enter Peppermint Palace Room 9/"
           },
           {
-            "name": "Meat",
-            "ref": "Peppermint Palace/Room 9/Meat/"
+            "name": "Small Chest 1",
+            "ref": "Peppermint Palace/Room 9/Small Chest 1/"
           },
           {
-            "name": "Top Battery",
-            "ref": "Peppermint Palace/Room 9/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Peppermint Palace/Room 9/Bottom Battery/"
+            "name": "Small Chest 2",
+            "ref": "Peppermint Palace/Room 9/Small Chest 2/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 493,
-              "y": 323
+              "x": 567,
+              "y": 128
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 545
+              "x": 418,
+              "y": 81
             }
           ]
       },
@@ -7823,32 +7622,28 @@
             "ref": "Peppermint Palace/Room 10/Enter Peppermint Palace Room 10/"
           },
           {
-            "name": "1-Up",
-            "ref": "Peppermint Palace/Room 10/1-Up/"
+            "name": "Small Chest 1",
+            "ref": "Peppermint Palace/Room 10/Small Chest 1/"
           },
           {
-            "name": "Top Cherry",
-            "ref": "Peppermint Palace/Room 10/Top Cherry/"
+            "name": "Small Chest 2",
+            "ref": "Peppermint Palace/Room 10/Small Chest 2/"
           },
           {
-            "name": "Bottom Cherry",
-            "ref": "Peppermint Palace/Room 10/Bottom Cherry/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 10/Battery/"
+            "name": "Small Chest 3",
+            "ref": "Peppermint Palace/Room 10/Small Chest 3/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 528,
-              "y": 359
+              "x": 567,
+              "y": 84
             },
             {
               "map": "hub",
-              "x": 947,
-              "y": 580
+              "x": 418,
+              "y": 52
             }
           ]
       },      
@@ -7874,13 +7669,13 @@
         "map_locations": [
             {
               "map": "area 7",
-              "x": 564,
-              "y": 359
+              "x": 523,
+              "y": 172
             },
             {
               "map": "hub",
-              "x": 979,
-              "y": 580
+              "x": 387,
+              "y": 116
             }
           ]
       },      
@@ -7906,13 +7701,13 @@
         "map_locations": [
             {
               "map": "area 7",
-              "x": 422,
-              "y": 359
+              "x": 479,
+              "y": 172
             },
             {
               "map": "hub",
-              "x": 851,
-              "y": 580
+              "x": 353,
+              "y": 116
             }
           ]
       },
@@ -7933,18 +7728,22 @@
           {
             "name": "Enter Peppermint Palace Room 13",
             "ref": "Peppermint Palace/Room 13/Enter Peppermint Palace Room 13/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 13/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 385,
-              "y": 394
+              "x": 435,
+              "y": 172
             },
             {
               "map": "hub",
-              "x": 818,
-              "y": 613
+              "x": 322,
+              "y": 116
             }
           ]
       },
@@ -7967,28 +7766,20 @@
             "ref": "Peppermint Palace/Room 14/Enter Peppermint Palace Room 14/"
           },
           {
-            "name": "Soda",
-            "ref": "Peppermint Palace/Room 14/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 14/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 14/Cherry/"
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 14/Small Chest/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 331,
-            "y": 394
+            "x": 370,
+            "y": 172
           },
           {
             "map": "hub",
-            "x": 772,
-            "y": 613
+            "x": 275,
+            "y": 116
           }
           ]
       },      
@@ -8009,38 +7800,18 @@
           {
             "name": "Enter Peppermint Palace Room 15",
             "ref": "Peppermint Palace/Room 15/Enter Peppermint Palace Room 15/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Peppermint Palace/Room 15/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Peppermint Palace/Room 15/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 15/Battery/"
-          },
-          {
-            "name": "Left 1-Up",
-            "ref": "Peppermint Palace/Room 15/Left 1-Up/"
-          },
-          {
-            "name": "Right 1-Up",
-            "ref": "Peppermint Palace/Room 15/Right 1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 241,
-            "y": 394
+            "x": 195,
+            "y": 172
           },
           {
             "map": "hub",
-            "x": 689,
-            "y": 613
+            "x": 146,
+            "y": 116
           }
           ]
       },      
@@ -8061,22 +7832,18 @@
           {
             "name": "Enter Peppermint Palace Room 16",
             "ref": "Peppermint Palace/Room 16/Enter Peppermint Palace Room 16/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Peppermint Palace/Room 16/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 205,
-              "y": 359
+              "x": 370,
+              "y": 239
             },
             {
               "map": "hub",
-              "x": 659,
-              "y": 580
+              "x": 275,
+              "y": 163
             }
           ]
       },      
@@ -8097,30 +7864,18 @@
           {
             "name": "Enter Peppermint Palace Room 17",
             "ref": "Peppermint Palace/Room 17/Enter Peppermint Palace Room 17/"
-          },
-          {
-            "name": "Left Battery",
-            "ref": "Peppermint Palace/Room 17/Left Battery/"
-          },
-          {
-            "name": "Right Battery",
-            "ref": "Peppermint Palace/Room 17/Right Battery/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Peppermint Palace/Room 17/Meat/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 169,
-              "y": 359
+              "x": 370,
+              "y": 326
             },
             {
               "map": "hub",
-              "x": 627,
-              "y": 580
+              "x": 275,
+              "y": 225
             }
           ]
       },    
@@ -8141,26 +7896,18 @@
           {
             "name": "Enter Peppermint Palace Room 18",
             "ref": "Peppermint Palace/Room 18/Enter Peppermint Palace Room 18/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Peppermint Palace/Room 18/Small Chest/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 18/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-              "x": 134,
-              "y": 359
+              "x": 304,
+              "y": 326
             },
             {
               "map": "hub",
-              "x": 595,
-              "y": 580
+              "x": 225,
+              "y": 225
             }
           ]
       },  
@@ -8183,32 +7930,20 @@
             "ref": "Peppermint Palace/Room 19/Enter Peppermint Palace Room 19/"
           },
           {
-            "name": "Soda",
-            "ref": "Peppermint Palace/Room 19/Soda/"
-          },
-          {
-            "name": "Left Max Tomato",
-            "ref": "Peppermint Palace/Room 19/Left Max Tomato/"
-          },
-          {
-            "name": "Right Max Tomato",
-            "ref": "Peppermint Palace/Room 19/Right Max Tomato/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Peppermint Palace/Room 19/1-Up/"
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 19/Small Chest/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 97,
-            "y": 394
+            "x": 238,
+            "y": 326
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 613
+            "x": 178,
+            "y": 225
           }
           ]
       },
@@ -8229,34 +7964,18 @@
           {
             "name": "Enter Peppermint Palace Room 20",
             "ref": "Peppermint Palace/Room 20/Enter Peppermint Palace Room 20/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Peppermint Palace/Room 20/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Peppermint Palace/Room 20/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Room 20/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 20/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 97,
-            "y": 359
+            "x": 195,
+            "y": 326
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 580
+            "x": 146,
+            "y": 225
           }
           ]
       },  
@@ -8277,26 +7996,18 @@
           {
             "name": "Enter Peppermint Palace Room 21",
             "ref": "Peppermint Palace/Room 21/Enter Peppermint Palace Room 21/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Peppermint Palace/Room 21/Soda/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 21/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 97,
-            "y": 323
+            "x": 195,
+            "y": 369
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 545
+            "x": 146,
+            "y": 260
           }
           ]
       },  
@@ -8319,28 +8030,20 @@
             "ref": "Peppermint Palace/Room 22/Enter Peppermint Palace Room 22/"
           },
           {
-            "name": "Max Tomato",
-            "ref": "Peppermint Palace/Room 22/Max Tomato/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Peppermint Palace/Room 22/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Peppermint Palace/Room 22/Bottom Battery/"
+            "name": "Small Chest",
+            "ref": "Peppermint Palace/Room 22/Small Chest/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 169,
-            "y": 323
+            "x": 195,
+            "y": 282
           },
           {
             "map": "hub",
-            "x": 627,
-            "y": 545
+            "x": 146,
+            "y": 196
           }
           ]
       },  
@@ -8361,34 +8064,18 @@
           {
             "name": "Enter Peppermint Palace Room 23",
             "ref": "Peppermint Palace/Room 23/Enter Peppermint Palace Room 23/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Peppermint Palace/Room 23/Soda/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Peppermint Palace/Room 23/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Peppermint Palace/Room 23/Bottom Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Peppermint Palace/Room 23/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 7",
-            "x": 134,
-            "y": 323
+            "x": 129,
+            "y": 282
           },
           {
             "map": "hub",
-            "x": 595,
-            "y": 545
+            "x": 100,
+            "y": 196
           }
           ]
       },
@@ -8414,13 +8101,13 @@
         "map_locations": [
           {
             "map": "area 7",
-            "x": 134,
-            "y": 323
+            "x": 83,
+            "y": 282
           },
           {
             "map": "hub",
-            "x": 595,
-            "y": 545
+            "x": 66,
+            "y": 196
           }
           ]
       },
@@ -8472,17 +8159,17 @@
         "map_locations": [
           {
             "map": "area 7",
-              "size": 40,
-              "border_thickness": 6,
-            "x": 216,
-            "y": 68
+            "size": 40,
+            "border_thickness": 6,
+            "x": 40,
+            "y": 282
           },
           {
             "map": "hub",
-              "size": 24,
-              "border_thickness": 5,
-            "x": 787,
-            "y": 52
+            "size": 24,
+            "border_thickness": 5,
+            "x": 36,
+            "y": 196
           }
           ]
       },    
@@ -8505,28 +8192,32 @@
             "ref": "Peppermint Palace/Chest/Enter Peppermint Palace Chest/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Peppermint Palace/Chest/Small Chest/"
+            "name": "Big Chest",
+            "ref": "Peppermint Palace/Chest/Big Chest/"
           },
           {
-            "name": "Reach The Chest!",
-            "ref": "Peppermint Palace/Chest/Reach The Chest!/"
+            "name": "Small Chest 1",
+            "ref": "Peppermint Palace/Chest/Small Chest 1/"
+          },
+          {
+            "name": "Small Chest 2",
+            "ref": "Peppermint Palace/Chest/Small Chest 2/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-            "size": 40,
-            "border_thickness": 6,
-          "x": 100,
-              "y": 100
+              "size": 40,
+              "border_thickness": 6,
+              "x": 612,
+              "y": 217
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-          "x": 979,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 451,
+              "y": 148
             }
           ]
       },
@@ -8549,10 +8240,6 @@
             "ref": "Peppermint Palace/Goal 1/Enter Peppermint Palace Goal 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Peppermint Palace/Goal 1/Small Chest/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Peppermint Palace/Goal 1/Reach The Goal!/"
           }
@@ -8562,15 +8249,15 @@
               "map": "area 7",
               "size": 40,
               "border_thickness": 6,
-              "x": 564,
-              "y": 394
+              "x": 677,
+              "y": 172
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 979,
-              "y": 613
+              "x": 499,
+              "y": 116
             }
           ]
       },    
@@ -8597,14 +8284,6 @@
             "ref": "Peppermint Palace/Goal 2/Small Chest/"
           },
           {
-            "name": "Meat",
-            "ref": "Peppermint Palace/Goal 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Peppermint Palace/Goal 2/Battery/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Peppermint Palace/Goal 2/Reach The Goal!/"
           }
@@ -8612,17 +8291,17 @@
         "map_locations": [
             {
               "map": "area 7",
-            "size": 40,
-            "border_thickness": 6,
-            "x": 61,
-              "y": 394
+              "size": 40,
+              "border_thickness": 6,
+              "x": 129,
+              "y": 369
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-            "x": 531,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 100,
+              "y": 260
             }
           ]
       },     
@@ -8645,24 +8324,24 @@
             "ref": "Peppermint Palace/Hub 1/Enter Peppermint Palace Hub 1/"
           },
           {
-            "name": "Big Chest",
-            "ref": "Peppermint Palace/Hub 1/Big Chest/"
+            "name": "Large Switch",
+            "ref": "Peppermint Palace/Hub 1/Large Switch/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 523,
+              "y": 257
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 387,
+              "y": 180
             }
           ]
       },
@@ -8685,24 +8364,24 @@
             "ref": "Peppermint Palace/Hub 2/Enter Peppermint Palace Hub 2/"
           },
           {
-            "name": "Big Chest",
-            "ref": "Peppermint Palace/Hub 2/Big Chest/"
+            "name": "Large Switch",
+            "ref": "Peppermint Palace/Hub 2/Large Switch/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 415,
+              "y": 369
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 307,
+              "y": 260
             }
           ]
       },
@@ -8723,26 +8402,22 @@
           {
             "name": "Enter Peppermint Palace Warp",
             "ref": "Peppermint Palace/Warp/Enter Peppermint Palace Warp/"
-          },
-          {
-            "name": "Big Chest",
-            "ref": "Peppermint Palace/Warp/Big Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 7",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 634,
+              "y": 84
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 467,
+              "y": 52
             }
           ]
       }
@@ -8799,8 +8474,8 @@
             "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 750,
-              "y": 340
+              "x": 160,
+              "y": 835
           }
           ]
       },
@@ -8821,22 +8496,18 @@
           {
             "name": "Enter Radish Ruins Room 1",
             "ref": "Radish Ruins/Room 1/Enter Radish Ruins Room 1/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 1/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 350,
-              "y": 250
+              "x": 705,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 785,
-              "y": 483
+              "x": 467,
+              "y": 802
             }
           ]
       },
@@ -8857,26 +8528,18 @@
           {
             "name": "Enter Radish Ruins Room 2",
             "ref": "Radish Ruins/Room 2/Enter Radish Ruins Room 2/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 2/Cherry/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Room 2/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 385,
-              "y": 250
+              "x": 630,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 815,
-              "y": 483
+              "x": 417,
+              "y": 802
             }
           ]
       },
@@ -8902,13 +8565,13 @@
         "map_locations": [
             {
               "map": "area 8",
-              "x": 421,
-              "y": 250
+              "x": 580,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 850,
-              "y": 483
+              "x": 386,
+              "y": 802
             }
           ]
       },
@@ -8929,22 +8592,18 @@
           {
             "name": "Enter Radish Ruins Room 4",
             "ref": "Radish Ruins/Room 4/Enter Radish Ruins Room 4/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Radish Ruins/Room 4/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 457,
-              "y": 250
+              "x": 529,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 483
+              "x": 354,
+              "y": 802
             }
           ]
       },
@@ -8965,22 +8624,18 @@
           {
             "name": "Enter Radish Ruins Room 5",
             "ref": "Radish Ruins/Room 5/Enter Radish Ruins Room 5/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 5/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 493,
-              "y": 250
+              "x": 480,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 483
+              "x": 322,
+              "y": 802
             }
           ]
       },
@@ -9001,26 +8656,18 @@
           {
             "name": "Enter Radish Ruins Room 6",
             "ref": "Radish Ruins/Room 6/Enter Radish Ruins Room 6/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Radish Ruins/Room 6/Max Tomato/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Room 6/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 457,
-              "y": 286
+              "x": 480,
+              "y": 262
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 515
+              "x": 322,
+              "y": 755
             }
           ]
       },
@@ -9043,24 +8690,20 @@
             "ref": "Radish Ruins/Room 7/Enter Radish Ruins Room 7/"
           },
           {
-            "name": "Soda",
-            "ref": "Radish Ruins/Room 7/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 7/Battery/"
+            "name": "Small Chest",
+            "ref": "Radish Ruins/Room 7/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 493,
-              "y": 286
+              "x": 529,
+              "y": 262
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 515
+              "x": 354,
+              "y": 755
             }
           ]
       },
@@ -9086,13 +8729,13 @@
         "map_locations": [
             {
               "map": "area 8",
-              "x": 457,
-              "y": 323
+              "x": 580,
+              "y": 262
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 545
+              "x": 386,
+              "y": 755
             }
           ]
       },
@@ -9113,30 +8756,18 @@
           {
             "name": "Enter Radish Ruins Room 9",
             "ref": "Radish Ruins/Room 9/Enter Radish Ruins Room 9/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Radish Ruins/Room 9/Meat/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Radish Ruins/Room 9/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Radish Ruins/Room 9/Bottom Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 493,
-              "y": 323
+              "x": 529,
+              "y": 212
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 545
+              "x": 354,
+              "y": 724
             }
           ]
       },
@@ -9157,34 +8788,18 @@
           {
             "name": "Enter Radish Ruins Room 10",
             "ref": "Radish Ruins/Room 10/Enter Radish Ruins Room 10/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Radish Ruins/Room 10/1-Up/"
-          },
-          {
-            "name": "Top Cherry",
-            "ref": "Radish Ruins/Room 10/Top Cherry/"
-          },
-          {
-            "name": "Bottom Cherry",
-            "ref": "Radish Ruins/Room 10/Bottom Cherry/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 10/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 528,
-              "y": 359
+              "x": 380,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 947,
-              "y": 580
+              "x": 258,
+              "y": 802
             }
           ]
       },      
@@ -9205,18 +8820,22 @@
           {
             "name": "Enter Radish Ruins Room 11",
             "ref": "Radish Ruins/Room 11/Enter Radish Ruins Room 11/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Radish Ruins/Room 11/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 564,
-              "y": 359
+              "x": 329,
+              "y": 287
             },
             {
               "map": "hub",
-              "x": 979,
-              "y": 580
+              "x": 226,
+              "y": 772
             }
           ]
       },      
@@ -9242,13 +8861,13 @@
         "map_locations": [
             {
               "map": "area 8",
-              "x": 422,
-              "y": 359
+              "x": 329,
+              "y": 237
             },
             {
               "map": "hub",
-              "x": 851,
-              "y": 580
+              "x": 226,
+              "y": 740
             }
           ]
       },
@@ -9274,13 +8893,13 @@
         "map_locations": [
             {
               "map": "area 8",
-              "x": 385,
-              "y": 394
+              "x": 280,
+              "y": 287
             },
             {
               "map": "hub",
-              "x": 818,
-              "y": 613
+              "x": 194,
+              "y": 772
             }
           ]
       },
@@ -9301,30 +8920,18 @@
           {
             "name": "Enter Radish Ruins Room 14",
             "ref": "Radish Ruins/Room 14/Enter Radish Ruins Room 14/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Radish Ruins/Room 14/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 14/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 14/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 331,
-            "y": 394
+            "x": 280,
+            "y": 212
           },
           {
             "map": "hub",
-            "x": 772,
-            "y": 613
+            "x": 194,
+            "y": 724
           }
           ]
       },      
@@ -9345,38 +8952,18 @@
           {
             "name": "Enter Radish Ruins Room 15",
             "ref": "Radish Ruins/Room 15/Enter Radish Ruins Room 15/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Radish Ruins/Room 15/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Radish Ruins/Room 15/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 15/Battery/"
-          },
-          {
-            "name": "Left 1-Up",
-            "ref": "Radish Ruins/Room 15/Left 1-Up/"
-          },
-          {
-            "name": "Right 1-Up",
-            "ref": "Radish Ruins/Room 15/Right 1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 241,
-            "y": 394
+            "x": 280,
+            "y": 137
           },
           {
             "map": "hub",
-            "x": 689,
-            "y": 613
+            "x": 194,
+            "y": 675
           }
           ]
       },      
@@ -9397,22 +8984,18 @@
           {
             "name": "Enter Radish Ruins Room 16",
             "ref": "Radish Ruins/Room 16/Enter Radish Ruins Room 16/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Radish Ruins/Room 16/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 205,
-              "y": 359
+              "x": 329,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 659,
-              "y": 580
+              "x": 226,
+              "y": 675
             }
           ]
       },      
@@ -9433,30 +9016,18 @@
           {
             "name": "Enter Radish Ruins Room 17",
             "ref": "Radish Ruins/Room 17/Enter Radish Ruins Room 17/"
-          },
-          {
-            "name": "Left Battery",
-            "ref": "Radish Ruins/Room 17/Left Battery/"
-          },
-          {
-            "name": "Right Battery",
-            "ref": "Radish Ruins/Room 17/Right Battery/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Radish Ruins/Room 17/Meat/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 169,
-              "y": 359
+              "x": 380,
+              "y": 137
             },
             {
               "map": "hub",
-              "x": 627,
-              "y": 580
+              "x": 258,
+              "y": 675
             }
           ]
       },    
@@ -9477,26 +9048,18 @@
           {
             "name": "Enter Radish Ruins Room 18",
             "ref": "Radish Ruins/Room 18/Enter Radish Ruins Room 18/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Room 18/Small Chest/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 18/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-              "x": 134,
-              "y": 359
+              "x": 280,
+              "y": 337
             },
             {
               "map": "hub",
-              "x": 595,
-              "y": 580
+              "x": 194,
+              "y": 802
             }
           ]
       },  
@@ -9517,34 +9080,18 @@
           {
             "name": "Enter Radish Ruins Room 19",
             "ref": "Radish Ruins/Room 19/Enter Radish Ruins Room 19/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Radish Ruins/Room 19/Soda/"
-          },
-          {
-            "name": "Left Max Tomato",
-            "ref": "Radish Ruins/Room 19/Left Max Tomato/"
-          },
-          {
-            "name": "Right Max Tomato",
-            "ref": "Radish Ruins/Room 19/Right Max Tomato/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Radish Ruins/Room 19/1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 97,
-            "y": 394
+            "x": 229,
+            "y": 287
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 613
+            "x": 161,
+            "y": 772
           }
           ]
       },
@@ -9565,34 +9112,18 @@
           {
             "name": "Enter Radish Ruins Room 20",
             "ref": "Radish Ruins/Room 20/Enter Radish Ruins Room 20/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Radish Ruins/Room 20/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Radish Ruins/Room 20/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Room 20/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 20/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 97,
-            "y": 359
+            "x": 229,
+            "y": 212
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 580
+            "x": 161,
+            "y": 724
           }
           ]
       },  
@@ -9613,26 +9144,18 @@
           {
             "name": "Enter Radish Ruins Room 21",
             "ref": "Radish Ruins/Room 21/Enter Radish Ruins Room 21/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Radish Ruins/Room 21/Soda/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 21/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 97,
-            "y": 323
+            "x": 229,
+            "y": 137
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 545
+            "x": 161,
+            "y": 675
           }
           ]
       },  
@@ -9655,28 +9178,24 @@
             "ref": "Radish Ruins/Room 22/Enter Radish Ruins Room 22/"
           },
           {
-            "name": "Max Tomato",
-            "ref": "Radish Ruins/Room 22/Max Tomato/"
+            "name": "Small Chest 1",
+            "ref": "Radish Ruins/Room 22/Small Chest 1/"
           },
           {
-            "name": "Top Battery",
-            "ref": "Radish Ruins/Room 22/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Radish Ruins/Room 22/Bottom Battery/"
+            "name": "Small Chest 2",
+            "ref": "Radish Ruins/Room 22/Small Chest 2/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 169,
-            "y": 323
+            "x": 180,
+            "y": 137
           },
           {
             "map": "hub",
-            "x": 627,
-            "y": 545
+            "x": 130,
+            "y": 675
           }
           ]
       },  
@@ -9697,34 +9216,18 @@
           {
             "name": "Enter Radish Ruins Room 23",
             "ref": "Radish Ruins/Room 23/Enter Radish Ruins Room 23/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Radish Ruins/Room 23/Soda/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Radish Ruins/Room 23/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Radish Ruins/Room 23/Bottom Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Radish Ruins/Room 23/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 8",
-            "x": 134,
-            "y": 323
+            "x": 129,
+            "y": 137
           },
           {
             "map": "hub",
-            "x": 595,
-            "y": 545
+            "x": 100,
+            "y": 675
           }
           ]
       },
@@ -9776,17 +9279,17 @@
         "map_locations": [
           {
             "map": "area 8",
-              "size": 40,
-              "border_thickness": 6,
-            "x": 216,
-            "y": 68
+            "size": 40,
+            "border_thickness": 6,
+            "x": 29,
+            "y": 137
           },
           {
             "map": "hub",
-              "size": 24,
-              "border_thickness": 5,
-            "x": 787,
-            "y": 52
+            "size": 24,
+            "border_thickness": 5,
+            "x": 35,
+            "y": 675
           }
           ]
       },    
@@ -9809,28 +9312,24 @@
             "ref": "Radish Ruins/Chest 1/Enter Radish Ruins Chest 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Chest 1/Small Chest/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Radish Ruins/Chest 1/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Radish Ruins/Chest 1/Big Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-            "size": 40,
-            "border_thickness": 6,
-          "x": 100,
-              "y": 100
+              "size": 40,
+              "border_thickness": 6,
+              "x": 529,
+              "y": 386
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-          "x": 979,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 354,
+              "y": 836
             }
           ]
       },    
@@ -9853,20 +9352,8 @@
             "ref": "Radish Ruins/Chest 2/Enter Radish Ruins Chest 2/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Chest 2/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Radish Ruins/Chest 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Chest 2/Battery/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Radish Ruins/Chest 2/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Radish Ruins/Chest 2/Big Chest/"
           }
         ],
         "map_locations": [
@@ -9874,15 +9361,15 @@
               "map": "area 8",
               "size": 40,
               "border_thickness": 6,
-              "x": 175,
-              "y": 100
+              "x": 329,
+              "y": 187
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 531,
-              "y": 613
+              "x": 226,
+              "y": 706
             }
           ]
       }, 
@@ -9918,15 +9405,15 @@
               "map": "area 8",
               "size": 40,
               "border_thickness": 6,
-              "x": 564,
-              "y": 394
+              "x": 604,
+              "y": 212
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 979,
-              "y": 613
+              "x": 403,
+              "y": 724
             }
           ]
       },    
@@ -9949,18 +9436,6 @@
             "ref": "Radish Ruins/Goal 2/Enter Radish Ruins Goal 2/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Radish Ruins/Goal 2/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Radish Ruins/Goal 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Radish Ruins/Goal 2/Battery/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Radish Ruins/Goal 2/Reach The Goal!/"
           }
@@ -9968,17 +9443,17 @@
         "map_locations": [
             {
               "map": "area 8",
-            "size": 40,
-            "border_thickness": 6,
-            "x": 61,
-              "y": 394
+              "size": 40,
+              "border_thickness": 6,
+              "x": 454,
+              "y": 137
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-            "x": 531,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 307,
+              "y": 675
             }
           ]
       },     
@@ -10001,24 +9476,24 @@
             "ref": "Radish Ruins/Hub/Enter Radish Ruins Hub/"
           },
           {
-            "name": "Big Chest",
-            "ref": "Radish Ruins/Hub/Big Chest/"
+            "name": "Large Switch",
+            "ref": "Radish Ruins/Hub/Large Switch/"
           }
         ],
         "map_locations": [
             {
               "map": "area 8",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 429,
+              "y": 337
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 291,
+              "y": 802
             }
           ]
       }
@@ -10075,8 +9550,8 @@
             "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 750,
-              "y": 340
+              "x": 1490,
+              "y": 36
           }
           ]
       },
@@ -10097,22 +9572,18 @@
           {
             "name": "Enter Candy Constellation Room 1",
             "ref": "Candy Constellation/Room 1/Enter Candy Constellation Room 1/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Candy Constellation/Room 1/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 350,
-              "y": 250
+              "x": 163,
+              "y": 367
             },
             {
               "map": "hub",
-              "x": 785,
-              "y": 483
+              "x": 1235,
+              "y": 259
             }
           ]
       },
@@ -10135,10 +9606,6 @@
             "ref": "Candy Constellation/Room 2/Enter Candy Constellation Room 2/"
           },
           {
-            "name": "Cherry",
-            "ref": "Candy Constellation/Room 2/Cherry/"
-          },
-          {
             "name": "Small Chest",
             "ref": "Candy Constellation/Room 2/Small Chest/"
           }
@@ -10146,13 +9613,13 @@
         "map_locations": [
             {
               "map": "area 9",
-              "x": 385,
-              "y": 250
+              "x": 115,
+              "y": 367
             },
             {
               "map": "hub",
-              "x": 815,
-              "y": 483
+              "x": 1202,
+              "y": 259
             }
           ]
       },
@@ -10173,18 +9640,22 @@
           {
             "name": "Enter Candy Constellation Room 3",
             "ref": "Candy Constellation/Room 3/Enter Candy Constellation Room 3/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Candy Constellation/Room 3/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 421,
-              "y": 250
+              "x": 115,
+              "y": 415
             },
             {
               "map": "hub",
-              "x": 850,
-              "y": 483
+              "x": 1202,
+              "y": 290
             }
           ]
       },
@@ -10205,22 +9676,18 @@
           {
             "name": "Enter Candy Constellation Room 4",
             "ref": "Candy Constellation/Room 4/Enter Candy Constellation Room 4/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Candy Constellation/Room 4/Max Tomato/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 457,
-              "y": 250
+              "x": 18,
+              "y": 463
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 483
+              "x": 1138,
+              "y": 324
             }
           ]
       },
@@ -10241,22 +9708,18 @@
           {
             "name": "Enter Candy Constellation Room 5",
             "ref": "Candy Constellation/Room 5/Enter Candy Constellation Room 5/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Candy Constellation/Room 5/Cherry/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 493,
-              "y": 250
+              "x": 403,
+              "y": 463
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 483
+              "x": 1393,
+              "y": 324
             }
           ]
       },
@@ -10277,26 +9740,18 @@
           {
             "name": "Enter Candy Constellation Room 6",
             "ref": "Candy Constellation/Room 6/Enter Candy Constellation Room 6/"
-          },
-          {
-            "name": "Max Tomato",
-            "ref": "Candy Constellation/Room 6/Max Tomato/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Room 6/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 457,
-              "y": 286
+              "x": 307,
+              "y": 367
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 515
+              "x": 1330,
+              "y": 259
             }
           ]
       },
@@ -10317,26 +9772,18 @@
           {
             "name": "Enter Candy Constellation Room 7",
             "ref": "Candy Constellation/Room 7/Enter Candy Constellation Room 7/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Candy Constellation/Room 7/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 7/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 493,
-              "y": 286
+              "x": 235,
+              "y": 367
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 515
+              "x": 1282,
+              "y": 259
             }
           ]
       },
@@ -10362,13 +9809,13 @@
         "map_locations": [
             {
               "map": "area 9",
-              "x": 457,
-              "y": 323
+              "x": 331,
+              "y": 270
             },
             {
               "map": "hub",
-              "x": 885,
-              "y": 545
+              "x": 1346,
+              "y": 195
             }
           ]
       },
@@ -10389,30 +9836,18 @@
           {
             "name": "Enter Candy Constellation Room 9",
             "ref": "Candy Constellation/Room 9/Enter Candy Constellation Room 9/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Candy Constellation/Room 9/Meat/"
-          },
-          {
-            "name": "Top Battery",
-            "ref": "Candy Constellation/Room 9/Top Battery/"
-          },
-          {
-            "name": "Bottom Battery",
-            "ref": "Candy Constellation/Room 9/Bottom Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 493,
-              "y": 323
+              "x": 259,
+              "y": 270
             },
             {
               "map": "hub",
-              "x": 915,
-              "y": 545
+              "x": 1300,
+              "y": 195
             }
           ]
       },
@@ -10435,32 +9870,20 @@
             "ref": "Candy Constellation/Room 10/Enter Candy Constellation Room 10/"
           },
           {
-            "name": "1-Up",
-            "ref": "Candy Constellation/Room 10/1-Up/"
-          },
-          {
-            "name": "Top Cherry",
-            "ref": "Candy Constellation/Room 10/Top Cherry/"
-          },
-          {
-            "name": "Bottom Cherry",
-            "ref": "Candy Constellation/Room 10/Bottom Cherry/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 10/Battery/"
+            "name": "Small Chest",
+            "ref": "Candy Constellation/Room 10/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 528,
-              "y": 359
+              "x": 331,
+              "y": 222
             },
             {
               "map": "hub",
-              "x": 947,
-              "y": 580
+              "x": 1346,
+              "y": 164
             }
           ]
       },      
@@ -10486,13 +9909,13 @@
         "map_locations": [
             {
               "map": "area 9",
-              "x": 564,
-              "y": 359
+              "x": 283,
+              "y": 175
             },
             {
               "map": "hub",
-              "x": 979,
-              "y": 580
+              "x": 1315,
+              "y": 131
             }
           ]
       },      
@@ -10513,18 +9936,22 @@
           {
             "name": "Enter Candy Constellation Room 12",
             "ref": "Candy Constellation/Room 12/Enter Candy Constellation Room 12/"
+          },
+          {
+            "name": "Small Chest",
+            "ref": "Candy Constellation/Room 12/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 422,
-              "y": 359
+              "x": 379,
+              "y": 222
             },
             {
               "map": "hub",
-              "x": 851,
-              "y": 580
+              "x": 1380,
+              "y": 164
             }
           ]
       },
@@ -10550,13 +9977,13 @@
         "map_locations": [
             {
               "map": "area 9",
-              "x": 385,
-              "y": 394
+              "x": 427,
+              "y": 222
             },
             {
               "map": "hub",
-              "x": 818,
-              "y": 613
+              "x": 1410,
+              "y": 164
             }
           ]
       },
@@ -10577,30 +10004,18 @@
           {
             "name": "Enter Candy Constellation Room 14",
             "ref": "Candy Constellation/Room 14/Enter Candy Constellation Room 14/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Candy Constellation/Room 14/Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 14/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Candy Constellation/Room 14/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 9",
-            "x": 331,
-            "y": 394
+            "x": 476,
+            "y": 126
           },
           {
             "map": "hub",
-            "x": 772,
-            "y": 613
+            "x": 1443,
+            "y": 100
           }
           ]
       },      
@@ -10621,38 +10036,18 @@
           {
             "name": "Enter Candy Constellation Room 15",
             "ref": "Candy Constellation/Room 15/Enter Candy Constellation Room 15/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Candy Constellation/Room 15/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Candy Constellation/Room 15/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 15/Battery/"
-          },
-          {
-            "name": "Left 1-Up",
-            "ref": "Candy Constellation/Room 15/Left 1-Up/"
-          },
-          {
-            "name": "Right 1-Up",
-            "ref": "Candy Constellation/Room 15/Right 1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 9",
-            "x": 241,
-            "y": 394
+            "x": 524,
+            "y": 126
           },
           {
             "map": "hub",
-            "x": 689,
-            "y": 613
+            "x": 1474,
+            "y": 100
           }
           ]
       },      
@@ -10675,20 +10070,20 @@
             "ref": "Candy Constellation/Room 16/Enter Candy Constellation Room 16/"
           },
           {
-            "name": "Max Tomato",
-            "ref": "Candy Constellation/Room 16/Max Tomato/"
+            "name": "Small Chest",
+            "ref": "Candy Constellation/Room 16/Small Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 205,
-              "y": 359
+              "x": 524,
+              "y": 174
             },
             {
               "map": "hub",
-              "x": 659,
-              "y": 580
+              "x": 1474,
+              "y": 131
             }
           ]
       },      
@@ -10709,30 +10104,18 @@
           {
             "name": "Enter Candy Constellation Room 17",
             "ref": "Candy Constellation/Room 17/Enter Candy Constellation Room 17/"
-          },
-          {
-            "name": "Left Battery",
-            "ref": "Candy Constellation/Room 17/Left Battery/"
-          },
-          {
-            "name": "Right Battery",
-            "ref": "Candy Constellation/Room 17/Right Battery/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Candy Constellation/Room 17/Meat/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 169,
-              "y": 359
+              "x": 596,
+              "y": 126
             },
             {
               "map": "hub",
-              "x": 627,
-              "y": 580
+              "x": 1521,
+              "y": 100
             }
           ]
       },    
@@ -10753,26 +10136,18 @@
           {
             "name": "Enter Candy Constellation Room 18",
             "ref": "Candy Constellation/Room 18/Enter Candy Constellation Room 18/"
-          },
-          {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Room 18/Small Chest/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 18/Battery/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-              "x": 134,
-              "y": 359
+              "x": 644,
+              "y": 126
             },
             {
               "map": "hub",
-              "x": 595,
-              "y": 580
+              "x": 1552,
+              "y": 100
             }
           ]
       },  
@@ -10793,34 +10168,18 @@
           {
             "name": "Enter Candy Constellation Room 19",
             "ref": "Candy Constellation/Room 19/Enter Candy Constellation Room 19/"
-          },
-          {
-            "name": "Soda",
-            "ref": "Candy Constellation/Room 19/Soda/"
-          },
-          {
-            "name": "Left Max Tomato",
-            "ref": "Candy Constellation/Room 19/Left Max Tomato/"
-          },
-          {
-            "name": "Right Max Tomato",
-            "ref": "Candy Constellation/Room 19/Right Max Tomato/"
-          },
-          {
-            "name": "1-Up",
-            "ref": "Candy Constellation/Room 19/1-Up/"
           }
         ],
         "map_locations": [
           {
             "map": "area 9",
-            "x": 97,
-            "y": 394
+            "x": 692,
+            "y": 126
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 613
+            "x": 1587,
+            "y": 100
           }
           ]
       },
@@ -10841,34 +10200,18 @@
           {
             "name": "Enter Candy Constellation Room 20",
             "ref": "Candy Constellation/Room 20/Enter Candy Constellation Room 20/"
-          },
-          {
-            "name": "Left Soda",
-            "ref": "Candy Constellation/Room 20/Left Soda/"
-          },
-          {
-            "name": "Right Soda",
-            "ref": "Candy Constellation/Room 20/Right Soda/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Room 20/Battery/"
-          },
-          {
-            "name": "Cherry",
-            "ref": "Candy Constellation/Room 20/Cherry/"
           }
         ],
         "map_locations": [
           {
             "map": "area 9",
-            "x": 97,
-            "y": 359
+            "x": 692,
+            "y": 78
           },
           {
             "map": "hub",
-            "x": 563,
-            "y": 580
+            "x": 1587,
+            "y": 70
           }
           ]
       },
@@ -10920,17 +10263,17 @@
         "map_locations": [
           {
             "map": "area 9",
-              "size": 40,
-              "border_thickness": 6,
-            "x": 216,
-            "y": 68
+            "size": 40,
+            "border_thickness": 6,
+            "x": 692,
+            "y": 31
           },
           {
             "map": "hub",
-              "size": 24,
-              "border_thickness": 5,
-            "x": 787,
-            "y": 52
+            "size": 24,
+            "border_thickness": 5,
+            "x": 1587,
+            "y": 36
           }
           ]
       },    
@@ -10953,28 +10296,24 @@
             "ref": "Candy Constellation/Chest 1/Enter Candy Constellation Chest 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Chest 1/Small Chest/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Candy Constellation/Chest 1/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Candy Constellation/Chest 1/Big Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-            "size": 40,
-            "border_thickness": 6,
-          "x": 100,
-              "y": 100
+              "size": 40,
+              "border_thickness": 6,
+              "x": 283,
+              "y": 415
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-          "x": 979,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1315,
+              "y": 291
             }
           ]
       },    
@@ -10997,20 +10336,12 @@
             "ref": "Candy Constellation/Chest 2/Enter Candy Constellation Chest 2/"
           },
           {
+            "name": "Big Chest",
+            "ref": "Candy Constellation/Chest 2/Big Chest/"
+          },
+          {
             "name": "Small Chest",
             "ref": "Candy Constellation/Chest 2/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Candy Constellation/Chest 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Chest 2/Battery/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Candy Constellation/Chest 2/Reach The Chest!/"
           }
         ],
         "map_locations": [
@@ -11018,15 +10349,15 @@
               "map": "area 9",
               "size": 40,
               "border_thickness": 6,
-              "x": 175,
-              "y": 100
+              "x": 163,
+              "y": 270
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 531,
-              "y": 613
+              "x": 1235,
+              "y": 195
             }
           ]
       },    
@@ -11049,20 +10380,8 @@
             "ref": "Candy Constellation/Chest 3/Enter Candy Constellation Chest 3/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Chest 3/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Candy Constellation/Chest 3/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Chest 3/Battery/"
-          },
-          {
-            "name": "Reach The Chest!",
-            "ref": "Candy Constellation/Chest 3/Reach The Chest!/"
+            "name": "Big Chest",
+            "ref": "Candy Constellation/Chest 3/Big Chest/"
           }
         ],
         "map_locations": [
@@ -11070,15 +10389,15 @@
               "map": "area 9",
               "size": 40,
               "border_thickness": 6,
-              "x": 175,
-              "y": 100
+              "x": 427,
+              "y": 295
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 531,
-              "y": 613
+              "x": 1410,
+              "y": 212
             }
           ]
       }, 
@@ -11101,10 +10420,6 @@
             "ref": "Candy Constellation/Goal 1/Enter Candy Constellation Goal 1/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Goal 1/Small Chest/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Candy Constellation/Goal 1/Reach The Goal!/"
           }
@@ -11114,15 +10429,15 @@
               "map": "area 9",
               "size": 40,
               "border_thickness": 6,
-              "x": 564,
-              "y": 394
+              "x": 211,
+              "y": 175
             },
             {
               "map": "hub",
               "size": 24,
               "border_thickness": 5,
-              "x": 979,
-              "y": 613
+              "x": 1268,
+              "y": 131
             }
           ]
       },    
@@ -11145,18 +10460,6 @@
             "ref": "Candy Constellation/Goal 2/Enter Candy Constellation Goal 2/"
           },
           {
-            "name": "Small Chest",
-            "ref": "Candy Constellation/Goal 2/Small Chest/"
-          },
-          {
-            "name": "Meat",
-            "ref": "Candy Constellation/Goal 2/Meat/"
-          },
-          {
-            "name": "Battery",
-            "ref": "Candy Constellation/Goal 2/Battery/"
-          },
-          {
             "name": "Reach The Goal!",
             "ref": "Candy Constellation/Goal 2/Reach The Goal!/"
           }
@@ -11164,17 +10467,17 @@
         "map_locations": [
             {
               "map": "area 9",
-            "size": 40,
-            "border_thickness": 6,
-            "x": 61,
-              "y": 394
+              "size": 40,
+              "border_thickness": 6,
+              "x": 500,
+              "y": 295
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-            "x": 531,
-              "y": 613
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1460,
+              "y": 212
             }
           ]
       },     
@@ -11197,24 +10500,24 @@
             "ref": "Candy Constellation/Hub/Enter Candy Constellation Hub/"
           },
           {
-            "name": "Big Chest",
-            "ref": "Candy Constellation/Hub/Big Chest/"
+            "name": "Large",
+            "ref": "Candy Constellation/Hub/Large Switch/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 283,
+              "y": 318
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1315,
+              "y": 227
             }
           ]
       },     
@@ -11235,26 +10538,22 @@
           {
             "name": "Enter Candy Constellation Warp",
             "ref": "Candy Constellation/Warp/Enter Candy Constellation Warp/"
-          },
-          {
-            "name": "Big Chest",
-            "ref": "Candy Constellation/Warp/Big Chest/"
           }
         ],
         "map_locations": [
             {
               "map": "area 9",
-            "size": 40,
-            "border_thickness": 6,
-              "x": 528,
-              "y": 304
+              "size": 40,
+              "border_thickness": 6,
+              "x": 476,
+              "y": 222
             },
             {
               "map": "hub",
-            "size": 24,
-            "border_thickness": 5,
-              "x": 947,
-              "y": 532
+              "size": 24,
+              "border_thickness": 5,
+              "x": 1443,
+              "y": 164
             }
           ]
       }

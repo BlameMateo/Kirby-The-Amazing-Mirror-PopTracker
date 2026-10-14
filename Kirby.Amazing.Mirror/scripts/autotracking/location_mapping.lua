@@ -17,12 +17,9 @@ LOCATION_MAPPING = {
 	[BASE_LOCATION_ID + 00005] = { { "@Cabbage Cavern/Boss/Beat Moley/" } },
 	[BASE_LOCATION_ID + 00006] = { { "@Carrot Castle/Boss/Beat Mega Titan/" } },
 	[BASE_LOCATION_ID + 00007] = { { "@Radish Ruins/Boss/Beat Meta Knight/" } },
-
-
-
 	
 
-	------ Chests/Switches -----
+	------ Big Chests/Switches/Levers -----
 
 
 	[3960200] = { { "@Cabagge Cavern/Goal/Big Chest/" } },
@@ -56,8 +53,88 @@ LOCATION_MAPPING = {
 	[3960413] = { { "@Olive Ocean/Hub/Large Switch/" } },
 	[3960414] = { { "@Candy Constelation/Hub/Large Switch/" } },
 
+	[3960415] = { { "@Moonlight Mansion/Room 11/Lever/" } },
+	[3960416] = { { "@Olive Ocean/Room 13/Lever/" } },
+	[3960417] = { { "@Carrot Castle/Room 5/Lever/" } },
+	[3960418] = { { "@Radish Ruins/Room 12/Lever/" } },
 
 
+	------ Small Chests ------
+
+
+	[3960566] = { { "@Rainbow Route/Room 2/Small Chest/" } },
+	[3960567] = { { "@Rainbow Route/Room 6/Small Chest/" } },
+	[3960582] = { { "@Rainbow Route/Room 18/Small Chest/" } },
+	[3960503] = { { "@Rainbow Route/Room 28/Small Chest/" } },
+	[3960580] = { { "@Rainbow Route/Room 33/Small Chest/" } },
+	[3960514] = { { "@Rainbow Route/Room 39/Small Chest/" } },
+	[3960581] = { { "@Rainbow Route/Goal 1/Small Chest/" } },
+	[3960583] = { { "@Rainbow Route/Goal 2/Small Chest/" } },
+	[3960568] = { { "@Rainbow Route/Goal 3/Small Chest/" } },
+
+	[3960510] = { { "@Moonlight Mansion/Room 7/Small Chest/" } },
+	[3960585] = { { "@Moonlight Mansion/Room 15/Small Chest/" } },
+	[3960521] = { { "@Moonlight Mansion/Room 17/Small Chest/" } },
+	[3960569] = { { "@Moonlight Mansion/Room 20/Small Chest/" } },
+	[3960513] = { { "@Moonlight Mansion/Goal 2/Left Small Chest/" } },
+	[3960584] = { { "@Moonlight Mansion/Goal 2/Right Small Chest/" } },
+
+	[3960522] = { { "@Cabbage Cavern/Room 5/Small Chest/" } },
+	[3960511] = { { "@Cabbage Cavern/Room 6/Small Chest/" } },
+	[3960576] = { { "@Cabbage Cavern/Room 9/Small Chest/" } },
+	[3960516] = { { "@Cabbage Cavern/Room 12/Small Chest/" } },
+	[3960507] = { { "@Cabbage Cavern/Room 14/Small Chest/" } },
+	[3960577] = { { "@Cabbage Cavern/Room 15/Small Chest/" } },
+	[3960600] = { { "@Cabbage Cavern/Goal/Small Chest/" } },
+
+	[3960573] = { { "@Mustard Mountain/Room 5/Small Chest/" } },
+	[3960597] = { { "@Mustard Mountain/Room 10/Small Chest/" } },
+	[3960574] = { { "@Mustard Mountain/Room 11/Small Chest/" } },
+	[3960512] = { { "@Mustard Mountain/Goal 2/Small Chest/" } },
+
+	[3960605] = { { "@Carrot Castle/Room 7/Small Chest/" } },
+	[3960519] = { { "@Carrot Castle/Room 13/Small Chest Top/" } },
+	[3960606] = { { "@Carrot Castle/Room 13/Small Chest Bottom/" } },
+	[3960501] = { { "@Carrot Castle/Room 16/Small Chest/" } },
+
+	[3960602] = { { "@Olive Ocean/Room 3/Small Chest/" } },
+	[3960506] = { { "@Olive Ocean/Room 6/Small Chest/" } },
+	[3960601] = { { "@Olive Ocean/Room 9/Small Chest/" } },
+	[3960578] = { { "@Olive Ocean/Room 16/Small Chest/" } },
+	[3960523] = { { "@Olive Ocean/Goal 2/Small Chest/" } },
+
+	[3960570] = { { "@Peppermint Palace/Room 2/Small Chest 1/" } },
+	[3960586] = { { "@Peppermint Palace/Room 2/Small Chest 2/" } },
+	[3960504] = { { "@Peppermint Palace/Room 5/Small Chest/" } },
+	[3960590] = { { "@Peppermint Palace/Room 6/Small Chest 1/" } },
+	[3960591] = { { "@Peppermint Palace/Room 6/Small Chest 2/" } },
+	[3960515] = { { "@Peppermint Palace/Room 6/Small Chest 3/" } },
+	[3960518] = { { "@Peppermint Palace/Room 8/Small Chest/" } },
+	[3960571] = { { "@Peppermint Palace/Room 9/Small Chest 1/" } },
+	[3960592] = { { "@Peppermint Palace/Room 9/Small Chest 2/" } },
+	[3960508] = { { "@Peppermint Palace/Room 10/Small Chest 1/" } },
+	[3960593] = { { "@Peppermint Palace/Room 10/Small Chest 2/" } },
+	[3960594] = { { "@Peppermint Palace/Room 10/Small Chest 3/" } },
+	[3960589] = { { "@Peppermint Palace/Room 13/Small Chest/" } },
+	[3960595] = { { "@Peppermint Palace/Room 14/Small Chest/" } },
+	[3960572] = { { "@Peppermint Palace/Room 19/Small Chest/" } },
+	[3960500] = { { "@Peppermint Palace/Room 22/Small Chest/" } },
+	[3960587] = { { "@Peppermint Palace/Chest/Small Chest 1/" } },
+	[3960588] = { { "@Peppermint Palace/Chest/Small Chest 2/" } },
+	[3960596] = { { "@Peppermint Palace/Goal 2/Small Chest/" } },
+
+	[3960603] = { { "@Radish Ruins/Room 7/Small Chest/" } },
+	[3960579] = { { "@Radish Ruins/Room 11/Small Chest/" } },
+	[3960517] = { { "@Radish Ruins/Room 22/Small Chest 1/" } },
+	[3960604] = { { "@Radish Ruins/Room 22/Small Chest 2/" } },
+	[3960509] = { { "@Radish Ruins/Goal 1/Small Chest/" } },
+
+	[3960502] = { { "@Candy Constellation/Room 2/Small Chest/" } },
+	[3960599] = { { "@Candy Constellation/Room 3/Small Chest/" } },
+	[3960598] = { { "@Candy Constellation/Room 10/Small Chest/" } },
+	[3960575] = { { "@Candy Constellation/Room 12/Small Chest/" } },
+	[3960520] = { { "@Candy Constellation/Room 16/Small Chest/" } },
+	[3960505] = { { "@Candy Constellation/Chest 2/Small Chest/" } },
 
 
 	------ Enter Rooms ------

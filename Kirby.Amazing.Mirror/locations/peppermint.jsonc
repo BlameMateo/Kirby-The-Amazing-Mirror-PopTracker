@@ -27,26 +27,6 @@
             }
           ]
           
-      },  
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 1",
-              "x": 1035,
-              "y": 35
-            }
-          ]
-          
       }
     ]    
   },
@@ -75,7 +55,7 @@
           
       },  
       {
-        "name": "Small Chest",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
           
@@ -88,28 +68,28 @@
         [
             {
               "map": "peppermint 2",
-              "x": 1000,
-              "y": 100
+              "x": 498,
+              "y": 70
             }
           ]
           
       },  
       {
-        "name": "Cherry",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
             {
               "map": "peppermint 2",
-              "x": 735,
-              "y": 125
+              "x": 710,
+              "y": 55
             }
           ]
           
@@ -165,26 +145,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 4",
-            "x": 735,
-            "y": 20
-          }
-          ]
-          
       }
     ]    
   },
@@ -213,22 +173,22 @@
           
       },
       {
-        "name": "Cherry",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 5",
-            "x": 170,
-            "y": 425
-          }
+            {
+              "map": "peppermint 5",
+              "x": 250,
+              "y": 460
+            }
           ]
           
       }
@@ -259,27 +219,7 @@
           
       },
       {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 6",
-            "x": 480,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
           
@@ -290,11 +230,51 @@
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 6",
-            "x": 40,
-            "y": 215
-          }
+            {
+              "map": "peppermint 6",
+              "x": 890,
+              "y": 150
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 2",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 6",
+              "x": 370,
+              "y": 300
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 3",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 6",
+              "x": 700,
+              "y": 150
+            }
           ]
           
       }
@@ -323,46 +303,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 7",
-            "x": 590,
-            "y": 120
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 7",
-            "x": 255,
-            "y": 120
-          }
-          ]
-          
       }
     ]    
   },
@@ -387,6 +327,26 @@
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 8",
+              "x": 640,
+              "y": 135
+            }
           ]
           
       }
@@ -417,62 +377,42 @@
           
       },
       {
-        "name": "Meat",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 9",
-            "x": 695,
-            "y": 120
-          }
+            {
+              "map": "peppermint 9",
+              "x": 480,
+              "y": 200
+            }
           ]
           
       },
       {
-        "name": "Top Battery",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 9",
-            "x": 440,
-            "y": 85
-          }
-          ]
           
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 9",
-            "x": 150,
-            "y": 340
-          }
+            {
+              "map": "peppermint 9",
+              "x": 240,
+              "y": 455
+            }
           ]
           
       }
@@ -503,82 +443,62 @@
           
       },
       {
-        "name": "1-Up",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 10",
-            "x": 190,
-            "y": 655
-          }
+            {
+              "map": "peppermint 10",
+              "x": 585,
+              "y": 135
+            }
           ]
           
       },
       {
-        "name": "Top Cherry",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 10",
-            "x": 180,
-            "y": 315
-          }
+            {
+              "map": "peppermint 10",
+              "x": 105,
+              "y": 440
+            }
           ]
           
       },
       {
-        "name": "Bottom Cherry",
+        "name": "Small Chest 3",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 10",
-            "x": 30,
-            "y": 755
-          }
-          ]
           
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 10",
-            "x": 190,
-            "y": 420
-          }
+            {
+              "map": "peppermint 10",
+              "x": 153,
+              "y": 247
+            }
           ]
           
       }
@@ -659,6 +579,26 @@
           }
           ]
           
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 13",
+              "x": 40,
+              "y": 70
+            }
+          ]
+          
       }
     ]    
   },
@@ -687,62 +627,22 @@
           
       },
       {
-        "name": "Soda",        
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 14",
-            "x": 520,
-            "y": 120
-          }
-          ]
           
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 14",
-            "x": 755,
-            "y": 235
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 14",
-            "x": 170,
-            "y": 295
-          }
+            {
+              "map": "peppermint 14",
+              "x": 72,
+              "y": 140
+            }
           ]
           
       }
@@ -768,106 +668,6 @@
             "map": "peppermint 15",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Left Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 15",
-            "x": 105,
-            "y": 135
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 15",
-            "x": 215,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 15",
-            "x": 390,
-            "y": 105
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 15",
-            "x": 560,
-            "y": 150
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 15",
-            "x": 585,
-            "y": 150
           }
           ]
           
@@ -897,26 +697,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Max Tomato",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 16",
-            "x": 142,
-            "y": 428
-          }
-          ]
-          
       }
     ]    
   },
@@ -943,66 +723,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Left Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 17",
-            "x": 375,
-            "y": 135
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 17",
-            "x": 945,
-            "y": 75
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 17",
-            "x": 680,
-            "y": 265
-          }
-          ]
-          
       }
     ]    
   },
@@ -1026,46 +746,6 @@
             "map": "peppermint 18",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 18",
-            "x": 170,
-            "y": 200
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 18",
-            "x": 265,
-            "y": 135
           }
           ]
           
@@ -1097,82 +777,22 @@
           
       },
       {
-        "name": "Soda",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 19",
-            "x": 98,
-            "y": 30
-          }
-          ]
           
-      },
-      {
-        "name": "Left Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 19",
-            "x": 362,
-            "y": 20
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 19",
-            "x": 943,
-            "y": 20
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 19",
-            "x": 652,
-            "y": 20
-          }
+            {
+              "map": "peppermint 19",
+              "x": 610,
+              "y": 70
+            }
           ]
           
       }
@@ -1201,86 +821,6 @@
           }
           ]
           
-      },
-      {
-        "name": "Left Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 20",
-            "x": 245,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 20",
-            "x": 535,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 20",
-            "x": 685,
-            "y": 35
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 20",
-            "x": 1115,
-            "y": 45
-          }
-          ]
-          
       }
     ]    
   },
@@ -1304,46 +844,6 @@
             "map": "peppermint 21",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 21",
-            "x": 175,
-            "y": 150
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 21",
-            "x": 80,
-            "y": 845
           }
           ]
           
@@ -1375,62 +875,22 @@
           
       },
       {
-        "name": "Max Tomato",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 22",
-            "x": 25,
-            "y": 185
-          }
-          ]
           
-      },
-      {
-        "name": "Top Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "peppermint 22",
-            "x": 200,
-            "y": 250
-          }
-          ]
-          
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 22",
-            "x": 200,
-            "y": 315
-          }
+            {
+              "map": "peppermint 22",
+              "x": 630,
+              "y": 57
+            }
           ]
           
       }
@@ -1456,86 +916,6 @@
             "map": "peppermint 23",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 23",
-            "x": 80,
-            "y": 360
-          }
-          ]
-          
-      },
-      {
-        "name": "Top Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 23",
-            "x": 80,
-            "y": 265
-          }
-          ]
-          
-      },
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 23",
-            "x": 80,
-            "y": 455
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 23",
-            "x": 105,
-            "y": 520
           }
           ]
           
@@ -1661,8 +1041,48 @@
         [
           {
             "map": "peppermint c",
-            "x": 673,
-            "y": 129
+            "x": 290,
+            "y": 500
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 1",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint c",
+            "x": 55,
+            "y": 55
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 2",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint c",
+            "x": 161,
+            "y": 500
           }
           ]
           
@@ -1689,26 +1109,6 @@
             "map": "peppermint g1",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint g1",
-            "x": 183,
-            "y": 312
           }
           ]
           
@@ -1773,48 +1173,8 @@
         [
           {
             "map": "peppermint g2",
-            "x": 328,
-            "y": 583
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint g2",
-            "x": 400,
-            "y": 375
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint g2",
-            "x": 310,
-            "y": 240
+            "x": 905,
+            "y": 140
           }
           ]
           
@@ -1866,15 +1226,15 @@
           
       },
       {
-        "name": "Big Chest",        
+        "name": "Large Switch",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[
           {
           "name": "",
-          "chest_unopened_img": "images/items/chest_b.png",
-          "chest_opened_img": "images/items/chest_b_g.png"
+          "chest_unopened_img": "images/items/button.png",
+          "chest_opened_img": "images/items/button_g.png"
           }
         ],
         "map_locations": 
@@ -1914,15 +1274,15 @@
           
       },
       {
-        "name": "Big Chest",        
+        "name": "Large Switch",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[
           {
           "name": "",
-          "chest_unopened_img": "images/items/chest_b.png",
-          "chest_opened_img": "images/items/chest_b_g.png"
+          "chest_unopened_img": "images/items/button.png",
+          "chest_opened_img": "images/items/button_g.png"
           }
         ],
         "map_locations": 
@@ -1957,28 +1317,6 @@
             "map": "peppermint w",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Big Chest",        
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[
-          {
-          "name": "",
-          "chest_unopened_img": "images/items/chest_b.png",
-          "chest_opened_img": "images/items/chest_b_g.png"
-          }
-        ],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint w",
-            "x": 128,
-            "y": 105
           }
           ]
           

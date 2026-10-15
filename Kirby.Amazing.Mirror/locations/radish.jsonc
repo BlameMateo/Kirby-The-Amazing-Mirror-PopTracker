@@ -353,6 +353,24 @@
           }
           ]
           
+      },
+      {
+        "name": "Lever",
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/lever.png",
+          "chest_opened_img": "images/items/lever_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "radish 12",
+            "x": 170,
+            "y": 115
+          }
+          ]
+          
       }
     ]    
   },

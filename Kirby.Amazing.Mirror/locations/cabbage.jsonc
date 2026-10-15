@@ -1029,7 +1029,6 @@
         "visibility_rules": [
         ],
         "sections":[{
-          "name": "Cabage Cavern",
           "chest_unopened_img": "images/items/chest_b.png",
           "chest_opened_img": "images/items/chest_b_g.png"}],
         "map_locations": 
@@ -1048,7 +1047,6 @@
         "visibility_rules": [
         ],
         "sections":[{
-          "name": "Cabage Cavern",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 

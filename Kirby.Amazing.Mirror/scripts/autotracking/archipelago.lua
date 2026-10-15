@@ -126,7 +126,7 @@ function onClear(slot_data)
 					if location_code:sub(1, 1) == "@" then
 						local obj = Tracker:FindObjectForCode(location_code)
 						if obj then
-							--obj.AvailableChestCount = obj.ChestCount
+							obj.AvailableChestCount = obj.ChestCount
 							if obj.Highlight then
 								obj.Highlight = Highlight.None
 							end

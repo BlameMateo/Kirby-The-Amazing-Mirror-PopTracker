@@ -3163,7 +3163,7 @@
         },
         {
           "name": "Meat",
-          "ref": "Moonlight Mansion/Moonlight Mansion/Goal 2/Meat/"
+          "ref": "Moonlight Mansion/Goal 2/Meat/"
         },
         {
           "name": "Cherry",
@@ -5550,10 +5550,6 @@
         {
           "name": "Enter Carrot Castle Room 8",
           "ref": "Carrot Castle/Room 8/Enter Carrot Castle Room 8/"
-        },
-        {
-          "name": "Invincibility Candy",
-          "ref": "Carrot Castle/Room 8/Invincibility Candy/"
         }
       ],
       "map_locations": [
@@ -5586,30 +5582,6 @@
         {
           "name": "Enter Carrot Castle Room 9",
           "ref": "Carrot Castle/Room 9/Enter Carrot Castle Room 9/"
-        },
-        {
-          "name": "Left 1-Up",
-          "ref": "Carrot Castle/Room 9/Left 1-Up/"
-        },
-        {
-          "name": "Right 1-Up",
-          "ref": "Carrot Castle/Room 9/Right 1-Up/"
-        },
-        {
-          "name": "Left Soda",
-          "ref": "Carrot Castle/Room 9/Left Soda/"
-        },
-        {
-          "name": "Right Soda",
-          "ref": "Carrot Castle/Room 9/Right Soda/"
-        },
-        {
-          "name": "Left Battery",
-          "ref": "Carrot Castle/Room 9/Left Battery/"
-        },
-        {
-          "name": "Right Battery",
-          "ref": "Carrot Castle/Room 9/Right Battery/"
         }
       ],
       "map_locations": [
@@ -5642,10 +5614,6 @@
         {
           "name": "Enter Carrot Castle Room 10",
           "ref": "Carrot Castle/Room 10/Enter Carrot Castle Room 10/"
-        },
-        {
-          "name": "Small Chest",
-          "ref": "Carrot Castle/Room 10/Small Chest/"
         }
       ],
       "map_locations": [
@@ -5678,18 +5646,6 @@
         {
           "name": "Enter Carrot Castle Room 11",
           "ref": "Carrot Castle/Room 11/Enter Carrot Castle Room 11/"
-        },
-        {
-          "name": "Small Chest",
-          "ref": "Carrot Castle/Room 11/Small Chest/"
-        },
-        {
-          "name": "Left 1-Up",
-          "ref": "Carrot Castle/Room 11/Left 1-Up/"
-        },
-        {
-          "name": "Right 1-Up",
-          "ref": "Carrot Castle/Room 11/Right 1-Up/"
         }
       ],
       "map_locations": [
@@ -5826,10 +5782,6 @@
         {
           "name": "Enter Carrot Castle Room 15",
           "ref": "Carrot Castle/Room 15/Enter Carrot Castle Room 15/"
-        },
-        {
-          "name": "Battery",
-          "ref": "Carrot Castle/Room 15/Battery/"
         }
       ],
       "map_locations": [
@@ -6630,6 +6582,10 @@
           {
             "name": "Enter Olive Ocean Room 13",
             "ref": "Olive Ocean/Room 13/Enter Olive Ocean Room 13/"
+          },
+          {
+            "name": "Lever",
+            "ref": "Olive Ocean/Room 13/Lever/"
           }
         ],
         "map_locations": [
@@ -8869,6 +8825,10 @@
           {
             "name": "Enter Radish Ruins Room 12",
             "ref": "Radish Ruins/Room 12/Enter Radish Ruins Room 12/"
+          },
+          {
+            "name": "Lever",
+            "ref": "Radish Ruins/Room 12/Lever/"
           }
         ],
         "map_locations": [

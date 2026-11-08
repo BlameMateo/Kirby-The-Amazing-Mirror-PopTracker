@@ -23,7 +23,7 @@ LOCATION_MAPPING = {
 
 
 	[3960209] = { { "@Rainbow Route/Tutorial Big Chest/" } },
-	[3960200] = { { "@Cabagge Cavern/Goal/Big Chest/" } },
+	[3960200] = { { "@Cabbage Cavern/Goal/Big Chest/" } },
 	[3960201] = { { "@Olive Ocean/Chest 2/Big Chest/" } },
 	[3960202] = { { "@Peppermint Palace/Chest/Big Chest/" } },
 	[3960203] = { { "@Rainbow Route/Hub 1/Big Chest/" } },

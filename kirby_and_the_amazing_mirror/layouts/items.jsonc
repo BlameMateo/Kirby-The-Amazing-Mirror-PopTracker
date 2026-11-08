@@ -59,6 +59,48 @@
     ]
   },
 
+  "hub": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "center",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "0, 2", 
+            "item_size": 40,   
+            "h_alignment": "center",
+            "rows": [
+              [
+                "rainbow east hub",
+                "rainbow south hub",
+                "rainbow west hub",
+                "rainbow north hub",
+                "moonlight hub",
+                "cabbage center hub",
+                "cabbage west hub",
+                "cabbage east hub"
+              ],
+              [
+                "mustard hub",
+                "carrot hub",
+                "olive hub",
+                "peppermint east hub",
+                "peppermint west hub",
+                "radish hub",
+                "candy hub"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
 
   "collection": {
     "type": "array",
@@ -281,7 +323,7 @@
             "type": "itemgrid",
             "item_margin": "2,2",     
             "item_size": 60,   
-            "h_alignment": "left",
+            "h_alignment": "center",
             "rows": [
               [
                 "mirror_c",
@@ -289,6 +331,18 @@
                 "oo_lever",
                 "cc_lever",
                 "rr_lever"
+              ],
+              [
+                "moonlight key",
+                "cabbage key",
+                "mustard key",
+                "carrot key"
+              ],
+              [
+                "olive key",
+                "peppermint key",
+                "radish key",
+                "candy key"
               ]
             ]
           }

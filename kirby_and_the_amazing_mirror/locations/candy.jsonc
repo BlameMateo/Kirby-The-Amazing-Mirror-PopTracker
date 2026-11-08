@@ -1,15 +1,15 @@
 [
   
   {
-    "name": "Radish Ruins",
-    "access_rules":[""],
+    "name": "Candy Constellation",
+    "access_rules":["$canaccesscandy"],
     "children": [ 
   {
     "name": "Room 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 1",        
+        "name": "Enter Candy Constellation Room 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -21,7 +21,7 @@
         "map_locations": 
         [
             {
-              "map": "radish 1",
+              "map": "candy 1",
               "x": 15,
               "y": 15
             }
@@ -35,7 +35,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 2",        
+        "name": "Enter Candy Constellation Room 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -47,9 +47,29 @@
         "map_locations": 
         [
             {
-              "map": "radish 2",
+              "map": "candy 2",
               "x": 15,
               "y": 15
+            }
+          ]
+          
+      },  
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "candy 2",
+              "x": 175,
+              "y": 280
             }
           ]
           
@@ -61,7 +81,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 3",        
+        "name": "Enter Candy Constellation Room 3",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -73,10 +93,30 @@
         "map_locations": 
         [
           {
-            "map": "radish 3",
+            "map": "candy 3",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "candy 3",
+              "x": 112,
+              "y": 100
+            }
           ]
           
       }
@@ -87,7 +127,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 4",        
+        "name": "Enter Candy Constellation Room 4",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -99,7 +139,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 4",
+            "map": "candy 4",
             "x": 15,
             "y": 15
           }
@@ -113,7 +153,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 5",        
+        "name": "Enter Candy Constellation Room 5",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -125,7 +165,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 5",
+            "map": "candy 5",
             "x": 15,
             "y": 15
           }
@@ -139,7 +179,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 6",        
+        "name": "Enter Candy Constellation Room 6",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -151,7 +191,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 6",
+            "map": "candy 6",
             "x": 15,
             "y": 15
           }
@@ -165,7 +205,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 7",        
+        "name": "Enter Candy Constellation Room 7",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -177,29 +217,9 @@
         "map_locations": 
         [
           {
-            "map": "radish 7",
+            "map": "candy 7",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 7",
-            "x": 175,
-            "y": 183
           }
           ]
           
@@ -211,7 +231,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 8",        
+        "name": "Enter Candy Constellation Room 8",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -223,7 +243,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 8",
+            "map": "candy 8",
             "x": 15,
             "y": 15
           }
@@ -237,7 +257,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 9",        
+        "name": "Enter Candy Constellation Room 9",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -249,7 +269,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 9",
+            "map": "candy 9",
             "x": 15,
             "y": 15
           }
@@ -263,7 +283,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 10",        
+        "name": "Enter Candy Constellation Room 10",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -275,33 +295,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 10",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 11",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Radish Ruins Room 11",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 11",
+            "map": "candy 10",
             "x": 15,
             "y": 15
           }
@@ -320,10 +314,36 @@
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
+            {
+              "map": "candy 10",
+              "x": 1525,
+              "y": 75
+            }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 11",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Candy Constellation Room 11",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
           {
-            "map": "radish 11",
-            "x": 248,
-            "y": 270
+            "map": "candy 11",
+            "x": 15,
+            "y": 15
           }
           ]
           
@@ -335,7 +355,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 12",        
+        "name": "Enter Candy Constellation Room 12",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -347,7 +367,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 12",
+            "map": "candy 12",
             "x": 15,
             "y": 15
           }
@@ -355,20 +375,22 @@
           
       },
       {
-        "name": "Lever",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/lever.png",
-          "chest_opened_img": "images/items/lever_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "radish 12",
-            "x": 170,
-            "y": 115
-          }
+            {
+              "map": "candy 12",
+              "x": 393,
+              "y": 422
+            }
           ]
           
       }
@@ -379,7 +401,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 13",        
+        "name": "Enter Candy Constellation Room 13",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -391,7 +413,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 13",
+            "map": "candy 13",
             "x": 15,
             "y": 15
           }
@@ -405,7 +427,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 14",        
+        "name": "Enter Candy Constellation Room 14",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -417,7 +439,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 14",
+            "map": "candy 14",
             "x": 15,
             "y": 15
           }
@@ -431,7 +453,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 15",        
+        "name": "Enter Candy Constellation Room 15",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -443,7 +465,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 15",
+            "map": "candy 15",
             "x": 15,
             "y": 15
           }
@@ -457,7 +479,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 16",        
+        "name": "Enter Candy Constellation Room 16",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -469,10 +491,30 @@
         "map_locations": 
         [
           {
-            "map": "radish 16",
+            "map": "candy 16",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "candy 16",
+              "x": 185,
+              "y": 80
+            }
           ]
           
       }
@@ -483,7 +525,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 17",        
+        "name": "Enter Candy Constellation Room 17",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -495,7 +537,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 17",
+            "map": "candy 17",
             "x": 15,
             "y": 15
           }
@@ -509,7 +551,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 18",        
+        "name": "Enter Candy Constellation Room 18",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -521,7 +563,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 18",
+            "map": "candy 18",
             "x": 15,
             "y": 15
           }
@@ -535,7 +577,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 19",        
+        "name": "Enter Candy Constellation Room 19",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -547,7 +589,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 19",
+            "map": "candy 19",
             "x": 15,
             "y": 15
           }
@@ -561,7 +603,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Room 20",        
+        "name": "Enter Candy Constellation Room 20",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -573,125 +615,7 @@
         "map_locations": 
         [
           {
-            "map": "radish 20",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 21",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Radish Ruins Room 21",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 21",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 22",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Radish Ruins Room 22",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 22",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 1",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 22",
-            "x": 208,
-            "y": 293
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 2",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 22",
-            "x": 552,
-            "y": 40
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 23",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Radish Ruins Room 23",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish 23",
+            "map": "candy 20",
             "x": 15,
             "y": 15
           }
@@ -718,7 +642,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Radish Ruins Boss",        
+      "name": "Enter Candy Constellation Boss",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -730,7 +654,7 @@
       "map_locations": 
       [
         {
-          "map": "radish b",
+          "map": "candy b",
           "x": 15,
           "y": 15
         }
@@ -738,17 +662,17 @@
         
     },
     {
-        "name": "Beat Meta Knight",        
+        "name": "Beat Master & Crazy Hand",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[{
-          "chest_unopened_img": "images/bosses/meta knight.png",
-          "chest_opened_img": "images/bosses/meta knight_g.png"}],
+          "chest_unopened_img": "images/bosses/hand bros.png",
+          "chest_opened_img": "images/bosses/hand bros_g.png"}],
         "map_locations": 
         [
           {
-            "map": "radish b",
+            "map": "candy b",
             "x": 120,
             "y": 80
           }
@@ -762,7 +686,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Radish Ruins Chest 1",        
+      "name": "Enter Candy Constellation Chest 1",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -774,7 +698,7 @@
       "map_locations": 
       [
         {
-          "map": "radish c1",
+          "map": "candy c1",
           "x": 15,
           "y": 15
         }
@@ -792,9 +716,9 @@
         "map_locations": 
         [
           {
-            "map": "radish c1",
-            "x": 552,
-            "y": 100
+            "map": "candy c1",
+            "x": 112,
+            "y": 43
           }
           ]
           
@@ -806,7 +730,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Radish Ruins Chest 2",        
+      "name": "Enter Candy Constellation Chest 2",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -818,7 +742,7 @@
       "map_locations": 
       [
         {
-          "map": "radish c2",
+          "map": "candy c2",
           "x": 15,
           "y": 15
         }
@@ -836,35 +760,9 @@
         "map_locations": 
         [
           {
-            "map": "radish c2",
-            "x": 433,
-            "y": 129
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Goal 1",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Radish Ruins Goal 1",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "radish g1",
-            "x": 15,
-            "y": 15
+            "map": "candy c2",
+            "x": 296,
+            "y": 75
           }
           ]
           
@@ -881,30 +779,54 @@
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "radish g1",
-            "x": 696,
-            "y": 280
-          }
+            {
+              "map": "candy c2",
+              "x": 102,
+              "y": 75
+            }
           ]
           
-      },
+      }
+    ]    
+  },
+  {
+    "name": "Chest 3",
+    "access_rules":[""],
+    "children": [ 
       {
-        "name": "Reach The Goal!",
+      "name": "Enter Candy Constellation Chest 3",        
+      "access_rules": "",
+      "visibility_rules": [
+        "roomsanity_on",
+        "roomsanity"
+      ],
+      "sections":[{
+        "chest_unopened_img": "images/items/2_way.png",
+        "chest_opened_img": "images/items/2_way_g.png"}],
+      "map_locations": 
+      [
+        {
+          "map": "candy c3",
+          "x": 15,
+          "y": 15
+        }
+        ]
+        
+    },
+      {
+        "name": "Big Chest",        
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/goal.png",
-          "chest_opened_img": "images/items/goal_g.png"}],
+          "chest_unopened_img": "images/items/chest_b.png",
+          "chest_opened_img": "images/items/chest_b_g.png"}],
         "map_locations": 
         [
           {
-            "map": "radish g1",
-            "x": 450,
-            "y": 450
+            "map": "candy c3",
+            "x": 512,
+            "y": 113
           }
           ]
           
@@ -912,11 +834,11 @@
     ]    
   },
   {
-    "name": "Goal 2",
+    "name": "Goal 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Goal 2",        
+        "name": "Enter Candy Constellation Goal 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -928,7 +850,7 @@
         "map_locations": 
         [
           {
-            "map": "radish g2",
+            "map": "candy g1",
             "x": 15,
             "y": 15
           }
@@ -948,7 +870,53 @@
         "map_locations": 
         [
           {
-            "map": "radish g2",
+            "map": "candy g1",
+            "x": 450,
+            "y": 450
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Goal 2",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Candy Constellation Goal 2",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "candy g2",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Reach The Goal!",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/goal.png",
+          "chest_opened_img": "images/items/goal_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "candy g2",
             "x": 160,
             "y": 70
           }
@@ -962,19 +930,19 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Radish Ruins Hub",        
+        "name": "Enter Candy Constellation Hub",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/radish hub.png",
-          "chest_opened_img": "images/items/radish hub_g.png"}],
+          "chest_unopened_img": "images/items/candy hub.png",
+          "chest_opened_img": "images/items/candy hub_g.png"}],
         "map_locations": 
         [
           {
-            "map": "radish h",
+            "map": "candy h",
             "x": 15,
             "y": 15
           }
@@ -996,9 +964,35 @@
         "map_locations": 
         [
           {
-            "map": "radish h",
+            "map": "candy h",
             "x": 128,
-            "y": 105
+            "y": 50
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Warp",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Candy Constellation Warp",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "candy w",
+            "x": 15,
+            "y": 15
           }
           ]
           

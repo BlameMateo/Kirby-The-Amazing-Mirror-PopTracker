@@ -92,7 +92,7 @@
           {
             "name": "Tutorial Big Chest",
             "ref": "Rainbow Route/Tutorial Big Chest/"
-          },
+          }
         ],
         "map_locations": [
           {
@@ -2165,7 +2165,7 @@
     
     {
       "name": "First Visit",
-      
+      "access_rules":["$canaccessmoonlight"],
       "visibility_rules": [
         "roomsanity_on",
         "roomsanity"
@@ -3291,7 +3291,7 @@
     
     {
       "name": "First Visit",
-      
+      "access_rules":["$canaccesscabbage"],
       "visibility_rules": [
         "roomsanity_on",
         "roomsanity"
@@ -4217,7 +4217,7 @@
     
     {
       "name": "First Visit",
-      
+      "access_rules":["$canaccessmustard"],
       "visibility_rules": [
         "roomsanity_on",
         "roomsanity"
@@ -5258,7 +5258,7 @@
     
     {
       "name": "First Visit",
-      
+      "access_rules":["$canaccesscarrot"],
       "visibility_rules": [
         "roomsanity_on",
         "roomsanity"
@@ -6134,7 +6134,7 @@
     "children": [
       {
         "name": "First Visit",
-        
+        "access_rules":["$canaccessolive"],
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
@@ -7213,7 +7213,7 @@
     "children": [
       {
         "name": "First Visit",
-        
+        "access_rules":["$canaccesspeppermint"],
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
@@ -8413,7 +8413,7 @@
     "children": [
       {
         "name": "First Visit",
-        
+        "access_rules":["$canaccessradish"],
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
@@ -9493,7 +9493,7 @@
     "children": [
       {
         "name": "First Visit",
-        
+        "access_rules":["$canaccesscandy"],
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"

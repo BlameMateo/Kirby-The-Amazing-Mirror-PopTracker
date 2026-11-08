@@ -157,6 +157,148 @@
     "type": "toggle"
   },
 
+
+  {
+    "name": "Rainbow Route East Hub",
+    "codes": "rainbow east hub",
+    "img": "images/items/rainbow hub 1.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Rainbow Route South Hub",
+    "codes": "rainbow south hub",
+    "img": "images/items/rainbow hub 2.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Rainbow Route West Hub",
+    "codes": "rainbow west hub",
+    "img": "images/items/rainbow hub 3.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Rainbow Route North Hub",
+    "codes": "rainbow north hub",
+    "img": "images/items/rainbow hub 4.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Moonlight Mansion Hub",
+    "codes": "moonlight hub",
+    "img": "images/items/moonlight hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cabbage Cavern Center Hub",
+    "codes": "cabbage center hub",
+    "img": "images/items/cabbage hub 2.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cabbage Cavern West Hub",
+    "codes": "cabbage west hub",
+    "img": "images/items/cabbage hub 3.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cabbage Cavern East Hub",
+    "codes": "cabbage east hub",
+    "img": "images/items/cabbage hub 1.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Mustard Mountain Hub",
+    "codes": "mustard hub",
+    "img": "images/items/mustard hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Carrot Castle Hub",
+    "codes": "carrot hub",
+    "img": "images/items/carrot hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Olive Ocean Hub",
+    "codes": "olive hub",
+    "img": "images/items/olive hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Peppermint Palace East Hub",
+    "codes": "peppermint east hub",
+    "img": "images/items/peppermint hub 1.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Peppermint Palace West Hub",
+    "codes": "peppermint west hub",
+    "img": "images/items/peppermint hub 2.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Radish Ruins Hub",
+    "codes": "radish hub",
+    "img": "images/items/radish hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Candy Constellation Hub",
+    "codes": "candy hub",
+    "img": "images/items/candy hub.png",
+    "type": "toggle"
+  },
+
+
+  {
+    "name": "Moonlight Mansion Key",
+    "codes": "moonlight key",
+    "img": "images/items/moonlight hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Cabbage Cavern Key",
+    "codes": "cabbage key",
+    "img": "images/items/cabbage hub 2.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Mustard Mountain Key",
+    "codes": "mustard key",
+    "img": "images/items/mustard hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Carrot Castle Key",
+    "codes": "carrot key",
+    "img": "images/items/carrot hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Olive Ocean Key",
+    "codes": "olive key",
+    "img": "images/items/olive hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Peppermint Palace Key",
+    "codes": "peppermint key",
+    "img": "images/items/peppermint hub 2.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Radish Ruins Key",
+    "codes": "radish key",
+    "img": "images/items/radish hub.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Candy Constellation Key",
+    "codes": "candy key",
+    "img": "images/items/candy hub.png",
+    "type": "toggle"
+  },
+
   
   {
     "name": "Cutter Statue",

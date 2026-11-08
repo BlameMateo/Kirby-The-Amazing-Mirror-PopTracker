@@ -1,15 +1,15 @@
 [
   
   {
-    "name": "Peppermint Palace",
-    "access_rules":[""],
-    "children": [ 
+    "name": "Cabbage Cavern",
+    "access_rules":["$canaccesscabbage"],
+    "children": [
   {
     "name": "Room 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 1",        
+        "name": "Enter Cabbage Cavern Room 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -21,9 +21,69 @@
         "map_locations": 
         [
             {
-              "map": "peppermint 1",
+              "map": "cabbage 1",
               "x": 15,
               "y": 15
+            }
+          ]
+          
+      },  
+      {
+        "name": "Left Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "cabbage 1",
+              "x": 672,
+              "y": 103
+            }
+          ]
+          
+      },  
+      {
+        "name": "Right Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "cabbage 1",
+              "x": 704,
+              "y": 103
+            }
+          ]
+          
+      },  
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "cabbage 1",
+              "x": 415,
+              "y": 215
             }
           ]
           
@@ -35,7 +95,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 2",        
+        "name": "Enter Cabbage Cavern Room 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -47,49 +107,9 @@
         "map_locations": 
         [
             {
-              "map": "peppermint 2",
+              "map": "cabbage 2",
               "x": 15,
               "y": 15
-            }
-          ]
-          
-      },  
-      {
-        "name": "Small Chest 1",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 2",
-              "x": 498,
-              "y": 70
-            }
-          ]
-          
-      },  
-      {
-        "name": "Small Chest 2",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 2",
-              "x": 710,
-              "y": 55
             }
           ]
           
@@ -101,7 +121,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 3",        
+        "name": "Enter Cabbage Cavern Room 3",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -113,9 +133,49 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 3",
+            "map": "cabbage 3",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 3",
+            "x": 63,
+            "y": 280
+          }
+          ]
+          
+      },
+      {
+        "name": "Soda",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 3",
+            "x": 447,
+            "y": 347
           }
           ]
           
@@ -127,7 +187,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 4",        
+        "name": "Enter Cabbage Cavern Room 4",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -139,9 +199,49 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 4",
+            "map": "cabbage 4",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 4",
+            "x": 183,
+            "y": 105
+          }
+          ]
+          
+      },
+      {
+        "name": "Soda",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 4",
+            "x": 151,
+            "y": 105
           }
           ]
           
@@ -153,7 +253,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 5",        
+        "name": "Enter Cabbage Cavern Room 5",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -165,9 +265,93 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 5",
+            "map": "cabbage 5",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 5",
+            "x": 183,
+            "y": 135
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 6",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Cabbage Cavern Room 6",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 6",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 6",
+            "x": 487,
+            "y": 90
+          }
+          ]
+          
+      },
+      {
+        "name": "Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 6",
+            "x": 520,
+            "y": 90
           }
           ]
           
@@ -179,102 +363,15 @@
           
         ],
         "sections":[{
-          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 5",
-              "x": 250,
-              "y": 460
-            }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 6",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 6",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint 6",
-            "x": 15,
-            "y": 15
+            "map": "cabbage 6",
+            "x": 320,
+            "y": 135
           }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 1",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 6",
-              "x": 890,
-              "y": 150
-            }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 2",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 6",
-              "x": 370,
-              "y": 300
-            }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 3",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 6",
-              "x": 700,
-              "y": 150
-            }
           ]
           
       }
@@ -285,7 +382,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 7",        
+        "name": "Enter Cabbage Cavern Room 7",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -297,9 +394,29 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 7",
+            "map": "cabbage 7",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 7",
+            "x": 432,
+            "y": 360
           }
           ]
           
@@ -311,7 +428,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 8",        
+        "name": "Enter Cabbage Cavern Room 8",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -323,30 +440,10 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 8",
+            "map": "cabbage 8",
             "x": 15,
             "y": 15
           }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 8",
-              "x": 640,
-              "y": 135
-            }
           ]
           
       }
@@ -357,7 +454,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 9",        
+        "name": "Enter Cabbage Cavern Room 9",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -369,7 +466,7 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 9",
+            "map": "cabbage 9",
             "x": 15,
             "y": 15
           }
@@ -377,42 +474,40 @@
           
       },
       {
-        "name": "Small Chest 1",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          
         ],
         "sections":[{
-          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 9",
-              "x": 480,
-              "y": 200
-            }
+          {
+            "map": "cabbage 9",
+            "x": 95,
+            "y": 455
+          }
           ]
           
       },
       {
-        "name": "Small Chest 2",
+        "name": "Battery",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 9",
-              "x": 240,
-              "y": 455
-            }
+          {
+            "map": "cabbage 9",
+            "x": 264,
+            "y": 121
+          }
           ]
           
       }
@@ -423,7 +518,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 10",        
+        "name": "Enter Cabbage Cavern Room 10",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -435,7 +530,7 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 10",
+            "map": "cabbage 10",
             "x": 15,
             "y": 15
           }
@@ -443,62 +538,42 @@
           
       },
       {
-        "name": "Small Chest 1",
+        "name": "Meat",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/meat.png",
+          "chest_opened_img": "images/items/ground items/meat_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 10",
-              "x": 585,
-              "y": 135
-            }
+          {
+            "map": "cabbage 10",
+            "x": 504,
+            "y": 153
+          }
           ]
           
       },
       {
-        "name": "Small Chest 2",
+        "name": "Battery",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 10",
-              "x": 105,
-              "y": 440
-            }
-          ]
-          
-      },
-      {
-        "name": "Small Chest 3",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 10",
-              "x": 153,
-              "y": 247
-            }
+          {
+            "map": "cabbage 10",
+            "x": 471,
+            "y": 153
+          }
           ]
           
       }
@@ -509,7 +584,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 11",        
+        "name": "Enter Cabbage Cavern Room 11",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -521,9 +596,49 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 11",
+            "map": "cabbage 11",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 11",
+            "x": 96,
+            "y": 328
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 11",
+            "x": 463,
+            "y": 233
           }
           ]
           
@@ -535,7 +650,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 12",        
+        "name": "Enter Cabbage Cavern Room 12",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -547,9 +662,47 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 12",
+            "map": "cabbage 12",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 12",
+            "x": 160,
+            "y": 152
+          }
+          ]
+          
+      },
+      {
+        "name": "1-Up",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 12",
+            "x": 311,
+            "y": 152
           }
           ]
           
@@ -561,7 +714,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 13",        
+        "name": "Enter Cabbage Cavern Room 13",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -573,7 +726,7 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 13",
+            "map": "cabbage 13",
             "x": 15,
             "y": 15
           }
@@ -581,22 +734,42 @@
           
       },
       {
-        "name": "Small Chest",
+        "name": "Battery",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 13",
-              "x": 40,
-              "y": 70
-            }
+          {
+            "map": "cabbage 13",
+            "x": 255,
+            "y": 249
+          }
+          ]
+          
+      },
+      {
+        "name": "Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 13",
+            "x": 328,
+            "y": 231
+          }
           ]
           
       }
@@ -607,7 +780,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 14",        
+        "name": "Enter Cabbage Cavern Room 14",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -619,7 +792,7 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 14",
+            "map": "cabbage 14",
             "x": 15,
             "y": 15
           }
@@ -627,22 +800,40 @@
           
       },
       {
-        "name": "Small Chest",
+        "name": "Small Chest",        
         "access_rules": "",
         "visibility_rules": [
-          
         ],
         "sections":[{
-          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-            {
-              "map": "peppermint 14",
-              "x": 72,
-              "y": 140
-            }
+          {
+            "map": "cabbage 14",
+            "x": 224,
+            "y": 280
+          }
+          ]
+          
+      },
+      {
+        "name": "1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 14",
+            "x": 840,
+            "y": 56
+          }
           ]
           
       }
@@ -653,7 +844,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 15",        
+        "name": "Enter Cabbage Cavern Room 15",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -665,9 +856,67 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 15",
+            "map": "cabbage 15",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",        
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 15",
+            "x": 304,
+            "y": 344
+          }
+          ]
+          
+      },
+      {
+        "name": "Left 1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 15",
+            "x": 152,
+            "y": 88
+          }
+          ]
+          
+      },
+      {
+        "name": "Right 1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage 15",
+            "x": 184,
+            "y": 88
           }
           ]
           
@@ -679,7 +928,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Room 16",        
+        "name": "Enter Cabbage Cavern Room 16",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -691,7 +940,7 @@
         "map_locations": 
         [
           {
-            "map": "peppermint 16",
+            "map": "cabbage 16",
             "x": 15,
             "y": 15
           }
@@ -700,261 +949,6 @@
       }
     ]    
   },
-  {
-    "name": "Room 17",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 17",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 17",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 18",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 18",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 18",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 19",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 19",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 19",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 19",
-              "x": 610,
-              "y": 70
-            }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 20",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 20",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 20",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 21",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 21",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 21",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 22",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 22",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 22",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "peppermint 22",
-              "x": 630,
-              "y": 57
-            }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 23",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 23",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 23",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 24",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Room 24",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint 24",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      }
-    ]    
-  },
-
-
-
-
-
-
-
 
 
   
@@ -966,7 +960,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Peppermint Palace Boss",        
+      "name": "Enter Cabbage Cavern Boss",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -978,7 +972,7 @@
       "map_locations": 
       [
         {
-          "map": "peppermint b",
+          "map": "cabbage b",
           "x": 15,
           "y": 15
         }
@@ -986,19 +980,19 @@
         
     },
     {
-        "name": "Beat Wiz",        
+        "name": "Beat Moley",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[{
-          "chest_unopened_img": "images/bosses/wiz.png",
-          "chest_opened_img": "images/bosses/wiz_g.png"}],
+          "chest_unopened_img": "images/bosses/moley.png",
+          "chest_opened_img": "images/bosses/moley_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint b",
-            "x": 120,
-            "y": 80
+            "map": "cabbage b",
+            "x": 100,
+            "y": 210
           }
           ]
           
@@ -1006,29 +1000,29 @@
     ]    
   },
   {
-    "name": "Chest",
+    "name": "Goal",
     "access_rules":[""],
-    "children": [ 
+    "children": [
       {
-      "name": "Enter Peppermint Palace Chest",        
-      "access_rules": "",
-      "visibility_rules": [
-        "roomsanity_on",
-        "roomsanity"
-      ],
-      "sections":[{
-        "chest_unopened_img": "images/items/2_way.png",
-        "chest_opened_img": "images/items/2_way_g.png"}],
-      "map_locations": 
-      [
-        {
-          "map": "peppermint c",
-          "x": 15,
-          "y": 15
-        }
-        ]
-        
-    },
+        "name": "Enter Cabbage Cavern Goal",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage g",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
       {
         "name": "Big Chest",        
         "access_rules": "",
@@ -1040,161 +1034,147 @@
         "map_locations": 
         [
           {
-            "map": "peppermint c",
-            "x": 290,
-            "y": 500
+            "map": "cabbage g",
+            "x": 185,
+            "y": 80
           }
           ]
           
       },
       {
-        "name": "Small Chest 1",
+        "name": "Small Chest",        
         "access_rules": "",
         "visibility_rules": [
-          
         ],
         "sections":[{
-          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint c",
-            "x": 55,
-            "y": 55
+            "map": "cabbage g",
+            "x": 423,
+            "y": 280
           }
           ]
           
       },
       {
-        "name": "Small Chest 2",
+        "name": "1-Up",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint c",
-            "x": 161,
-            "y": 500
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Goal 1",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Goal 1",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint g1",
-            "x": 15,
-            "y": 15
+            "map": "cabbage g",
+            "x": 400,
+            "y": 455
           }
           ]
           
       },
       {
-        "name": "Reach The Goal!",
+        "name": "Max Tomato",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/goal.png",
-          "chest_opened_img": "images/items/goal_g.png"}],
+          "chest_unopened_img": "images/items/ground items/tomato.png",
+          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint g1",
-            "x": 450,
-            "y": 450
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Goal 2",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Peppermint Palace Goal 2",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "peppermint g2",
-            "x": 15,
-            "y": 15
+            "map": "cabbage g",
+            "x": 400,
+            "y": 200
           }
           ]
           
       },
       {
-        "name": "Small Chest",
+        "name": "Left Soda",
         "access_rules": "",
         "visibility_rules": [
-          
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint g2",
-            "x": 905,
-            "y": 140
+            "map": "cabbage g",
+            "x": 87,
+            "y": 312
           }
           ]
           
       },
       {
-        "name": "Reach The Goal!",
+        "name": "Right Soda",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/goal.png",
-          "chest_opened_img": "images/items/goal_g.png"}],
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint g2",
-            "x": 160,
-            "y": 70
+            "map": "cabbage g",
+            "x": 183,
+            "y": 152
+          }
+          ]
+          
+      },
+      {
+        "name": "Left Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage g",
+            "x": 384,
+            "y": 392
+          }
+          ]
+          
+      },
+      {
+        "name": "Right Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage g",
+            "x": 527,
+            "y": 40
           }
           ]
           
@@ -1206,19 +1186,19 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Hub 1",        
+        "name": "Enter Cabbage Cavern Hub 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/peppermint hub 1.png",
-          "chest_opened_img": "images/items/peppermint hub 1_g.png"}],
+          "chest_unopened_img": "images/items/cabbage hub 1.png",
+          "chest_opened_img": "images/items/cabbage hub 1_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint h1",
+            "map": "cabbage h1",
             "x": 15,
             "y": 15
           }
@@ -1226,23 +1206,20 @@
           
       },
       {
-        "name": "Large Switch",        
+        "name": "Large Switch",
         "access_rules": "",
         "visibility_rules": [
+          
         ],
-        "sections":[
-          {
-          "name": "",
+        "sections":[{
           "chest_unopened_img": "images/items/button.png",
-          "chest_opened_img": "images/items/button_g.png"
-          }
-        ],
+          "chest_opened_img": "images/items/button_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint h1",
+            "map": "cabbage h1",
             "x": 128,
-            "y": 105
+            "y": 75
           }
           ]
           
@@ -1254,19 +1231,19 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Hub 2",        
+        "name": "Enter Cabbage Cavern Hub 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/peppermint hub 2.png",
-          "chest_opened_img": "images/items/peppermint hub 2_g.png"}],
+          "chest_unopened_img": "images/items/cabbage hub 2.png",
+          "chest_opened_img": "images/items/cabbage hub 2_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint h2",
+            "map": "cabbage h2",
             "x": 15,
             "y": 15
           }
@@ -1274,21 +1251,18 @@
           
       },
       {
-        "name": "Large Switch",        
+        "name": "Large Switch",
         "access_rules": "",
         "visibility_rules": [
+          
         ],
-        "sections":[
-          {
-          "name": "",
+        "sections":[{
           "chest_unopened_img": "images/items/button.png",
-          "chest_opened_img": "images/items/button_g.png"
-          }
-        ],
+          "chest_opened_img": "images/items/button_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint h2",
+            "map": "cabbage h2",
             "x": 128,
             "y": 105
           }
@@ -1298,32 +1272,53 @@
     ]    
   },
   {
-    "name": "Warp",
+    "name": "Hub 3",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Peppermint Palace Warp",        
+        "name": "Enter Cabbage Cavern Hub 3",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
+          "chest_unopened_img": "images/items/cabbage hub 3.png",
+          "chest_opened_img": "images/items/cabbage hub 3_g.png"}],
         "map_locations": 
         [
           {
-            "map": "peppermint w",
+            "map": "cabbage h3",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Large Switch",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/button.png",
+          "chest_opened_img": "images/items/button_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "cabbage h3",
+            "x": 128,
+            "y": 75
           }
           ]
           
       }
     ]    
   }
+    
 ]
+  
 }
 
 ]

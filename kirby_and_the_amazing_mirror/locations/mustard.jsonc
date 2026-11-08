@@ -1,78 +1,14 @@
 [
 {
-  "name": "Moonlight Mansion",
+  "name": "Mustard Mountain",
+  "access_rules":["$canaccessmustard"],
   "children": [ 
-  {
-    "name": "Entrance",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Moonlight Mansion Entrance",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight e",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Big Chest",
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[{
-          "name": "",
-          "chest_unopened_img": "images/items/chest_b.png",
-          "chest_opened_img": "images/items/chest_b_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight e",
-            "x": 335,
-            "y": 120
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight e",
-            "x": 385,
-            "y": 80
-          }
-          ]
-          
-      }
-    ]    
-  },
   {
     "name": "Room 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 1",        
+        "name": "Enter Mustard Mountain Room 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -84,69 +20,9 @@
         "map_locations": 
         [
             {
-              "map": "moonlight 1",
+              "map": "mustard 1",
               "x": 15,
               "y": 15
-            }
-          ]
-          
-      },  
-      {
-        "name": "Top Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "moonlight 1",
-              "x": 663,
-              "y": 40
-            }
-          ]
-          
-      },  
-      {
-        "name": "Left Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "moonlight 1",
-              "x": 207,
-              "y": 249
-            }
-          ]
-          
-      },  
-      {
-        "name": "Bottom Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "moonlight 1",
-              "x": 520,
-              "y": 455
             }
           ]
           
@@ -158,7 +34,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 2",        
+        "name": "Enter Mustard Mountain Room 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -170,7 +46,7 @@
         "map_locations": 
         [
             {
-              "map": "moonlight 2",
+              "map": "mustard 2",
               "x": 15,
               "y": 15
             }
@@ -178,21 +54,41 @@
           
       },
       {
-        "name": "Max Tomato",
+        "name": "Cherry",
         "access_rules": "",
         "visibility_rules": [
           "ground_on",
           "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
         "map_locations": 
         [
             {
-              "map": "moonlight 2",
-              "x": 345,
-              "y": 90
+              "map": "mustard 2",
+              "x": 200,
+              "y": 40
+            }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "mustard 2",
+              "x": 120,
+              "y": 456
             }
           ]
           
@@ -204,7 +100,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 3",        
+        "name": "Enter Mustard Mountain Room 3",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -216,10 +112,50 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 3",
+            "map": "mustard 3",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "1-Up",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "mustard 3",
+              "x": 488,
+              "y": 56
+            }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "mustard 3",
+              "x": 367,
+              "y": 120
+            }
           ]
           
       }
@@ -230,7 +166,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 4",        
+        "name": "Enter Mustard Mountain Room 4",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -242,7 +178,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 4",
+            "map": "mustard 4",
             "x": 15,
             "y": 15
           }
@@ -262,9 +198,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 4",
-            "x": 663,
-            "y": 233
+            "map": "mustard 4",
+            "x": 279,
+            "y": 520
           }
           ]
           
@@ -282,9 +218,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 4",
-            "x": 1096,
-            "y": 295
+            "map": "mustard 4",
+            "x": 87,
+            "y": 170
           }
           ]
           
@@ -296,7 +232,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 5",        
+        "name": "Enter Mustard Mountain Room 5",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -308,35 +244,28 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 5",
+            "map": "mustard 5",
             "x": 15,
             "y": 15
           }
           ]
           
-      }
-    ]    
-  },
-  {
-    "name": "Room 6",
-    "access_rules":[""],
-    "children": [
+      },
       {
-        "name": "Enter Moonlight Mansion Room 6",        
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
+
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 6",
-            "x": 15,
-            "y": 15
+            "map": "mustard 5",
+            "x": 183,
+            "y": 247
           }
           ]
           
@@ -354,49 +283,55 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 6",
-            "x": 55,
-            "y": 328
+            "map": "mustard 5",
+            "x": 54,
+            "y": 54
           }
           ]
           
       },
       {
-        "name": "Left Battery",
+        "name": "Cherry",
         "access_rules": "",
         "visibility_rules": [
           "ground_on",
           "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 6",
-            "x": 55,
-            "y": 808
+            "map": "mustard 5",
+            "x": 440,
+            "y": 54
           }
           ]
           
-      },
+      }
+    ]    
+  },
+  {
+    "name": "Room 6",
+    "access_rules":[""],
+    "children": [
       {
-        "name": "Right Battery",
+        "name": "Enter Mustard Mountain Room 6",        
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          "roomsanity_on",
+          "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 6",
-            "x": 207,
-            "y": 648
+            "map": "mustard 6",
+            "x": 15,
+            "y": 15
           }
           ]
           
@@ -408,7 +343,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 7",        
+        "name": "Enter Mustard Mountain Room 7",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -420,107 +355,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 7",
+            "map": "mustard 7",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 7",
-            "x": 63,
-            "y": 45
-          }
-          ]
-          
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 7",
-            "x": 175,
-            "y": 45
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 7",
-            "x": 80,
-            "y": 128
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 7",
-            "x": 135,
-            "y": 128
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 7",
-            "x": 191,
-            "y": 128
           }
           ]
           
@@ -532,7 +369,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 8",        
+        "name": "Enter Mustard Mountain Room 8",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -544,7 +381,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 8",
+            "map": "mustard 8",
             "x": 15,
             "y": 15
           }
@@ -564,9 +401,69 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 8",
-            "x": 110,
-            "y": 58
+            "map": "mustard 8",
+            "x": 206,
+            "y": 1208
+          }
+          ]
+          
+      },
+      {
+        "name": "Max Tomato",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/tomato.png",
+          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 8",
+            "x": 47,
+            "y": 1208
+          }
+          ]
+          
+      },
+      {
+        "name": "Cherry",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/cherry.png",
+          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 8",
+            "x": 231,
+            "y": 791
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 8",
+            "x": 24,
+            "y": 791
           }
           ]
           
@@ -578,7 +475,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 9",        
+        "name": "Enter Mustard Mountain Room 9",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -590,7 +487,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
+            "map": "mustard 9",
             "x": 15,
             "y": 15
           }
@@ -598,7 +495,7 @@
           
       },
       {
-        "name": "Top Battery",
+        "name": "Left Battery",
         "access_rules": "",
         "visibility_rules": [
           "ground_items",
@@ -610,15 +507,15 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 440,
-            "y": 55
+            "map": "mustard 9",
+            "x": 328,
+            "y": 152
           }
           ]
           
       },
       {
-        "name": "Bottom Battery",
+        "name": "Right Battery",
         "access_rules": "",
         "visibility_rules": [
           "ground_items",
@@ -630,55 +527,55 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 423,
-            "y": 440
+            "map": "mustard 9",
+            "x": 512,
+            "y": 201
           }
           ]
           
       },
       {
-        "name": "Meat",
+        "name": "Left Soda",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 312,
-            "y": 215
+            "map": "mustard 9",
+            "x": 55,
+            "y": 264
           }
           ]
           
       },
       {
-        "name": "Max Tomato",
+        "name": "Right Soda",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+          "chest_unopened_img": "images/items/ground items/soda.png",
+          "chest_opened_img": "images/items/ground items/soda_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 312,
-            "y": 297
+            "map": "mustard 9",
+            "x": 168,
+            "y": 152
           }
           ]
           
       },
       {
-        "name": "1-Up",
+        "name": "Left 1-Up",
         "access_rules": "",
         "visibility_rules": [
           "ground_on",
@@ -690,27 +587,29 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 312,
-            "y": 375
+            "map": "mustard 9",
+            "x": 39,
+            "y": 152
           }
           ]
           
       },
       {
-        "name": "Large Switch",
+        "name": "Right 1-Up",
         "access_rules": "",
         "visibility_rules": [
+          "ground_on",
+          "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/button.png",
-          "chest_opened_img": "images/items/button_g.png"}],
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 9",
-            "x": 375,
-            "y": 370
+            "map": "mustard 9",
+            "x": 680,
+            "y": 152
           }
           ]
           
@@ -722,7 +621,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 10",        
+        "name": "Enter Mustard Mountain Room 10",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -734,9 +633,27 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 10",
+            "map": "mustard 10",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",        
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 10",
+            "x": 607,
+            "y": 136
           }
           ]
           
@@ -748,7 +665,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 11",        
+        "name": "Enter Mustard Mountain Room 11",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -760,7 +677,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 11",
+            "map": "mustard 11",
             "x": 15,
             "y": 15
           }
@@ -768,19 +685,59 @@
           
       },
       {
-        "name": "Lever",
+        "name": "Small Chest",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/lever.png",
-          "chest_opened_img": "images/items/lever_g.png"}],
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight 11",
-            "x": 170,
-            "y": 115
+            "map": "mustard 11",
+            "x": 752,
+            "y": 87
+          }
+          ]
+          
+      },
+      {
+        "name": "Left 1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 11",
+            "x": 983,
+            "y": 72
+          }
+          ]
+          
+      },
+      {
+        "name": "Right 1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 11",
+            "x": 1048,
+            "y": 72
           }
           ]
           
@@ -792,7 +749,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 12",        
+        "name": "Enter Mustard Mountain Room 12",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -804,7 +761,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 12",
+            "map": "mustard 12",
             "x": 15,
             "y": 15
           }
@@ -818,7 +775,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 13",        
+        "name": "Enter Mustard Mountain Room 13",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -830,29 +787,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 13",
+            "map": "mustard 13",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 13",
-            "x": 312,
-            "y": 328
           }
           ]
           
@@ -864,7 +801,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 14",        
+        "name": "Enter Mustard Mountain Room 14",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -876,49 +813,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 14",
+            "map": "mustard 14",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 14",
-            "x": 400,
-            "y": 240
-          }
-          ]
-          
-      },
-      {
-        "name": "Max Tomato",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 14",
-            "x": 255,
-            "y": 342
           }
           ]
           
@@ -930,7 +827,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 15",        
+        "name": "Enter Mustard Mountain Room 15",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -942,29 +839,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 15",
+            "map": "mustard 15",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 15",
-            "x": 15,
-            "y": 325
           }
           ]
           
@@ -982,27 +859,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 15",
-            "x": 295,
-            "y": 265
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",        
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 15",
-            "x": 408,
-            "y": 280
+            "map": "mustard 15",
+            "x": 471,
+            "y": 88
           }
           ]
           
@@ -1014,7 +873,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 16",        
+        "name": "Enter Mustard Mountain Room 16",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1026,9 +885,55 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 16",
+            "map": "mustard 16",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 17",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Mustard Mountain Room 17",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 17",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "1-Up",        
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_on",
+          "ground_items"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/1-up.png",
+          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard 17",
+            "x": 47,
+            "y": 104
           }
           ]
           
@@ -1046,55 +951,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 16",
-            "x": 304,
-            "y": 215
-          }
-          ]
-          
-      },
-      {
-        "name": "Soda",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 16",
-            "x": 800,
-            "y": 265
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 17",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Moonlight Mansion Room 17",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 17",
-            "x": 15,
-            "y": 15
+            "map": "mustard 17",
+            "x": 47,
+            "y": 200
           }
           ]
           
@@ -1112,29 +971,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 17",
-            "x": 655,
-            "y": 185
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 17",
-            "x": 1120,
-            "y": 250
+            "map": "mustard 17",
+            "x": 47,
+            "y": 488
           }
           ]
           
@@ -1146,7 +985,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 18",        
+        "name": "Enter Mustard Mountain Room 18",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1158,7 +997,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 18",
+            "map": "mustard 18",
             "x": 15,
             "y": 15
           }
@@ -1172,7 +1011,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Room 19",        
+        "name": "Enter Mustard Mountain Room 19",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1184,113 +1023,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight 19",
+            "map": "mustard 19",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 19",
-            "x": 383,
-            "y": 200
-          }
-          ]
-          
-      }
-    ]    
-  },
-  {
-    "name": "Room 20",
-    "access_rules":[""],
-    "children": [
-      {
-        "name": "Enter Moonlight Mansion Room 20",        
-        "access_rules": "",
-        "visibility_rules": [
-          "roomsanity_on",
-          "roomsanity"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 20",
-            "x": 15,
-            "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 20",
-            "x": 624,
-            "y": 375
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 20",
-            "x": 200,
-            "y": 375
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight 20",
-            "x": 225,
-            "y": 295
           }
           ]
           
@@ -1309,7 +1044,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Moonlight Mansion Boss",        
+      "name": "Enter Mustard Mountain Boss",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -1321,7 +1056,51 @@
       "map_locations": 
       [
         {
-          "map": "moonlight b",
+          "map": "mustard b",
+          "x": 15,
+          "y": 15
+        }
+        ]
+        
+    },
+    {
+        "name": "Beat Kracko",        
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/bosses/kracko.png",
+          "chest_opened_img": "images/bosses/kracko_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard b",
+            "x": 100,
+            "y": 210
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Chest",
+    "access_rules":[""],
+    "children": [ 
+      {
+      "name": "Enter Mustard Mountain Chest",        
+      "access_rules": "",
+      "visibility_rules": [
+        "roomsanity_on",
+        "roomsanity"
+      ],
+      "sections":[{
+        "chest_unopened_img": "images/items/2_way.png",
+        "chest_opened_img": "images/items/2_way_g.png"}],
+      "map_locations": 
+      [
+        {
+          "map": "mustard c",
           "x": 15,
           "y": 15
         }
@@ -1329,19 +1108,19 @@
         
     },
       {
-        "name": "Beat King Golem",        
+        "name": "Big Chest",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[{
-          "chest_unopened_img": "images/bosses/king golem.png",
-          "chest_opened_img": "images/bosses/king golem_g.png"}],
+          "chest_unopened_img": "images/items/chest_b.png",
+          "chest_opened_img": "images/items/chest_b_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight b",
-            "x": 100,
-            "y": 210
+            "map": "mustard c",
+            "x": 673,
+            "y": 129
           }
           ]
           
@@ -1353,7 +1132,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Goal 1",        
+        "name": "Enter Mustard Mountain Goal 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1365,9 +1144,29 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g1",
+            "map": "mustard g1",
             "x": 15,
             "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Battery",
+        "access_rules": "",
+        "visibility_rules": [
+          "ground_items",
+          "ground_on"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "mustard g1",
+            "x": 1335,
+            "y": 103
           }
           ]
           
@@ -1385,9 +1184,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g1",
-            "x": 432,
-            "y": 90
+            "map": "mustard g1",
+            "x": 1375,
+            "y": 103
           }
           ]
           
@@ -1399,7 +1198,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Goal 2",        
+        "name": "Enter Mustard Mountain Goal 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1411,7 +1210,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
+            "map": "mustard g2",
             "x": 15,
             "y": 15
           }
@@ -1419,7 +1218,7 @@
           
       },
       {
-        "name": "Left Small Chest",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
           
@@ -1430,28 +1229,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 111,
-            "y": 72
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Small Chest",
-        "access_rules": "",
-        "visibility_rules": [
-          
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "moonlight g2",
-            "x": 855,
-            "y": 248
+            "map": "mustard g2",
+            "x": 775,
+            "y": 55
           }
           ]
           
@@ -1470,9 +1250,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 83,
-            "y": 72
+            "map": "mustard g2",
+            "x": 487,
+            "y": 134
           }
           ]
           
@@ -1491,49 +1271,49 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 140,
-            "y": 72
+            "map": "mustard g2",
+            "x": 1624,
+            "y": 25
           }
           ]
           
       },
       {
-        "name": "Meat",
+        "name": "Battery",
         "access_rules": "",
         "visibility_rules": [
           "ground_on",
           "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
+          "chest_unopened_img": "images/items/ground items/battery.png",
+          "chest_opened_img": "images/items/ground items/battery_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 735,
-            "y": 248
+            "map": "mustard g2",
+            "x": 840,
+            "y": 120
           }
           ]
           
       },
       {
-        "name": "Cherry",
+        "name": "Max Tomato",
         "access_rules": "",
         "visibility_rules": [
           "ground_on",
           "ground_items"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+          "chest_unopened_img": "images/items/ground items/tomato.png",
+          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 88,
-            "y": 184
+            "map": "mustard g2",
+            "x": 1656,
+            "y": 25
           }
           ]
           
@@ -1551,9 +1331,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight g2",
-            "x": 950,
-            "y": 85
+            "map": "mustard g2",
+            "x": 1664,
+            "y": 135
           }
           ]
           
@@ -1565,19 +1345,19 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Hub",        
+        "name": "Enter Mustard Mountain Hub",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/moonlight hub.png",
-          "chest_opened_img": "images/items/moonlight hub_g.png"}],
+          "chest_unopened_img": "images/items/mustard hub.png",
+          "chest_opened_img": "images/items/mustard hub_g.png"}],
         "map_locations": 
         [
           {
-            "map": "moonlight h",
+            "map": "mustard h",
             "x": 15,
             "y": 15
           }
@@ -1595,9 +1375,9 @@
         "map_locations": 
         [
           {
-            "map": "moonlight h",
+            "map": "mustard h",
             "x": 128,
-            "y": 105
+            "y": 50
           }
           ]
           
@@ -1609,7 +1389,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Moonlight Mansion Warp",        
+        "name": "Enter Mustard Mountain Warp",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1621,7 +1401,7 @@
         "map_locations": 
         [
           {
-            "map": "moonlight w",
+            "map": "mustard w",
             "x": 15,
             "y": 15
           }

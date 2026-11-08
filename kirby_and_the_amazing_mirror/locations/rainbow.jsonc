@@ -280,7 +280,7 @@
       },
       {
         "name": "Small Chest",
-        "access_rules": "",
+        "access_rules": "$canaccessrainbow",
         "visibility_rules": [
           
         ],
@@ -302,7 +302,7 @@
   },
   {
     "name": "Room 7",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 7",        
@@ -368,7 +368,7 @@
   },
   {
     "name": "Room 8",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 8",        
@@ -394,7 +394,7 @@
   },
   {
     "name": "Room 9",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 9",        
@@ -480,7 +480,7 @@
   },
   {
     "name": "Room 10",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 10",        
@@ -586,7 +586,7 @@
   },
   {
     "name": "Room 11",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 11",        
@@ -612,7 +612,7 @@
   },
   {
     "name": "Room 12",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 12",        
@@ -638,7 +638,7 @@
   },
   {
     "name": "Room 13",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 13",        
@@ -664,7 +664,7 @@
   },
   {
     "name": "Room 14",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 14",        
@@ -750,7 +750,7 @@
   },
   {
     "name": "Room 15",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 15",        
@@ -876,7 +876,7 @@
   },
   {
     "name": "Room 16",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 16",        
@@ -922,7 +922,7 @@
   },
   {
     "name": "Room 17",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 17",        
@@ -1008,7 +1008,7 @@
   },
   {
     "name": "Room 18",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 18",        
@@ -1074,7 +1074,7 @@
   },
   {
     "name": "Room 19",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 19",        
@@ -1180,7 +1180,7 @@
   },
   {
     "name": "Room 20",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 20",        
@@ -1286,7 +1286,7 @@
   },
   {
     "name": "Room 21",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 21",        
@@ -1352,7 +1352,7 @@
   },
   {
     "name": "Room 22",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 22",        
@@ -1438,7 +1438,7 @@
   },
   {
     "name": "Room 23",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 23",        
@@ -1544,7 +1544,7 @@
   },
   {
     "name": "Room 24",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 24",        
@@ -1610,7 +1610,7 @@
   },
   {
     "name": "Room 25",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 25",        
@@ -1696,7 +1696,7 @@
   },
   {
     "name": "Room 26",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 26",        
@@ -1742,7 +1742,7 @@
   },
   {
     "name": "Room 27",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 27",        
@@ -1828,7 +1828,7 @@
   },
   {
     "name": "Room 28",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 28",        
@@ -1894,7 +1894,7 @@
   },
   {
     "name": "Room 29",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 29",        
@@ -2020,7 +2020,7 @@
   },
   {
     "name": "Room 30",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 30",        
@@ -2046,7 +2046,7 @@
   },
   {
     "name": "Room 31",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 31",        
@@ -2132,7 +2132,7 @@
   },
   {
     "name": "Room 32",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 32",        
@@ -2158,7 +2158,7 @@
   },
   {
     "name": "Room 33",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 33",        
@@ -2224,7 +2224,7 @@
   },
   {
     "name": "Room 34",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 34",        
@@ -2250,7 +2250,7 @@
   },
   {
     "name": "Room 35",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 35",        
@@ -2276,7 +2276,7 @@
   },
   {
     "name": "Room 36",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 36",        
@@ -2302,7 +2302,7 @@
   },
   {
     "name": "Room 37",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 37",        
@@ -2388,7 +2388,7 @@
   },
   {
     "name": "Room 38",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 38",        
@@ -2414,7 +2414,7 @@
   },
   {
     "name": "Room 39",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 39",        
@@ -2460,7 +2460,7 @@
   },
   {
     "name": "Room 40",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 40",        
@@ -2546,7 +2546,7 @@
   },
   {
     "name": "Room 41",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 41",        
@@ -2612,7 +2612,7 @@
   },
   {
     "name": "Room 42",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Room 42",        
@@ -2715,7 +2715,7 @@
 
   {
     "name": "Goal 1",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Goal 1",        
@@ -2781,7 +2781,7 @@
   },
   {
     "name": "Goal 2",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Goal 2",        
@@ -2887,7 +2887,7 @@
   },
   {
     "name": "Goal 3",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Goal 3",        
@@ -2993,7 +2993,7 @@
   },
   {
     "name": "Hub 1",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Hub 1",        
@@ -3041,7 +3041,7 @@
   },
   {
     "name": "Hub 2",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Hub 2",        
@@ -3086,7 +3086,7 @@
   },
   {
     "name": "Hub 3",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Hub 3",        
@@ -3131,7 +3131,7 @@
   },
   {
     "name": "Hub 4",
-    "access_rules":[""],
+    "access_rules":["$canaccessrainbow"],
     "children": [
       {
         "name": "Enter Rainbow Route Hub 4",        

@@ -1,6 +1,7 @@
 [
   {
     "name": "Carrot Castle",
+    "access_rules":["$canaccesscarrot"],
     "children": [ 
     {
       "name": "Room 1",
@@ -30,7 +31,7 @@
     },
     {
       "name": "Room 2",
-      "access_rules":[""],
+      "access_rules":["$canaccessrainbow"],
       "children": [
         {
           "name": "Enter Carrot Castle Room 2",        
@@ -192,7 +193,7 @@
     },
     {
       "name": "Room 6",
-      "access_rules":[""],
+      "access_rules":["cc_lever", "rr_lever, $canaccessradish"],
       "children": [
         {
           "name": "Enter Carrot Castle Room 6",        

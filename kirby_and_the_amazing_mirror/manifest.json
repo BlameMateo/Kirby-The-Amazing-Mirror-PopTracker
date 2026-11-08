@@ -2,12 +2,13 @@
   // for more info on the manifest check: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#manifest
   "name": "Kirby And The Amazing Mirror",
   "game_name": "Kirby And The Amazing Mirror",
-  "package_version": "0.2.1",
-  "package_uid": "Kirby And The Amazing Mirror",
+  "package_version": "0.3.1",
+  "package_uid": "kirby_and_the_amazing_mirror",
+  "versions_url": "https://raw.githubusercontent.com/BlameMateo/Kirby-The-Amazing-Mirror-PopTracker/refs/heads/main/versions.json",
   "platform": "GBA",
   "author": "BlameMateo",
   "min_poptracker_version": "0.25.9",
-  "target_poptracker_version": "0.35.4",
+  "target_poptracker_version": "0.36.0",
   "variants": {
     "standard": {
       "display_name": "Map Tracker",

@@ -53,6 +53,78 @@ if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")
 end
 
+local key = Tracker:FindObjectForCode("moonlight key")
+if key then
+    key:SetOverlay("Area 2")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("cabbage key")
+if key then
+    key:SetOverlay("Area 3")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("mustard key")
+if key then
+    key:SetOverlay("Area 4")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("carrot key")
+if key then
+    key:SetOverlay("Area 5")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("olive key")
+if key then
+    key:SetOverlay("Area 6")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("peppermint key")
+if key then
+    key:SetOverlay("Area 7")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("radish key")
+if key then
+    key:SetOverlay("Area 8")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
+local key = Tracker:FindObjectForCode("candy key")
+if key then
+    key:SetOverlay("Area 9")
+    key:SetOverlayBackground("#808080")
+    key:SetOverlayColor("#ffffff")
+    key:SetOverlayFontSize(14)
+    key:SetOverlayAlign("center")
+end
+
 local lever = Tracker:FindObjectForCode("mm_lever")
 if lever then
     lever:SetOverlay("Moon")

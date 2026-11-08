@@ -1,25 +1,27 @@
 [
-{
-  "name": "Mustard Mountain",
-  "children": [ 
+  
+  {
+    "name": "Peppermint Palace",
+    "access_rules":["$canaccesspeppermint"],
+    "children": [ 
   {
     "name": "Room 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 1",        
+        "name": "Enter Peppermint Palace Room 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/2_way.png",
-          "chest_opened_img": "images/items/2_way_g.png"}],
+          "chest_unopened_img": "images/items/route.png",
+          "chest_opened_img": "images/items/route_g.png"}],
         "map_locations": 
         [
             {
-              "map": "mustard 1",
+              "map": "peppermint 1",
               "x": 15,
               "y": 15
             }
@@ -33,7 +35,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 2",        
+        "name": "Enter Peppermint Palace Room 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -45,49 +47,49 @@
         "map_locations": 
         [
             {
-              "map": "mustard 2",
+              "map": "peppermint 2",
               "x": 15,
               "y": 15
             }
           ]
           
-      },
+      },  
       {
-        "name": "Cherry",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
             {
-              "map": "mustard 2",
-              "x": 200,
-              "y": 40
+              "map": "peppermint 2",
+              "x": 498,
+              "y": 70
             }
           ]
           
-      },
+      },  
       {
-        "name": "Battery",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
             {
-              "map": "mustard 2",
-              "x": 120,
-              "y": 456
+              "map": "peppermint 2",
+              "x": 710,
+              "y": 55
             }
           ]
           
@@ -99,7 +101,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 3",        
+        "name": "Enter Peppermint Palace Room 3",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -111,50 +113,10 @@
         "map_locations": 
         [
           {
-            "map": "mustard 3",
+            "map": "peppermint 3",
             "x": 15,
             "y": 15
           }
-          ]
-          
-      },
-      {
-        "name": "1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "mustard 3",
-              "x": 488,
-              "y": 56
-            }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-            {
-              "map": "mustard 3",
-              "x": 367,
-              "y": 120
-            }
           ]
           
       }
@@ -165,7 +127,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 4",        
+        "name": "Enter Peppermint Palace Room 4",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -177,49 +139,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard 4",
+            "map": "peppermint 4",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 4",
-            "x": 279,
-            "y": 520
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 4",
-            "x": 87,
-            "y": 170
           }
           ]
           
@@ -231,7 +153,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 5",        
+        "name": "Enter Peppermint Palace Room 5",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -243,7 +165,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 5",
+            "map": "peppermint 5",
             "x": 15,
             "y": 15
           }
@@ -254,59 +176,19 @@
         "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          
         ],
         "sections":[{
+          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "mustard 5",
-            "x": 183,
-            "y": 247
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 5",
-            "x": 54,
-            "y": 54
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 5",
-            "x": 440,
-            "y": 54
-          }
+            {
+              "map": "peppermint 5",
+              "x": 250,
+              "y": 460
+            }
           ]
           
       }
@@ -317,7 +199,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 6",        
+        "name": "Enter Peppermint Palace Room 6",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -329,10 +211,70 @@
         "map_locations": 
         [
           {
-            "map": "mustard 6",
+            "map": "peppermint 6",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 1",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 6",
+              "x": 890,
+              "y": 150
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 2",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 6",
+              "x": 370,
+              "y": 300
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 3",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 6",
+              "x": 700,
+              "y": 150
+            }
           ]
           
       }
@@ -343,7 +285,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 7",        
+        "name": "Enter Peppermint Palace Room 7",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -355,7 +297,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 7",
+            "map": "peppermint 7",
             "x": 15,
             "y": 15
           }
@@ -369,7 +311,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 8",        
+        "name": "Enter Peppermint Palace Room 8",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -381,7 +323,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 8",
+            "map": "peppermint 8",
             "x": 15,
             "y": 15
           }
@@ -389,82 +331,22 @@
           
       },
       {
-        "name": "Invincibility Candy",
+        "name": "Small Chest",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/candy.png",
-          "chest_opened_img": "images/items/ground items/candy_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 8",
-            "x": 206,
-            "y": 1208
-          }
-          ]
           
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "mustard 8",
-            "x": 47,
-            "y": 1208
-          }
-          ]
-          
-      },
-      {
-        "name": "Cherry",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/cherry.png",
-          "chest_opened_img": "images/items/ground items/cherry_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 8",
-            "x": 231,
-            "y": 791
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 8",
-            "x": 24,
-            "y": 791
-          }
+            {
+              "map": "peppermint 8",
+              "x": 640,
+              "y": 135
+            }
           ]
           
       }
@@ -475,7 +357,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 9",        
+        "name": "Enter Peppermint Palace Room 9",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -487,7 +369,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 9",
+            "map": "peppermint 9",
             "x": 15,
             "y": 15
           }
@@ -495,122 +377,42 @@
           
       },
       {
-        "name": "Left Battery",
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
+          
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "mustard 9",
-            "x": 328,
-            "y": 152
-          }
+            {
+              "map": "peppermint 9",
+              "x": 480,
+              "y": 200
+            }
           ]
           
       },
       {
-        "name": "Right Battery",
+        "name": "Small Chest 2",
         "access_rules": "",
         "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 9",
-            "x": 512,
-            "y": 201
-          }
-          ]
           
-      },
-      {
-        "name": "Left Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "mustard 9",
-            "x": 55,
-            "y": 264
-          }
-          ]
-          
-      },
-      {
-        "name": "Right Soda",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/soda.png",
-          "chest_opened_img": "images/items/ground items/soda_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 9",
-            "x": 168,
-            "y": 152
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 9",
-            "x": 39,
-            "y": 152
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 9",
-            "x": 680,
-            "y": 152
-          }
+            {
+              "map": "peppermint 9",
+              "x": 240,
+              "y": 455
+            }
           ]
           
       }
@@ -621,7 +423,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 10",        
+        "name": "Enter Peppermint Palace Room 10",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -633,7 +435,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 10",
+            "map": "peppermint 10",
             "x": 15,
             "y": 15
           }
@@ -641,20 +443,62 @@
           
       },
       {
-        "name": "Small Chest",        
+        "name": "Small Chest 1",
         "access_rules": "",
         "visibility_rules": [
+          
         ],
         "sections":[{
+          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
-          {
-            "map": "mustard 10",
-            "x": 607,
-            "y": 136
-          }
+            {
+              "map": "peppermint 10",
+              "x": 585,
+              "y": 135
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 2",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 10",
+              "x": 105,
+              "y": 440
+            }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 3",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 10",
+              "x": 153,
+              "y": 247
+            }
           ]
           
       }
@@ -665,7 +509,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 11",        
+        "name": "Enter Peppermint Palace Room 11",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -677,67 +521,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard 11",
+            "map": "peppermint 11",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Small Chest",        
-        "access_rules": "",
-        "visibility_rules": [
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/chest_s.png",
-          "chest_opened_img": "images/items/chest_s_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 11",
-            "x": 752,
-            "y": 87
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 11",
-            "x": 983,
-            "y": 72
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 11",
-            "x": 1048,
-            "y": 72
           }
           ]
           
@@ -749,7 +535,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 12",        
+        "name": "Enter Peppermint Palace Room 12",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -761,7 +547,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 12",
+            "map": "peppermint 12",
             "x": 15,
             "y": 15
           }
@@ -775,7 +561,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 13",        
+        "name": "Enter Peppermint Palace Room 13",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -787,10 +573,30 @@
         "map_locations": 
         [
           {
-            "map": "mustard 13",
+            "map": "peppermint 13",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 13",
+              "x": 40,
+              "y": 70
+            }
           ]
           
       }
@@ -801,7 +607,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 14",        
+        "name": "Enter Peppermint Palace Room 14",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -813,10 +619,30 @@
         "map_locations": 
         [
           {
-            "map": "mustard 14",
+            "map": "peppermint 14",
             "x": 15,
             "y": 15
           }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 14",
+              "x": 72,
+              "y": 140
+            }
           ]
           
       }
@@ -827,7 +653,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 15",        
+        "name": "Enter Peppermint Palace Room 15",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -839,29 +665,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard 15",
+            "map": "peppermint 15",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 15",
-            "x": 471,
-            "y": 88
           }
           ]
           
@@ -873,7 +679,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 16",        
+        "name": "Enter Peppermint Palace Room 16",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -885,7 +691,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 16",
+            "map": "peppermint 16",
             "x": 15,
             "y": 15
           }
@@ -899,7 +705,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 17",        
+        "name": "Enter Peppermint Palace Room 17",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -911,69 +717,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard 17",
+            "map": "peppermint 17",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "1-Up",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 17",
-            "x": 47,
-            "y": 104
-          }
-          ]
-          
-      },
-      {
-        "name": "Meat",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/meat.png",
-          "chest_opened_img": "images/items/ground items/meat_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 17",
-            "x": 47,
-            "y": 200
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",        
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard 17",
-            "x": 47,
-            "y": 488
           }
           ]
           
@@ -985,7 +731,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 18",        
+        "name": "Enter Peppermint Palace Room 18",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -997,7 +743,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard 18",
+            "map": "peppermint 18",
             "x": 15,
             "y": 15
           }
@@ -1011,7 +757,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Room 19",        
+        "name": "Enter Peppermint Palace Room 19",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1023,7 +769,53 @@
         "map_locations": 
         [
           {
-            "map": "mustard 19",
+            "map": "peppermint 19",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 19",
+              "x": 610,
+              "y": 70
+            }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 20",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Room 20",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint 20",
             "x": 15,
             "y": 15
           }
@@ -1032,6 +824,136 @@
       }
     ]    
   },
+  {
+    "name": "Room 21",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Room 21",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint 21",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 22",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Room 22",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint 22",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+            {
+              "map": "peppermint 22",
+              "x": 630,
+              "y": 57
+            }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 23",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Room 23",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint 23",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Room 24",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Room 24",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/2_way.png",
+          "chest_opened_img": "images/items/2_way_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint 24",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      }
+    ]    
+  },
+
+
+
+
+
+
 
 
 
@@ -1044,7 +966,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Mustard Mountain Boss",        
+      "name": "Enter Peppermint Palace Boss",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -1056,7 +978,7 @@
       "map_locations": 
       [
         {
-          "map": "mustard b",
+          "map": "peppermint b",
           "x": 15,
           "y": 15
         }
@@ -1064,19 +986,19 @@
         
     },
     {
-        "name": "Beat Kracko",        
+        "name": "Beat Wiz",        
         "access_rules": "",
         "visibility_rules": [
         ],
         "sections":[{
-          "chest_unopened_img": "images/bosses/kracko.png",
-          "chest_opened_img": "images/bosses/kracko_g.png"}],
+          "chest_unopened_img": "images/bosses/wiz.png",
+          "chest_opened_img": "images/bosses/wiz_g.png"}],
         "map_locations": 
         [
           {
-            "map": "mustard b",
-            "x": 100,
-            "y": 210
+            "map": "peppermint b",
+            "x": 120,
+            "y": 80
           }
           ]
           
@@ -1088,7 +1010,7 @@
     "access_rules":[""],
     "children": [ 
       {
-      "name": "Enter Mustard Mountain Chest",        
+      "name": "Enter Peppermint Palace Chest",        
       "access_rules": "",
       "visibility_rules": [
         "roomsanity_on",
@@ -1100,7 +1022,7 @@
       "map_locations": 
       [
         {
-          "map": "mustard c",
+          "map": "peppermint c",
           "x": 15,
           "y": 15
         }
@@ -1118,9 +1040,49 @@
         "map_locations": 
         [
           {
-            "map": "mustard c",
-            "x": 673,
-            "y": 129
+            "map": "peppermint c",
+            "x": 290,
+            "y": 500
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 1",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint c",
+            "x": 55,
+            "y": 55
+          }
+          ]
+          
+      },
+      {
+        "name": "Small Chest 2",
+        "access_rules": "",
+        "visibility_rules": [
+          
+        ],
+        "sections":[{
+          "name": "",
+          "chest_unopened_img": "images/items/chest_s.png",
+          "chest_opened_img": "images/items/chest_s_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint c",
+            "x": 161,
+            "y": 500
           }
           ]
           
@@ -1132,7 +1094,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Goal 1",        
+        "name": "Enter Peppermint Palace Goal 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1144,29 +1106,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard g1",
+            "map": "peppermint g1",
             "x": 15,
             "y": 15
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_items",
-          "ground_on"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard g1",
-            "x": 1335,
-            "y": 103
           }
           ]
           
@@ -1175,8 +1117,8 @@
         "name": "Reach The Goal!",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
           "chest_unopened_img": "images/items/goal.png",
@@ -1184,9 +1126,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard g1",
-            "x": 1375,
-            "y": 103
+            "map": "peppermint g1",
+            "x": 450,
+            "y": 450
           }
           ]
           
@@ -1198,7 +1140,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Goal 2",        
+        "name": "Enter Peppermint Palace Goal 2",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1210,7 +1152,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard g2",
+            "map": "peppermint g2",
             "x": 15,
             "y": 15
           }
@@ -1224,96 +1166,15 @@
           
         ],
         "sections":[{
+          "name": "",
           "chest_unopened_img": "images/items/chest_s.png",
           "chest_opened_img": "images/items/chest_s_g.png"}],
         "map_locations": 
         [
           {
-            "map": "mustard g2",
-            "x": 775,
-            "y": 55
-          }
-          ]
-          
-      },
-      {
-        "name": "Left 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-          
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard g2",
-            "x": 487,
-            "y": 134
-          }
-          ]
-          
-      },
-      {
-        "name": "Right 1-Up",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-          
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/1-up.png",
-          "chest_opened_img": "images/items/ground items/1-up_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard g2",
-            "x": 1624,
-            "y": 25
-          }
-          ]
-          
-      },
-      {
-        "name": "Battery",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/battery.png",
-          "chest_opened_img": "images/items/ground items/battery_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard g2",
-            "x": 840,
-            "y": 120
-          }
-          ]
-          
-      },
-      {
-        "name": "Max Tomato",
-        "access_rules": "",
-        "visibility_rules": [
-          "ground_on",
-          "ground_items"
-        ],
-        "sections":[{
-          "chest_unopened_img": "images/items/ground items/tomato.png",
-          "chest_opened_img": "images/items/ground items/tomato_g.png"}],
-        "map_locations": 
-        [
-          {
-            "map": "mustard g2",
-            "x": 1656,
-            "y": 25
+            "map": "peppermint g2",
+            "x": 905,
+            "y": 140
           }
           ]
           
@@ -1322,8 +1183,8 @@
         "name": "Reach The Goal!",
         "access_rules": "",
         "visibility_rules": [
-          "ground_on",
-          "ground_items"
+          "ground_items",
+          "ground_on"
         ],
         "sections":[{
           "chest_unopened_img": "images/items/goal.png",
@@ -1331,9 +1192,9 @@
         "map_locations": 
         [
           {
-            "map": "mustard g2",
-            "x": 1664,
-            "y": 135
+            "map": "peppermint g2",
+            "x": 160,
+            "y": 70
           }
           ]
           
@@ -1341,23 +1202,23 @@
     ]    
   },
   {
-    "name": "Hub",
+    "name": "Hub 1",
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Hub",        
+        "name": "Enter Peppermint Palace Hub 1",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
           "roomsanity"
         ],
         "sections":[{
-          "chest_unopened_img": "images/items/mustard hub.png",
-          "chest_opened_img": "images/items/mustard hub_g.png"}],
+          "chest_unopened_img": "images/items/peppermint hub 1.png",
+          "chest_opened_img": "images/items/peppermint hub 1_g.png"}],
         "map_locations": 
         [
           {
-            "map": "mustard h",
+            "map": "peppermint h1",
             "x": 15,
             "y": 15
           }
@@ -1369,15 +1230,67 @@
         "access_rules": "",
         "visibility_rules": [
         ],
-        "sections":[{
+        "sections":[
+          {
+          "name": "",
           "chest_unopened_img": "images/items/button.png",
-          "chest_opened_img": "images/items/button_g.png"}],
+          "chest_opened_img": "images/items/button_g.png"
+          }
+        ],
         "map_locations": 
         [
           {
-            "map": "mustard h",
+            "map": "peppermint h1",
             "x": 128,
-            "y": 50
+            "y": 105
+          }
+          ]
+          
+      }
+    ]    
+  },
+  {
+    "name": "Hub 2",
+    "access_rules":[""],
+    "children": [
+      {
+        "name": "Enter Peppermint Palace Hub 2",        
+        "access_rules": "",
+        "visibility_rules": [
+          "roomsanity_on",
+          "roomsanity"
+        ],
+        "sections":[{
+          "chest_unopened_img": "images/items/peppermint hub 2.png",
+          "chest_opened_img": "images/items/peppermint hub 2_g.png"}],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint h2",
+            "x": 15,
+            "y": 15
+          }
+          ]
+          
+      },
+      {
+        "name": "Large Switch",        
+        "access_rules": "",
+        "visibility_rules": [
+        ],
+        "sections":[
+          {
+          "name": "",
+          "chest_unopened_img": "images/items/button.png",
+          "chest_opened_img": "images/items/button_g.png"
+          }
+        ],
+        "map_locations": 
+        [
+          {
+            "map": "peppermint h2",
+            "x": 128,
+            "y": 105
           }
           ]
           
@@ -1389,7 +1302,7 @@
     "access_rules":[""],
     "children": [
       {
-        "name": "Enter Mustard Mountain Warp",        
+        "name": "Enter Peppermint Palace Warp",        
         "access_rules": "",
         "visibility_rules": [
           "roomsanity_on",
@@ -1401,7 +1314,7 @@
         "map_locations": 
         [
           {
-            "map": "mustard w",
+            "map": "peppermint w",
             "x": 15,
             "y": 15
           }
@@ -1410,6 +1323,7 @@
       }
     ]    
   }
+]
+}
 
-]}
 ]

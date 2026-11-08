@@ -16,7 +16,7 @@
             {
               "type": "group",
               "header": "Abilities/Items",
-              "dock": "center",
+              "dock": "top",
               "content": {
                 "type": "layout",
                 "v_alignment": "stretch",
@@ -26,7 +26,7 @@
             {
               "type": "group",
               "header": "Key Items",
-              "dock": "center",
+              "dock": "top",
               "content": {
                 "type": "layout",
                 "v_alignment": "stretch",
@@ -35,8 +35,18 @@
             },
             {
               "type": "group",
+              "header": "Hub Connections",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "v_alignment": "stretch",
+                "key": "hub"
+              }
+            },
+            {
+              "type": "group",
               "header": "Collection Room/Filler",
-              "dock": "center",
+              "dock": "top",
               "content": {
                 "type": "layout",
                 "v_alignment": "stretch",

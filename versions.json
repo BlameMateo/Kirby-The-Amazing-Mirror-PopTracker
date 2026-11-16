@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.4.0",
+      "download_url": "https://github.com/BlameMateo/Kirby-The-Amazing-Mirror-PopTracker/releases/download/v0.4.0/kirby_and_the_amazing_mirror.zip",
+      "sha256": "55a39cd00bf8e2fa8fc2fc7959b6821e84c6b883e46a93b84fface292582b9e6",
+      "changelog": [
+        "V0.4.0 See Github for release notes."
+      ]
+    },
+    {
       "package_version": "0.3.1",
       "download_url": "https://github.com/BlameMateo/Kirby-The-Amazing-Mirror-PopTracker/releases/download/v0.3.1/kirby_and_the_amazing_mirror.zip",
       "sha256": "79022f58cb80d49a1c7622cb052f50e827e46f1b67b477e15a3156ef26ab7462",
